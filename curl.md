@@ -1,0 +1,12 @@
+/usr/bin/curl
+/usr/share/doc/curl
+/usr/share/doc/curl/BUGS
+/usr/share/doc/curl/CHANGES
+/usr/share/doc/curl/FAQ
+/usr/share/doc/curl/FEATURES
+/usr/share/doc/curl/MANUAL
+/usr/share/doc/curl/README
+/usr/share/doc/curl/RESOURCES
+/usr/share/doc/curl/TODO
+/usr/share/doc/curl/TheArtOfHttpScripting
+/usr/share/man/man1/curl.1.gz

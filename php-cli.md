@@ -1,0 +1,15 @@
+/usr/bin/phar
+/usr/bin/phar.phar
+/usr/bin/php
+/usr/bin/php-cgi
+/usr/bin/phpize
+/usr/bin/zts-php
+/usr/share/doc/php-cli
+/usr/share/doc/php-cli/README
+/usr/share/doc/php-cli/README.FastCGI
+/usr/share/man/man1/phar.1.gz
+/usr/share/man/man1/phar.phar.1.gz
+/usr/share/man/man1/php-cgi.1.gz
+/usr/share/man/man1/php.1.gz
+/usr/share/man/man1/phpize.1.gz
+/usr/share/man/man1/zts-php.1.gz

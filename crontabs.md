@@ -1,0 +1,11 @@
+/etc/cron.daily
+/etc/cron.hourly
+/etc/cron.monthly
+/etc/cron.weekly
+/etc/crontab
+/etc/sysconfig/run-parts
+/usr/bin/run-parts
+/usr/share/licenses/crontabs
+/usr/share/licenses/crontabs/COPYING
+/usr/share/man/man4/crontabs.4.gz
+/usr/share/man/man4/run-parts.4.gz

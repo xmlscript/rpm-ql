@@ -1,0 +1,12 @@
+/usr/bin/pydoc3
+/usr/bin/pydoc3.4
+/usr/bin/python3
+/usr/bin/python3.4
+/usr/bin/python3.4m
+/usr/bin/pyvenv
+/usr/bin/pyvenv-3.4
+/usr/share/doc/python3
+/usr/share/doc/python3/LICENSE
+/usr/share/doc/python3/README
+/usr/share/man/man1/python3.1.gz
+/usr/share/man/man1/python3.4.1.gz

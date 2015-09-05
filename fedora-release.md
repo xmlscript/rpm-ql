@@ -1,0 +1,14 @@
+/etc/fedora-release
+/etc/issue
+/etc/issue.net
+/etc/os-release
+/etc/redhat-release
+/etc/system-release
+/etc/system-release-cpe
+/usr/lib/os-release
+/usr/lib/os.release.d
+/usr/lib/os.release.d/os-release-fedora
+/usr/lib/rpm/macros.d/macros.dist
+/usr/share/licenses/fedora-release
+/usr/share/licenses/fedora-release/Fedora-Legal-README.txt
+/usr/share/licenses/fedora-release/LICENSE

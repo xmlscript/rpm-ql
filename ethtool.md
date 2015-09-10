@@ -1,9 +1,0 @@
-/usr/sbin/ethtool  
-/usr/share/doc/ethtool  
-/usr/share/doc/ethtool/AUTHORS  
-/usr/share/doc/ethtool/COPYING  
-/usr/share/doc/ethtool/ChangeLog  
-/usr/share/doc/ethtool/LICENSE  
-/usr/share/doc/ethtool/NEWS  
-/usr/share/doc/ethtool/README  
-/usr/share/man/man8/ethtool.8.gz  

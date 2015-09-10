@@ -1,0 +1,11 @@
+/boot/efi/EFI/fedora  
+/boot/efi/EFI/fedora/fonts  
+/boot/efi/EFI/fedora/fonts/unicode.pf2  
+/boot/efi/EFI/fedora/gcdia32.efi  
+/boot/efi/EFI/fedora/grub.cfg  
+/boot/efi/EFI/fedora/grubenv  
+/boot/efi/EFI/fedora/grubia32.efi  
+/boot/grub2/grubenv  
+/etc/grub2-efi.cfg  
+/usr/share/doc/grub2-efi  
+/usr/share/doc/grub2-efi/COPYING  

@@ -1,0 +1,16 @@
+/usr/lib/libgmp.so.10  
+/usr/lib/libgmp.so.10.2.0  
+/usr/lib/libgmpxx.so.4  
+/usr/lib/libgmpxx.so.4.4.0  
+/usr/lib/sse2/libgmp.so.10  
+/usr/lib/sse2/libgmp.so.10.2.0  
+/usr/lib/sse2/libgmpxx.so.4  
+/usr/lib/sse2/libgmpxx.so.4.4.0  
+/usr/share/doc/gmp  
+/usr/share/doc/gmp/NEWS  
+/usr/share/doc/gmp/README  
+/usr/share/licenses/gmp  
+/usr/share/licenses/gmp/COPYING  
+/usr/share/licenses/gmp/COPYING.LESSERv3  
+/usr/share/licenses/gmp/COPYINGv2  
+/usr/share/licenses/gmp/COPYINGv3  

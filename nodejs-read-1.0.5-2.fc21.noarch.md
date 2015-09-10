@@ -1,0 +1,11 @@
+/usr/lib/node\_modules/read  
+/usr/lib/node\_modules/read/lib  
+/usr/lib/node\_modules/read/lib/read.js  
+/usr/lib/node\_modules/read/node\_modules  
+/usr/lib/node\_modules/read/node\_modules/mute-stream  
+/usr/lib/node\_modules/read/package.json  
+/usr/share/doc/nodejs-read  
+/usr/share/doc/nodejs-read/LICENCE  
+/usr/share/doc/nodejs-read/README.md  
+/usr/share/doc/nodejs-read/example  
+/usr/share/doc/nodejs-read/example/example.js  

@@ -1,0 +1,10 @@
+/etc/vdpau\_wrapper.cfg  
+/usr/lib/libvdpau.so.1  
+/usr/lib/libvdpau.so.1.0.0  
+/usr/lib/vdpau  
+/usr/lib/vdpau/libvdpau\_trace.so  
+/usr/lib/vdpau/libvdpau\_trace.so.1  
+/usr/lib/vdpau/libvdpau\_trace.so.1.0.0  
+/usr/share/doc/libvdpau  
+/usr/share/doc/libvdpau/AUTHORS  
+/usr/share/doc/libvdpau/COPYING  

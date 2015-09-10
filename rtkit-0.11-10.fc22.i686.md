@@ -1,0 +1,14 @@
+/etc/dbus-1/system.d/org.freedesktop.RealtimeKit1.conf  
+/usr/lib/systemd/system/rtkit-daemon.service  
+/usr/libexec/rtkit-daemon  
+/usr/sbin/rtkitctl  
+/usr/share/dbus-1/interfaces/org.freedesktop.RealtimeKit1.xml  
+/usr/share/dbus-1/system-services/org.freedesktop.RealtimeKit1.service  
+/usr/share/doc/rtkit  
+/usr/share/doc/rtkit/GPL  
+/usr/share/doc/rtkit/LICENSE  
+/usr/share/doc/rtkit/README  
+/usr/share/doc/rtkit/rtkit.c  
+/usr/share/doc/rtkit/rtkit.h  
+/usr/share/man/man8/rtkitctl.8.gz  
+/usr/share/polkit-1/actions/org.freedesktop.RealtimeKit1.policy  

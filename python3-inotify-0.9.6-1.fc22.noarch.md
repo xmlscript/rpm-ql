@@ -1,0 +1,13 @@
+/usr/bin/python3-pyinotify  
+/usr/lib/python3.4/site-packages/\_\_pycache\_\_/pyinotify.cpython-34.pyc  
+/usr/lib/python3.4/site-packages/\_\_pycache\_\_/pyinotify.cpython-34.pyo  
+/usr/lib/python3.4/site-packages/pyinotify-0.9.6-py3.4.egg-info  
+/usr/lib/python3.4/site-packages/pyinotify-0.9.6-py3.4.egg-info/PKG-INFO  
+/usr/lib/python3.4/site-packages/pyinotify-0.9.6-py3.4.egg-info/SOURCES.txt  
+/usr/lib/python3.4/site-packages/pyinotify-0.9.6-py3.4.egg-info/dependency\_links.txt  
+/usr/lib/python3.4/site-packages/pyinotify-0.9.6-py3.4.egg-info/top\_level.txt  
+/usr/lib/python3.4/site-packages/pyinotify.py  
+/usr/share/doc/python3-inotify  
+/usr/share/doc/python3-inotify/ACKS  
+/usr/share/doc/python3-inotify/COPYING  
+/usr/share/doc/python3-inotify/README.md  

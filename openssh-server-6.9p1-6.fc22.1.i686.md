@@ -1,0 +1,17 @@
+/etc/pam.d/sshd  
+/etc/ssh/sshd\_config  
+/etc/sysconfig/sshd  
+/usr/lib/fipscheck/sshd.hmac  
+/usr/lib/systemd/system/sshd-keygen.service  
+/usr/lib/systemd/system/sshd.service  
+/usr/lib/systemd/system/sshd.socket  
+/usr/lib/systemd/system/sshd@.service  
+/usr/lib/tmpfiles.d/openssh.conf  
+/usr/libexec/openssh/sftp-server  
+/usr/sbin/sshd  
+/usr/sbin/sshd-keygen  
+/usr/share/man/man5/moduli.5.gz  
+/usr/share/man/man5/sshd\_config.5.gz  
+/usr/share/man/man8/sftp-server.8.gz  
+/usr/share/man/man8/sshd.8.gz  
+/var/empty/sshd  

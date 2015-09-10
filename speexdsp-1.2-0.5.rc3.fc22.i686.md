@@ -1,0 +1,10 @@
+/usr/lib/libspeexdsp.so.1  
+/usr/lib/libspeexdsp.so.1.5.0  
+/usr/share/doc/speexdsp  
+/usr/share/doc/speexdsp/AUTHORS  
+/usr/share/doc/speexdsp/COPYING  
+/usr/share/doc/speexdsp/ChangeLog  
+/usr/share/doc/speexdsp/NEWS  
+/usr/share/doc/speexdsp/README  
+/usr/share/doc/speexdsp/TODO  
+/usr/share/doc/speexdsp/manual.pdf  

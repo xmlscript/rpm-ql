@@ -1,0 +1,9 @@
+/usr/bin/bs2bconvert  
+/usr/bin/bs2bstream  
+/usr/lib/libbs2b.so.0  
+/usr/lib/libbs2b.so.0.0.0  
+/usr/share/doc/libbs2b  
+/usr/share/doc/libbs2b/AUTHORS  
+/usr/share/doc/libbs2b/COPYING  
+/usr/share/doc/libbs2b/ChangeLog  
+/usr/share/doc/libbs2b/README  

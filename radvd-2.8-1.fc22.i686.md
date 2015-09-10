@@ -1,0 +1,17 @@
+/etc/radvd.conf  
+/etc/sysconfig/radvd  
+/usr/lib/systemd/system/radvd.service  
+/usr/lib/tmpfiles.d/radvd.conf  
+/usr/sbin/radvd  
+/usr/sbin/radvdump  
+/usr/share/doc/radvd  
+/usr/share/doc/radvd/CHANGES  
+/usr/share/doc/radvd/COPYRIGHT  
+/usr/share/doc/radvd/INTRO.html  
+/usr/share/doc/radvd/README  
+/usr/share/doc/radvd/TODO  
+/usr/share/doc/radvd/radvd.conf.example  
+/usr/share/man/man5/radvd.conf.5.gz  
+/usr/share/man/man8/radvd.8.gz  
+/usr/share/man/man8/radvdump.8.gz  
+/var/run/radvd  

@@ -1,0 +1,10 @@
+/etc/fonts/conf.d/30-0-google-crosextra-caladea-fontconfig.conf  
+/etc/fonts/conf.d/62-google-crosextra-caladea-fontconfig.conf  
+/usr/share/appdata/google-crosextra-caladea.metainfo.xml  
+/usr/share/fontconfig/conf.avail/30-0-google-crosextra-caladea-fontconfig.conf  
+/usr/share/fontconfig/conf.avail/62-google-crosextra-caladea-fontconfig.conf  
+/usr/share/fonts/google-crosextra-caladea  
+/usr/share/fonts/google-crosextra-caladea/Caladea-Bold.ttf  
+/usr/share/fonts/google-crosextra-caladea/Caladea-BoldItalic.ttf  
+/usr/share/fonts/google-crosextra-caladea/Caladea-Italic.ttf  
+/usr/share/fonts/google-crosextra-caladea/Caladea-Regular.ttf  

@@ -1,0 +1,13 @@
+/usr/lib/libORBit-2.so.0  
+/usr/lib/libORBit-2.so.0.1.0  
+/usr/lib/libORBit-imodule-2.so.0  
+/usr/lib/libORBit-imodule-2.so.0.0.0  
+/usr/lib/libORBitCosNaming-2.so.0  
+/usr/lib/libORBitCosNaming-2.so.0.1.0  
+/usr/lib/orbit-2.0  
+/usr/lib/orbit-2.0/Everything\_module.so  
+/usr/share/doc/ORBit2  
+/usr/share/doc/ORBit2/AUTHORS  
+/usr/share/doc/ORBit2/COPYING  
+/usr/share/doc/ORBit2/README  
+/usr/share/doc/ORBit2/TODO  

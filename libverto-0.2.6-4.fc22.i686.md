@@ -1,0 +1,9 @@
+/usr/lib/libverto.so.1  
+/usr/lib/libverto.so.1.0.0  
+/usr/share/doc/libverto  
+/usr/share/doc/libverto/AUTHORS  
+/usr/share/doc/libverto/ChangeLog  
+/usr/share/doc/libverto/NEWS  
+/usr/share/doc/libverto/README  
+/usr/share/licenses/libverto  
+/usr/share/licenses/libverto/COPYING  

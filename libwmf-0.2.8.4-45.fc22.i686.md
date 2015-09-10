@@ -1,0 +1,12 @@
+/usr/bin/libwmf-fontmap  
+/usr/bin/wmf2eps  
+/usr/bin/wmf2fig  
+/usr/bin/wmf2gd  
+/usr/bin/wmf2svg  
+/usr/bin/wmf2x  
+/usr/lib/gdk-pixbuf-2.0/2.10.0/loaders/io-wmf.so  
+/usr/lib/libwmf-0.2.so.7  
+/usr/lib/libwmf-0.2.so.7.1.0  
+/usr/share/libwmf  
+/usr/share/libwmf/fonts  
+/usr/share/libwmf/fonts/fontmap  

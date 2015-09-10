@@ -1,0 +1,9 @@
+/etc/pango  
+/etc/pango/pangox.aliases  
+/usr/lib/libpangox-1.0.so.0  
+/usr/lib/libpangox-1.0.so.0.0.0  
+/usr/share/doc/pangox-compat  
+/usr/share/doc/pangox-compat/AUTHORS  
+/usr/share/doc/pangox-compat/COPYING  
+/usr/share/doc/pangox-compat/NEWS  
+/usr/share/doc/pangox-compat/README  

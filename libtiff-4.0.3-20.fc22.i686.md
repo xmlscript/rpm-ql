@@ -1,0 +1,9 @@
+/usr/lib/libtiff.so.5  
+/usr/lib/libtiff.so.5.2.0  
+/usr/lib/libtiffxx.so.5  
+/usr/lib/libtiffxx.so.5.2.0  
+/usr/share/doc/libtiff  
+/usr/share/doc/libtiff/COPYRIGHT  
+/usr/share/doc/libtiff/README  
+/usr/share/doc/libtiff/RELEASE-DATE  
+/usr/share/doc/libtiff/VERSION  

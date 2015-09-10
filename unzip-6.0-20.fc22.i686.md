@@ -1,0 +1,14 @@
+/usr/bin/funzip  
+/usr/bin/unzip  
+/usr/bin/unzipsfx  
+/usr/bin/zipgrep  
+/usr/bin/zipinfo  
+/usr/share/doc/unzip  
+/usr/share/doc/unzip/BUGS  
+/usr/share/doc/unzip/LICENSE  
+/usr/share/doc/unzip/README  
+/usr/share/man/man1/funzip.1.gz  
+/usr/share/man/man1/unzip.1.gz  
+/usr/share/man/man1/unzipsfx.1.gz  
+/usr/share/man/man1/zipgrep.1.gz  
+/usr/share/man/man1/zipinfo.1.gz  

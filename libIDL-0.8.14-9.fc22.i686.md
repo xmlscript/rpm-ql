@@ -1,0 +1,9 @@
+/usr/lib/libIDL-2.so.0  
+/usr/lib/libIDL-2.so.0.0.0  
+/usr/share/doc/libIDL  
+/usr/share/doc/libIDL/AUTHORS  
+/usr/share/doc/libIDL/BUGS  
+/usr/share/doc/libIDL/COPYING  
+/usr/share/doc/libIDL/MAINTAINERS  
+/usr/share/doc/libIDL/NEWS  
+/usr/share/doc/libIDL/README  

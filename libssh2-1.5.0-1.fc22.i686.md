@@ -1,0 +1,10 @@
+/usr/lib/libssh2.so.1  
+/usr/lib/libssh2.so.1.0.1  
+/usr/share/doc/libssh2  
+/usr/share/doc/libssh2/AUTHORS  
+/usr/share/doc/libssh2/ChangeLog  
+/usr/share/doc/libssh2/NEWS  
+/usr/share/doc/libssh2/README  
+/usr/share/doc/libssh2/RELEASE-NOTES  
+/usr/share/licenses/libssh2  
+/usr/share/licenses/libssh2/COPYING  

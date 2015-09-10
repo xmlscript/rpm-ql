@@ -1,0 +1,17 @@
+/usr/lib/libmpfr.so.4  
+/usr/lib/libmpfr.so.4.1.2  
+/usr/share/doc/mpfr  
+/usr/share/doc/mpfr/AUTHORS  
+/usr/share/doc/mpfr/BUGS  
+/usr/share/doc/mpfr/COPYING  
+/usr/share/doc/mpfr/COPYING.LESSER  
+/usr/share/doc/mpfr/FAQ.html  
+/usr/share/doc/mpfr/NEWS  
+/usr/share/doc/mpfr/README  
+/usr/share/doc/mpfr/TODO  
+/usr/share/doc/mpfr/examples  
+/usr/share/doc/mpfr/examples/ReadMe  
+/usr/share/doc/mpfr/examples/divworst.c  
+/usr/share/doc/mpfr/examples/rndo-add.c  
+/usr/share/doc/mpfr/examples/sample.c  
+/usr/share/doc/mpfr/examples/version.c  

@@ -1,0 +1,13 @@
+/etc/ppp/peers/wvdial  
+/etc/wvdial.conf  
+/usr/bin/wvdial  
+/usr/bin/wvdialconf  
+/usr/share/doc/wvdial  
+/usr/share/doc/wvdial/CHANGES  
+/usr/share/doc/wvdial/COPYING.LIB  
+/usr/share/doc/wvdial/FAQ  
+/usr/share/doc/wvdial/README  
+/usr/share/doc/wvdial/TODO  
+/usr/share/man/man1/wvdial.1.gz  
+/usr/share/man/man1/wvdialconf.1.gz  
+/usr/share/man/man5/wvdial.conf.5.gz  

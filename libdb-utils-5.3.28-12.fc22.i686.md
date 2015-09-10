@@ -1,0 +1,15 @@
+/usr/bin/db\_archive  
+/usr/bin/db\_checkpoint  
+/usr/bin/db\_deadlock  
+/usr/bin/db\_dump  
+/usr/bin/db\_dump185  
+/usr/bin/db\_hotbackup  
+/usr/bin/db\_load  
+/usr/bin/db\_log\_verify  
+/usr/bin/db\_printlog  
+/usr/bin/db\_recover  
+/usr/bin/db\_replicate  
+/usr/bin/db\_stat  
+/usr/bin/db\_tuner  
+/usr/bin/db\_upgrade  
+/usr/bin/db\_verify  

@@ -1,0 +1,12 @@
+/etc/X11/fontpath.d/liberation-fonts  
+/usr/share/appdata/liberation.metainfo.xml  
+/usr/share/doc/liberation-fonts-common  
+/usr/share/doc/liberation-fonts-common/AUTHORS  
+/usr/share/doc/liberation-fonts-common/COPYING  
+/usr/share/doc/liberation-fonts-common/ChangeLog  
+/usr/share/doc/liberation-fonts-common/License.txt  
+/usr/share/doc/liberation-fonts-common/README  
+/usr/share/doc/liberation-fonts-common/TODO  
+/usr/share/fonts/liberation  
+/usr/share/fonts/liberation/fonts.dir  
+/usr/share/fonts/liberation/fonts.scale  

@@ -1,0 +1,14 @@
+/usr/bin/nopt  
+/usr/lib/node\_modules/nopt  
+/usr/lib/node\_modules/nopt/bin  
+/usr/lib/node\_modules/nopt/bin/nopt.js  
+/usr/lib/node\_modules/nopt/lib  
+/usr/lib/node\_modules/nopt/lib/nopt.js  
+/usr/lib/node\_modules/nopt/node\_modules  
+/usr/lib/node\_modules/nopt/node\_modules/abbrev  
+/usr/lib/node\_modules/nopt/package.json  
+/usr/share/doc/nodejs-nopt  
+/usr/share/doc/nodejs-nopt/LICENSE  
+/usr/share/doc/nodejs-nopt/README.md  
+/usr/share/doc/nodejs-nopt/examples  
+/usr/share/doc/nodejs-nopt/examples/my-program.js  

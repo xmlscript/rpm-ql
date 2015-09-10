@@ -1,0 +1,15 @@
+/usr/lib/libcap.so.2  
+/usr/lib/libcap.so.2.24  
+/usr/lib/security/pam\_cap.so  
+/usr/sbin/capsh  
+/usr/sbin/getcap  
+/usr/sbin/getpcaps  
+/usr/sbin/setcap  
+/usr/share/doc/libcap  
+/usr/share/doc/libcap/capability.notes  
+/usr/share/licenses/libcap  
+/usr/share/licenses/libcap/License  
+/usr/share/man/man1/capsh.1.gz  
+/usr/share/man/man8/getcap.8.gz  
+/usr/share/man/man8/getpcaps.8.gz  
+/usr/share/man/man8/setcap.8.gz  

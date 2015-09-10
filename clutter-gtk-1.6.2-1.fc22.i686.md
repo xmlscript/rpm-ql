@@ -1,0 +1,9 @@
+/usr/lib/girepository-1.0/GtkClutter-1.0.typelib  
+/usr/lib/libclutter-gtk-1.0.so.0  
+/usr/lib/libclutter-gtk-1.0.so.0.600.2  
+/usr/share/doc/clutter-gtk  
+/usr/share/doc/clutter-gtk/COPYING  
+/usr/share/doc/clutter-gtk/NEWS  
+/usr/share/locale/ja/LC\_MESSAGES/cluttergtk-1.0.mo  
+/usr/share/locale/pl/LC\_MESSAGES/cluttergtk-1.0.mo  
+/usr/share/locale/zh\_CN/LC\_MESSAGES/cluttergtk-1.0.mo  

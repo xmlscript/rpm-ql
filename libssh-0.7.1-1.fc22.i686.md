@@ -1,0 +1,10 @@
+/usr/lib/libssh.so.4  
+/usr/lib/libssh.so.4.4.0  
+/usr/lib/libssh\_threads.so.4  
+/usr/lib/libssh\_threads.so.4.4.0  
+/usr/share/doc/libssh  
+/usr/share/doc/libssh/AUTHORS  
+/usr/share/doc/libssh/BSD  
+/usr/share/doc/libssh/COPYING  
+/usr/share/doc/libssh/ChangeLog  
+/usr/share/doc/libssh/README  

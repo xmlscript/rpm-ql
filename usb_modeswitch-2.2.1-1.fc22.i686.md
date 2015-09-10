@@ -1,0 +1,11 @@
+/etc/usb\_modeswitch.conf  
+/usr/lib/udev/usb\_modeswitch  
+/usr/sbin/usb\_modeswitch  
+/usr/sbin/usb\_modeswitch\_dispatcher  
+/usr/share/doc/usb\_modeswitch  
+/usr/share/doc/usb\_modeswitch/COPYING  
+/usr/share/doc/usb\_modeswitch/ChangeLog  
+/usr/share/doc/usb\_modeswitch/README  
+/usr/share/doc/usb\_modeswitch/device\_reference.txt  
+/usr/share/man/man1/usb\_modeswitch.1.gz  
+/usr/share/man/man1/usb\_modeswitch\_dispatcher.1.gz  

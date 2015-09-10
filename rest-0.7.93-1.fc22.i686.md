@@ -1,0 +1,11 @@
+/usr/lib/girepository-1.0/Rest-0.7.typelib  
+/usr/lib/girepository-1.0/RestExtras-0.7.typelib  
+/usr/lib/librest-0.7.so.0  
+/usr/lib/librest-0.7.so.0.0.0  
+/usr/lib/librest-extras-0.7.so.0  
+/usr/lib/librest-extras-0.7.so.0.0.0  
+/usr/share/doc/rest  
+/usr/share/doc/rest/AUTHORS  
+/usr/share/doc/rest/README  
+/usr/share/licenses/rest  
+/usr/share/licenses/rest/COPYING  

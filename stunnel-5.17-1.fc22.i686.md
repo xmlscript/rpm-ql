@@ -1,0 +1,16 @@
+/etc/stunnel  
+/usr/bin/stunnel  
+/usr/lib/stunnel  
+/usr/lib/stunnel/libstunnel.so  
+/usr/lib/systemd/system/stunnel.service  
+/usr/share/doc/stunnel/Certificate-Creation  
+/usr/share/doc/stunnel/VNC\_StunnelHOWTO.html  
+/usr/share/doc/stunnel/faq.stunnel-2.html  
+/usr/share/doc/stunnel/pop3-redirect.xinetd  
+/usr/share/doc/stunnel/sfinger.xinetd  
+/usr/share/doc/stunnel/stunnel-pop3s-client.conf  
+/usr/share/doc/stunnel/stunnel-sfinger.conf  
+/usr/share/doc/stunnel/stunnel.conf-sample  
+/usr/share/doc/stunnel/tworzenie\_certyfikatow.html  
+/usr/share/man/man8/stunnel.8.gz  
+/usr/share/man/pl/man8/stunnel.8.gz  

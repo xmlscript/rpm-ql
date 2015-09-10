@@ -1,0 +1,9 @@
+/usr/share/doc/perl-Term-ANSIColor  
+/usr/share/doc/perl-Term-ANSIColor/LICENSE  
+/usr/share/doc/perl-Term-ANSIColor/NEWS  
+/usr/share/doc/perl-Term-ANSIColor/README  
+/usr/share/doc/perl-Term-ANSIColor/examples  
+/usr/share/doc/perl-Term-ANSIColor/examples/generate-colors  
+/usr/share/man/man3/Term::ANSIColor.3pm.gz  
+/usr/share/perl5/vendor\_perl/Term  
+/usr/share/perl5/vendor\_perl/Term/ANSIColor.pm  

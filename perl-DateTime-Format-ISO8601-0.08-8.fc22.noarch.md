@@ -1,0 +1,10 @@
+/usr/share/doc/perl-DateTime-Format-ISO8601  
+/usr/share/doc/perl-DateTime-Format-ISO8601/Changes  
+/usr/share/doc/perl-DateTime-Format-ISO8601/LICENSE  
+/usr/share/doc/perl-DateTime-Format-ISO8601/README  
+/usr/share/doc/perl-DateTime-Format-ISO8601/Todo  
+/usr/share/man/man3/DateTime::Format::ISO8601.3pm.gz  
+/usr/share/perl5/vendor\_perl/DateTime  
+/usr/share/perl5/vendor\_perl/DateTime/Format  
+/usr/share/perl5/vendor\_perl/DateTime/Format/ISO8601.pm  
+/usr/share/perl5/vendor\_perl/DateTime/Format/ISO8601.pod  

@@ -1,0 +1,11 @@
+/usr/lib/libglade  
+/usr/lib/libglade-2.0.so.0  
+/usr/lib/libglade-2.0.so.0.0.7  
+/usr/lib/libglade/2.0  
+/usr/share/doc/libglade2  
+/usr/share/doc/libglade2/AUTHORS  
+/usr/share/doc/libglade2/COPYING  
+/usr/share/doc/libglade2/NEWS  
+/usr/share/doc/libglade2/README  
+/usr/share/xml/libglade  
+/usr/share/xml/libglade/glade-2.0.dtd  

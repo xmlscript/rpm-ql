@@ -1,0 +1,10 @@
+/usr/include/zconf.h  
+/usr/include/zlib.h  
+/usr/lib/libz.so  
+/usr/lib/pkgconfig/zlib.pc  
+/usr/share/doc/zlib-devel  
+/usr/share/doc/zlib-devel/algorithm.txt  
+/usr/share/doc/zlib-devel/example.c  
+/usr/share/licenses/zlib-devel  
+/usr/share/licenses/zlib-devel/README  
+/usr/share/man/man3/zlib.3.gz  

@@ -1,0 +1,14 @@
+/usr/lib/node\_modules/asn1  
+/usr/lib/node\_modules/asn1/lib  
+/usr/lib/node\_modules/asn1/lib/ber  
+/usr/lib/node\_modules/asn1/lib/ber/errors.js  
+/usr/lib/node\_modules/asn1/lib/ber/index.js  
+/usr/lib/node\_modules/asn1/lib/ber/reader.js  
+/usr/lib/node\_modules/asn1/lib/ber/types.js  
+/usr/lib/node\_modules/asn1/lib/ber/writer.js  
+/usr/lib/node\_modules/asn1/lib/index.js  
+/usr/lib/node\_modules/asn1/node\_modules  
+/usr/lib/node\_modules/asn1/package.json  
+/usr/share/doc/nodejs-asn1  
+/usr/share/doc/nodejs-asn1/LICENSE  
+/usr/share/doc/nodejs-asn1/README.md  

@@ -1,0 +1,12 @@
+/usr/lib/node\_modules/boom  
+/usr/lib/node\_modules/boom/index.js  
+/usr/lib/node\_modules/boom/lib  
+/usr/lib/node\_modules/boom/lib/index.js  
+/usr/lib/node\_modules/boom/node\_modules  
+/usr/lib/node\_modules/boom/node\_modules/hoek  
+/usr/lib/node\_modules/boom/package.json  
+/usr/share/doc/nodejs-boom  
+/usr/share/doc/nodejs-boom/LICENSE  
+/usr/share/doc/nodejs-boom/README.md  
+/usr/share/doc/nodejs-boom/images  
+/usr/share/doc/nodejs-boom/images/boom.png  

@@ -1,0 +1,11 @@
+/usr/lib/perl5/vendor\_perl/Compress  
+/usr/lib/perl5/vendor\_perl/Compress/Raw  
+/usr/lib/perl5/vendor\_perl/Compress/Raw/Bzip2.pm  
+/usr/lib/perl5/vendor\_perl/auto/Compress  
+/usr/lib/perl5/vendor\_perl/auto/Compress/Raw  
+/usr/lib/perl5/vendor\_perl/auto/Compress/Raw/Bzip2  
+/usr/lib/perl5/vendor\_perl/auto/Compress/Raw/Bzip2/Bzip2.so  
+/usr/share/doc/perl-Compress-Raw-Bzip2  
+/usr/share/doc/perl-Compress-Raw-Bzip2/Changes  
+/usr/share/doc/perl-Compress-Raw-Bzip2/README  
+/usr/share/man/man3/Compress::Raw::Bzip2.3pm.gz  

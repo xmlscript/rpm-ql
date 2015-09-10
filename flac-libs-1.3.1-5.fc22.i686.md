@@ -1,0 +1,11 @@
+/usr/lib/libFLAC++.so.6  
+/usr/lib/libFLAC++.so.6.3.0  
+/usr/lib/libFLAC.so.8  
+/usr/lib/libFLAC.so.8.3.0  
+/usr/share/doc/flac-libs  
+/usr/share/doc/flac-libs/AUTHORS  
+/usr/share/doc/flac-libs/COPYING.FDL  
+/usr/share/doc/flac-libs/COPYING.GPL  
+/usr/share/doc/flac-libs/COPYING.LGPL  
+/usr/share/doc/flac-libs/COPYING.Xiph  
+/usr/share/doc/flac-libs/README  

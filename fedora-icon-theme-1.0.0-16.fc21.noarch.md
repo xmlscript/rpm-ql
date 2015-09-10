@@ -1,0 +1,13 @@
+/usr/share/doc/fedora-icon-theme  
+/usr/share/doc/fedora-icon-theme/AUTHORS  
+/usr/share/doc/fedora-icon-theme/COPYING  
+/usr/share/icons/Fedora  
+/usr/share/icons/Fedora/16x16  
+/usr/share/icons/Fedora/16x16/apps  
+/usr/share/icons/Fedora/24x24  
+/usr/share/icons/Fedora/24x24/apps  
+/usr/share/icons/Fedora/32x32  
+/usr/share/icons/Fedora/32x32/apps  
+/usr/share/icons/Fedora/48x48  
+/usr/share/icons/Fedora/48x48/apps  
+/usr/share/icons/Fedora/index.theme  

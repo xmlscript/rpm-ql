@@ -1,0 +1,11 @@
+/usr/lib/libcmis-0.5.so.5  
+/usr/lib/libcmis-0.5.so.5.0.0  
+/usr/lib/libcmis-c-0.5.so.5  
+/usr/lib/libcmis-c-0.5.so.5.0.0  
+/usr/share/doc/libcmis  
+/usr/share/doc/libcmis/AUTHORS  
+/usr/share/doc/libcmis/COPYING.GPL  
+/usr/share/doc/libcmis/COPYING.LGPL  
+/usr/share/doc/libcmis/COPYING.MPL  
+/usr/share/doc/libcmis/NEWS  
+/usr/share/doc/libcmis/README  

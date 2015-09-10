@@ -1,0 +1,9 @@
+/usr/bin/convert-dtsv0  
+/usr/bin/dtc  
+/usr/bin/dtdiff  
+/usr/bin/fdtdump  
+/usr/bin/fdtget  
+/usr/bin/fdtput  
+/usr/share/doc/dtc  
+/usr/share/doc/dtc/GPL  
+/usr/share/doc/dtc/manual.txt  

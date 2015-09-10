@@ -1,0 +1,11 @@
+/usr/lib/libustr-1.0.so.1  
+/usr/lib/libustr-1.0.so.1.0.4  
+/usr/share/doc/ustr  
+/usr/share/doc/ustr/ChangeLog  
+/usr/share/doc/ustr/NEWS  
+/usr/share/doc/ustr/README  
+/usr/share/licenses/ustr  
+/usr/share/licenses/ustr/LICENSE  
+/usr/share/licenses/ustr/LICENSE\_BSD  
+/usr/share/licenses/ustr/LICENSE\_LGPL  
+/usr/share/licenses/ustr/LICENSE\_MIT  

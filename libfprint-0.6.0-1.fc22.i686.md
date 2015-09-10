@@ -1,0 +1,10 @@
+/usr/lib/libfprint.so.0  
+/usr/lib/libfprint.so.0.0.0  
+/usr/lib/udev/rules.d/60-fprint-autosuspend.rules  
+/usr/share/doc/libfprint  
+/usr/share/doc/libfprint/AUTHORS  
+/usr/share/doc/libfprint/COPYING  
+/usr/share/doc/libfprint/NEWS  
+/usr/share/doc/libfprint/README  
+/usr/share/doc/libfprint/THANKS  
+/usr/share/doc/libfprint/TODO  

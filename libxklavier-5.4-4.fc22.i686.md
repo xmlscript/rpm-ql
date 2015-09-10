@@ -1,0 +1,9 @@
+/usr/lib/girepository-1.0  
+/usr/lib/girepository-1.0/Xkl-1.0.typelib  
+/usr/lib/libxklavier.so.16  
+/usr/lib/libxklavier.so.16.4.0  
+/usr/share/doc/libxklavier  
+/usr/share/doc/libxklavier/AUTHORS  
+/usr/share/doc/libxklavier/COPYING.LIB  
+/usr/share/doc/libxklavier/NEWS  
+/usr/share/doc/libxklavier/README  

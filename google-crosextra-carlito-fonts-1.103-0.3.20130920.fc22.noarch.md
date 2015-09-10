@@ -1,0 +1,12 @@
+/etc/fonts/conf.d/30-0-google-crosextra-carlito-fontconfig.conf  
+/etc/fonts/conf.d/62-google-crosextra-carlito-fontconfig.conf  
+/usr/share/appdata/google-crosextra-carlito.metainfo.xml  
+/usr/share/doc/google-crosextra-carlito-fonts  
+/usr/share/doc/google-crosextra-carlito-fonts/LICENSE  
+/usr/share/fontconfig/conf.avail/30-0-google-crosextra-carlito-fontconfig.conf  
+/usr/share/fontconfig/conf.avail/62-google-crosextra-carlito-fontconfig.conf  
+/usr/share/fonts/google-crosextra-carlito  
+/usr/share/fonts/google-crosextra-carlito/Carlito-Bold.ttf  
+/usr/share/fonts/google-crosextra-carlito/Carlito-BoldItalic.ttf  
+/usr/share/fonts/google-crosextra-carlito/Carlito-Italic.ttf  
+/usr/share/fonts/google-crosextra-carlito/Carlito-Regular.ttf  

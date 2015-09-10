@@ -1,0 +1,13 @@
+/usr/lib/node\_modules/promzard  
+/usr/lib/node\_modules/promzard/package.json  
+/usr/lib/node\_modules/promzard/promzard.js  
+/usr/share/doc/nodejs-promzard  
+/usr/share/doc/nodejs-promzard/README.md  
+/usr/share/doc/nodejs-promzard/example  
+/usr/share/doc/nodejs-promzard/example/index.js  
+/usr/share/doc/nodejs-promzard/example/npm-init  
+/usr/share/doc/nodejs-promzard/example/npm-init/README.md  
+/usr/share/doc/nodejs-promzard/example/npm-init/init-input.js  
+/usr/share/doc/nodejs-promzard/example/npm-init/init.js  
+/usr/share/doc/nodejs-promzard/example/npm-init/package.json  
+/usr/share/doc/nodejs-promzard/example/substack-input.js  

@@ -1,0 +1,11 @@
+/usr/lib/python3.4/site-packages/SSSDConfig  
+/usr/lib/python3.4/site-packages/SSSDConfig-1.13.0-py3.4.egg-info  
+/usr/lib/python3.4/site-packages/SSSDConfig/\_\_init\_\_.py  
+/usr/lib/python3.4/site-packages/SSSDConfig/\_\_pycache\_\_/\_\_init\_\_.cpython-34.pyc  
+/usr/lib/python3.4/site-packages/SSSDConfig/\_\_pycache\_\_/\_\_init\_\_.cpython-34.pyo  
+/usr/lib/python3.4/site-packages/SSSDConfig/\_\_pycache\_\_/ipachangeconf.cpython-34.pyc  
+/usr/lib/python3.4/site-packages/SSSDConfig/\_\_pycache\_\_/ipachangeconf.cpython-34.pyo  
+/usr/lib/python3.4/site-packages/SSSDConfig/\_\_pycache\_\_/sssd\_upgrade\_config.cpython-34.pyc  
+/usr/lib/python3.4/site-packages/SSSDConfig/\_\_pycache\_\_/sssd\_upgrade\_config.cpython-34.pyo  
+/usr/lib/python3.4/site-packages/SSSDConfig/ipachangeconf.py  
+/usr/lib/python3.4/site-packages/SSSDConfig/sssd\_upgrade\_config.py  

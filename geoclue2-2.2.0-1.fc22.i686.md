@@ -1,0 +1,11 @@
+/etc/dbus-1/system.d/org.freedesktop.GeoClue2.Agent.conf  
+/etc/dbus-1/system.d/org.freedesktop.GeoClue2.conf  
+/etc/geoclue  
+/etc/geoclue/geoclue.conf  
+/usr/lib/systemd/system/geoclue.service  
+/usr/libexec/geoclue  
+/usr/share/dbus-1/system-services/org.freedesktop.GeoClue2.service  
+/usr/share/doc/geoclue2  
+/usr/share/doc/geoclue2/COPYING  
+/usr/share/doc/geoclue2/NEWS  
+/var/lib/geoclue  

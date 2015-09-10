@@ -1,0 +1,14 @@
+/lib/libreadline.so.6  
+/lib/libreadline.so.6.3  
+/usr/lib/libhistory.so.6  
+/usr/lib/libhistory.so.6.3  
+/usr/share/doc/readline  
+/usr/share/doc/readline/CHANGES  
+/usr/share/doc/readline/INSTALL  
+/usr/share/doc/readline/NEWS  
+/usr/share/doc/readline/README  
+/usr/share/doc/readline/USAGE  
+/usr/share/info/history.info.gz  
+/usr/share/info/rluserman.info.gz  
+/usr/share/licenses/readline  
+/usr/share/licenses/readline/COPYING  

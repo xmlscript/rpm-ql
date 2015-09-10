@@ -1,0 +1,9 @@
+/etc/abrt/plugins/python.conf  
+/etc/libreport/events.d/python\_event.conf  
+/usr/lib/python2.7/site-packages/abrt.pth  
+/usr/lib/python2.7/site-packages/abrt\_exception\_handler.py  
+/usr/lib/python2.7/site-packages/abrt\_exception\_handler.pyc  
+/usr/lib/python2.7/site-packages/abrt\_exception\_handler.pyo  
+/usr/share/abrt/conf.d/plugins/python.conf  
+/usr/share/man/man5/abrt-python.conf.5.gz  
+/usr/share/man/man5/python\_event.conf.5.gz  

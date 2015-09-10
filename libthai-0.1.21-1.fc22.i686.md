@@ -1,0 +1,9 @@
+/usr/lib/libthai.so.0  
+/usr/lib/libthai.so.0.2.0  
+/usr/share/doc/libthai  
+/usr/share/doc/libthai/AUTHORS  
+/usr/share/doc/libthai/COPYING  
+/usr/share/doc/libthai/ChangeLog  
+/usr/share/doc/libthai/README  
+/usr/share/libthai  
+/usr/share/libthai/thbrk.tri  

@@ -1,0 +1,11 @@
+/usr/lib/libmpeg2.so.0  
+/usr/lib/libmpeg2.so.0.1.0  
+/usr/lib/libmpeg2convert.so.0  
+/usr/lib/libmpeg2convert.so.0.0.0  
+/usr/share/doc/libmpeg2  
+/usr/share/doc/libmpeg2/AUTHORS  
+/usr/share/doc/libmpeg2/COPYING  
+/usr/share/doc/libmpeg2/ChangeLog  
+/usr/share/doc/libmpeg2/NEWS  
+/usr/share/doc/libmpeg2/README  
+/usr/share/doc/libmpeg2/TODO  

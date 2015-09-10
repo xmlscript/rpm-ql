@@ -1,0 +1,16 @@
+/etc/fuse.conf  
+/usr/bin/fusermount  
+/usr/bin/ulockmgr\_server  
+/usr/sbin/mount.fuse  
+/usr/share/doc/fuse  
+/usr/share/doc/fuse/AUTHORS  
+/usr/share/doc/fuse/COPYING  
+/usr/share/doc/fuse/ChangeLog  
+/usr/share/doc/fuse/FAQ  
+/usr/share/doc/fuse/Filesystems  
+/usr/share/doc/fuse/NEWS  
+/usr/share/doc/fuse/README  
+/usr/share/doc/fuse/README.NFS  
+/usr/share/man/man1/fusermount.1.gz  
+/usr/share/man/man1/ulockmgr\_server.1.gz  
+/usr/share/man/man8/mount.fuse.8.gz  

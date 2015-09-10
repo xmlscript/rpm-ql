@@ -1,0 +1,11 @@
+/usr/lib/libchromeXvMC.so.1  
+/usr/lib/libchromeXvMC.so.1.0.0  
+/usr/lib/libchromeXvMCPro.so.1  
+/usr/lib/libchromeXvMCPro.so.1.0.0  
+/usr/lib/xorg/modules/drivers/openchrome\_drv.so  
+/usr/sbin/via\_regs\_dump  
+/usr/share/doc/xorg-x11-drv-openchrome  
+/usr/share/doc/xorg-x11-drv-openchrome/COPYING  
+/usr/share/doc/xorg-x11-drv-openchrome/NEWS  
+/usr/share/doc/xorg-x11-drv-openchrome/README  
+/usr/share/man/man4/openchrome.4.gz  

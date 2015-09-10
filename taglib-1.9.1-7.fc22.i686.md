@@ -1,0 +1,9 @@
+/usr/lib/libtag.so.1  
+/usr/lib/libtag.so.1.14.0  
+/usr/lib/libtag\_c.so.0  
+/usr/lib/libtag\_c.so.0.0.0  
+/usr/share/doc/taglib  
+/usr/share/doc/taglib/AUTHORS  
+/usr/share/doc/taglib/COPYING.LGPL  
+/usr/share/doc/taglib/COPYING.MPL  
+/usr/share/doc/taglib/NEWS  

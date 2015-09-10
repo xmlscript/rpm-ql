@@ -1,0 +1,12 @@
+/usr/lib/node\_modules/slide  
+/usr/lib/node\_modules/slide/lib  
+/usr/lib/node\_modules/slide/lib/async-map-ordered.js  
+/usr/lib/node\_modules/slide/lib/async-map.js  
+/usr/lib/node\_modules/slide/lib/bind-actor.js  
+/usr/lib/node\_modules/slide/lib/chain.js  
+/usr/lib/node\_modules/slide/lib/slide.js  
+/usr/lib/node\_modules/slide/node\_modules  
+/usr/lib/node\_modules/slide/package.json  
+/usr/share/doc/nodejs-slide  
+/usr/share/doc/nodejs-slide/LICENSE  
+/usr/share/doc/nodejs-slide/README.md  

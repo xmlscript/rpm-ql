@@ -1,0 +1,16 @@
+/usr/lib/python3.4/site-packages/systemd  
+/usr/lib/python3.4/site-packages/systemd/\_\_init\_\_.py  
+/usr/lib/python3.4/site-packages/systemd/\_\_pycache\_\_  
+/usr/lib/python3.4/site-packages/systemd/\_\_pycache\_\_/\_\_init\_\_.cpython-34.pyc  
+/usr/lib/python3.4/site-packages/systemd/\_\_pycache\_\_/\_\_init\_\_.cpython-34.pyo  
+/usr/lib/python3.4/site-packages/systemd/\_\_pycache\_\_/daemon.cpython-34.pyc  
+/usr/lib/python3.4/site-packages/systemd/\_\_pycache\_\_/daemon.cpython-34.pyo  
+/usr/lib/python3.4/site-packages/systemd/\_\_pycache\_\_/journal.cpython-34.pyc  
+/usr/lib/python3.4/site-packages/systemd/\_\_pycache\_\_/journal.cpython-34.pyo  
+/usr/lib/python3.4/site-packages/systemd/\_daemon.so  
+/usr/lib/python3.4/site-packages/systemd/\_journal.so  
+/usr/lib/python3.4/site-packages/systemd/\_reader.so  
+/usr/lib/python3.4/site-packages/systemd/daemon.py  
+/usr/lib/python3.4/site-packages/systemd/id128.so  
+/usr/lib/python3.4/site-packages/systemd/journal.py  
+/usr/lib/python3.4/site-packages/systemd/login.so  

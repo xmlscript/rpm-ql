@@ -1,0 +1,11 @@
+/usr/lib/libfreetype.so.6  
+/usr/lib/libfreetype.so.6.11.4  
+/usr/share/doc/freetype  
+/usr/share/doc/freetype/CHANGES  
+/usr/share/doc/freetype/FTL.TXT  
+/usr/share/doc/freetype/GPLv2.TXT  
+/usr/share/doc/freetype/LICENSE.TXT  
+/usr/share/doc/freetype/README  
+/usr/share/doc/freetype/VERSION.DLL  
+/usr/share/doc/freetype/formats.txt  
+/usr/share/doc/freetype/ft2faq.html  

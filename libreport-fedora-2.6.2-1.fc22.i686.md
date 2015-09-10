@@ -1,0 +1,10 @@
+/etc/libreport/workflows.d/report\_fedora.conf  
+/usr/share/libreport/workflows/workflow\_FedoraCCpp.xml  
+/usr/share/libreport/workflows/workflow\_FedoraJava.xml  
+/usr/share/libreport/workflows/workflow\_FedoraKerneloops.xml  
+/usr/share/libreport/workflows/workflow\_FedoraLibreport.xml  
+/usr/share/libreport/workflows/workflow\_FedoraPython.xml  
+/usr/share/libreport/workflows/workflow\_FedoraPython3.xml  
+/usr/share/libreport/workflows/workflow\_FedoraVmcore.xml  
+/usr/share/libreport/workflows/workflow\_FedoraXorg.xml  
+/usr/share/man/man5/report\_fedora.conf.5.gz  

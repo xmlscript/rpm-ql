@@ -1,0 +1,10 @@
+/usr/share/doc/postgresql-jdbc  
+/usr/share/doc/postgresql-jdbc/LICENSE  
+/usr/share/doc/postgresql-jdbc/README.md  
+/usr/share/doc/postgresql-jdbc/pgjdbc.xml  
+/usr/share/java/postgresql-jdbc.jar  
+/usr/share/java/postgresql-jdbc2.jar  
+/usr/share/java/postgresql-jdbc2ee.jar  
+/usr/share/java/postgresql-jdbc3.jar  
+/usr/share/maven-metadata/postgresql-jdbc.xml  
+/usr/share/maven-poms/JPP-postgresql-jdbc.pom  

@@ -1,0 +1,15 @@
+/etc/abrt/plugins/oops.conf  
+/etc/libreport/events.d/koops\_event.conf  
+/usr/bin/abrt-action-analyze-oops  
+/usr/bin/abrt-action-save-kernel-data  
+/usr/bin/abrt-dump-journal-oops  
+/usr/bin/abrt-dump-oops  
+/usr/lib/systemd/system/abrt-oops.service  
+/usr/share/abrt/conf.d/plugins/oops.conf  
+/usr/share/man/man1/abrt-action-analyze-oops.1.gz  
+/usr/share/man/man1/abrt-action-save-kernel-data.1.gz  
+/usr/share/man/man1/abrt-dump-journal-oops.1.gz  
+/usr/share/man/man1/abrt-dump-oops.1.gz  
+/usr/share/man/man5/abrt-oops.conf.5.gz  
+/usr/share/man/man5/koops\_event.conf.5.gz  
+/var/lib/abrt  

@@ -1,0 +1,11 @@
+/usr/lib/girepository-1.0  
+/usr/lib/girepository-1.0/Gee-0.8.typelib  
+/usr/lib/libgee-0.8.so.2  
+/usr/lib/libgee-0.8.so.2.5.1  
+/usr/share/doc/libgee  
+/usr/share/doc/libgee/AUTHORS  
+/usr/share/doc/libgee/MAINTAINERS  
+/usr/share/doc/libgee/NEWS  
+/usr/share/doc/libgee/README  
+/usr/share/licenses/libgee  
+/usr/share/licenses/libgee/COPYING  

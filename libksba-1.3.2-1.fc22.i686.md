@@ -1,0 +1,13 @@
+/usr/lib/libksba.so.8  
+/usr/lib/libksba.so.8.11.3  
+/usr/share/doc/libksba  
+/usr/share/doc/libksba/AUTHORS  
+/usr/share/doc/libksba/COPYING  
+/usr/share/doc/libksba/COPYING.GPLv2  
+/usr/share/doc/libksba/COPYING.GPLv3  
+/usr/share/doc/libksba/COPYING.LGPLv3  
+/usr/share/doc/libksba/ChangeLog  
+/usr/share/doc/libksba/NEWS  
+/usr/share/doc/libksba/README  
+/usr/share/doc/libksba/THANKS  
+/usr/share/doc/libksba/TODO  

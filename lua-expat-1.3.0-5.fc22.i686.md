@@ -1,0 +1,11 @@
+/usr/lib/lua/5.3/lxp.so  
+/usr/share/doc/lua-expat  
+/usr/share/doc/lua-expat/README  
+/usr/share/doc/lua-expat/examples.html  
+/usr/share/doc/lua-expat/index.html  
+/usr/share/doc/lua-expat/license.html  
+/usr/share/doc/lua-expat/lom.html  
+/usr/share/doc/lua-expat/luaexpat.png  
+/usr/share/doc/lua-expat/manual.html  
+/usr/share/lua/5.3/lxp  
+/usr/share/lua/5.3/lxp/lom.lua  

@@ -1,0 +1,12 @@
+/etc/openal  
+/etc/openal/alsoft.conf  
+/usr/bin/openal-info  
+/usr/lib/libopenal.so.1  
+/usr/lib/libopenal.so.1.16.0  
+/usr/share/doc/openal-soft  
+/usr/share/doc/openal-soft/COPYING  
+/usr/share/openal  
+/usr/share/openal/alsoftrc.sample  
+/usr/share/openal/hrtf  
+/usr/share/openal/hrtf/default-44100.mhr  
+/usr/share/openal/hrtf/default-48000.mhr  

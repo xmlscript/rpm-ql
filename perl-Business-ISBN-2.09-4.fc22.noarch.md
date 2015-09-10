@@ -1,0 +1,11 @@
+/usr/share/doc/perl-Business-ISBN  
+/usr/share/doc/perl-Business-ISBN/Changes  
+/usr/share/doc/perl-Business-ISBN/LICENSE  
+/usr/share/doc/perl-Business-ISBN/README  
+/usr/share/man/man3/Business::ISBN.3pm.gz  
+/usr/share/man/man3/Business::ISBN10.3pm.gz  
+/usr/share/man/man3/Business::ISBN13.3pm.gz  
+/usr/share/perl5/vendor\_perl/Business  
+/usr/share/perl5/vendor\_perl/Business/ISBN.pm  
+/usr/share/perl5/vendor\_perl/Business/ISBN10.pm  
+/usr/share/perl5/vendor\_perl/Business/ISBN13.pm  

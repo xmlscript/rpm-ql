@@ -1,0 +1,9 @@
+/usr/lib/libcord.so.1  
+/usr/lib/libcord.so.1.0.3  
+/usr/lib/libgc.so.1  
+/usr/lib/libgc.so.1.0.3  
+/usr/lib/libgccpp.so.1  
+/usr/lib/libgccpp.so.1.0.3  
+/usr/share/doc/gc  
+/usr/share/doc/gc/README.environment  
+/usr/share/doc/gc/README.linux  

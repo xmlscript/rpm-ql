@@ -1,0 +1,10 @@
+/usr/lib/libatomic\_ops.so.1  
+/usr/lib/libatomic\_ops.so.1.0.3  
+/usr/lib/libatomic\_ops\_gpl.so.1  
+/usr/lib/libatomic\_ops\_gpl.so.1.0.3  
+/usr/share/doc/libatomic\_ops  
+/usr/share/doc/libatomic\_ops/AUTHORS  
+/usr/share/doc/libatomic\_ops/COPYING  
+/usr/share/doc/libatomic\_ops/ChangeLog  
+/usr/share/doc/libatomic\_ops/LICENSING.txt  
+/usr/share/doc/libatomic\_ops/README.md  

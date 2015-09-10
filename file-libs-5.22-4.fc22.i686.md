@@ -1,0 +1,13 @@
+/usr/lib/libmagic.so.1  
+/usr/lib/libmagic.so.1.0.0  
+/usr/share/doc/file-libs  
+/usr/share/doc/file-libs/ChangeLog  
+/usr/share/doc/file-libs/README  
+/usr/share/file  
+/usr/share/file/magic  
+/usr/share/licenses/file-libs  
+/usr/share/licenses/file-libs/COPYING  
+/usr/share/magic  
+/usr/share/man/man5/magic.5.gz  
+/usr/share/misc/magic  
+/usr/share/misc/magic.mgc  

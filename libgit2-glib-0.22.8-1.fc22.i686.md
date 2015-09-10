@@ -1,0 +1,12 @@
+/usr/lib/girepository-1.0/Ggit-1.0.typelib  
+/usr/lib/libgit2-glib-1.0.so.0  
+/usr/lib/libgit2-glib-1.0.so.0.0.0  
+/usr/lib/python3.4/site-packages/gi/overrides/Ggit.py  
+/usr/lib/python3.4/site-packages/gi/overrides/\_\_pycache\_\_  
+/usr/lib/python3.4/site-packages/gi/overrides/\_\_pycache\_\_/Ggit.cpython-34.pyc  
+/usr/lib/python3.4/site-packages/gi/overrides/\_\_pycache\_\_/Ggit.cpython-34.pyo  
+/usr/share/doc/libgit2-glib  
+/usr/share/doc/libgit2-glib/AUTHORS  
+/usr/share/doc/libgit2-glib/NEWS  
+/usr/share/licenses/libgit2-glib  
+/usr/share/licenses/libgit2-glib/COPYING  

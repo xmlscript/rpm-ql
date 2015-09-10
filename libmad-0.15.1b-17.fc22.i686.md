@@ -1,0 +1,9 @@
+/usr/lib/libmad.so.0  
+/usr/lib/libmad.so.0.2.1  
+/usr/share/doc/libmad  
+/usr/share/doc/libmad/CHANGES  
+/usr/share/doc/libmad/COPYING  
+/usr/share/doc/libmad/COPYRIGHT  
+/usr/share/doc/libmad/CREDITS  
+/usr/share/doc/libmad/README  
+/usr/share/doc/libmad/TODO  

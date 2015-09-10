@@ -1,0 +1,11 @@
+/usr/bin/synclient  
+/usr/bin/syndaemon  
+/usr/lib/udev/rules.d/70-touchpad-quirks.rules  
+/usr/lib/xorg/modules/input/synaptics\_drv.so  
+/usr/share/X11/xorg.conf.d/50-synaptics.conf  
+/usr/share/doc/xorg-x11-drv-synaptics  
+/usr/share/doc/xorg-x11-drv-synaptics/COPYING  
+/usr/share/doc/xorg-x11-drv-synaptics/README  
+/usr/share/man/man1/synclient.1.gz  
+/usr/share/man/man1/syndaemon.1.gz  
+/usr/share/man/man4/synaptics.4.gz  

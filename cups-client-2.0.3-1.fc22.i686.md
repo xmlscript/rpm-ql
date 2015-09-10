@@ -1,0 +1,16 @@
+/usr/bin/cancel.cups  
+/usr/bin/lp.cups  
+/usr/bin/lpoptions  
+/usr/bin/lpq.cups  
+/usr/bin/lpr.cups  
+/usr/bin/lprm.cups  
+/usr/bin/lpstat.cups  
+/usr/sbin/lpc.cups  
+/usr/share/man/man1/cancel-cups.1.gz  
+/usr/share/man/man1/lp-cups.1.gz  
+/usr/share/man/man1/lpoptions.1.gz  
+/usr/share/man/man1/lpq-cups.1.gz  
+/usr/share/man/man1/lpr-cups.1.gz  
+/usr/share/man/man1/lprm-cups.1.gz  
+/usr/share/man/man1/lpstat-cups.1.gz  
+/usr/share/man/man8/lpc-cups.8.gz  

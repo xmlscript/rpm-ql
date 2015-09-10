@@ -1,0 +1,9 @@
+/usr/lib/libproxy  
+/usr/lib/libproxy.so.1  
+/usr/lib/libproxy.so.1.0.0  
+/usr/lib/libproxy/0.4.11  
+/usr/lib/libproxy/0.4.11/modules  
+/usr/share/doc/libproxy  
+/usr/share/doc/libproxy/AUTHORS  
+/usr/share/doc/libproxy/COPYING  
+/usr/share/doc/libproxy/README  

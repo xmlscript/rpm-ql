@@ -1,0 +1,10 @@
+/etc/fonts/conf.d/65-sil-mingzat.conf  
+/usr/share/appdata/sil-mingzat.metainfo.xml  
+/usr/share/doc/sil-mingzat-fonts  
+/usr/share/doc/sil-mingzat-fonts/FONTLOG.txt  
+/usr/share/doc/sil-mingzat-fonts/OFL-FAQ.txt  
+/usr/share/doc/sil-mingzat-fonts/OFL.txt  
+/usr/share/doc/sil-mingzat-fonts/README.txt  
+/usr/share/fontconfig/conf.avail/65-sil-mingzat.conf  
+/usr/share/fonts/sil-mingzat  
+/usr/share/fonts/sil-mingzat/Mingzat-R.ttf  

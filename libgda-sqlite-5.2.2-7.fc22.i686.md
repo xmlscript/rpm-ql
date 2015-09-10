@@ -1,0 +1,12 @@
+/usr/lib/libgda-5.0/providers/libgda-sqlite.so  
+/usr/share/libgda-5.0/sqlite\_specs\_add\_column.xml  
+/usr/share/libgda-5.0/sqlite\_specs\_create\_db.xml  
+/usr/share/libgda-5.0/sqlite\_specs\_create\_index.xml  
+/usr/share/libgda-5.0/sqlite\_specs\_create\_table.xml  
+/usr/share/libgda-5.0/sqlite\_specs\_create\_view.xml  
+/usr/share/libgda-5.0/sqlite\_specs\_drop\_db.xml  
+/usr/share/libgda-5.0/sqlite\_specs\_drop\_index.xml  
+/usr/share/libgda-5.0/sqlite\_specs\_drop\_table.xml  
+/usr/share/libgda-5.0/sqlite\_specs\_drop\_view.xml  
+/usr/share/libgda-5.0/sqlite\_specs\_dsn.xml  
+/usr/share/libgda-5.0/sqlite\_specs\_rename\_table.xml  

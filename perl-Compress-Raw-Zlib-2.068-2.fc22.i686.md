@@ -1,0 +1,11 @@
+/usr/lib/perl5/vendor\_perl/Compress  
+/usr/lib/perl5/vendor\_perl/Compress/Raw  
+/usr/lib/perl5/vendor\_perl/Compress/Raw/Zlib.pm  
+/usr/lib/perl5/vendor\_perl/auto/Compress  
+/usr/lib/perl5/vendor\_perl/auto/Compress/Raw  
+/usr/lib/perl5/vendor\_perl/auto/Compress/Raw/Zlib  
+/usr/lib/perl5/vendor\_perl/auto/Compress/Raw/Zlib/Zlib.so  
+/usr/share/doc/perl-Compress-Raw-Zlib  
+/usr/share/doc/perl-Compress-Raw-Zlib/Changes  
+/usr/share/doc/perl-Compress-Raw-Zlib/README  
+/usr/share/man/man3/Compress::Raw::Zlib.3pm.gz  

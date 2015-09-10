@@ -1,0 +1,16 @@
+/usr/bin/qemu-system-ppc  
+/usr/bin/qemu-system-ppc64  
+/usr/bin/qemu-system-ppcemb  
+/usr/share/man/man1/qemu-system-ppc.1.gz  
+/usr/share/man/man1/qemu-system-ppc64.1.gz  
+/usr/share/man/man1/qemu-system-ppcemb.1.gz  
+/usr/share/qemu/bamboo.dtb  
+/usr/share/qemu/ppc\_rom.bin  
+/usr/share/qemu/spapr-rtas.bin  
+/usr/share/qemu/u-boot.e500  
+/usr/share/systemtap/tapset/qemu-system-ppc-simpletrace.stp  
+/usr/share/systemtap/tapset/qemu-system-ppc.stp  
+/usr/share/systemtap/tapset/qemu-system-ppc64-simpletrace.stp  
+/usr/share/systemtap/tapset/qemu-system-ppc64.stp  
+/usr/share/systemtap/tapset/qemu-system-ppcemb-simpletrace.stp  
+/usr/share/systemtap/tapset/qemu-system-ppcemb.stp  

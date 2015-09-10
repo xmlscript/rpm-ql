@@ -1,0 +1,9 @@
+/usr/lib/libdvdread.so.4  
+/usr/lib/libdvdread.so.4.2.0  
+/usr/share/doc/libdvdread  
+/usr/share/doc/libdvdread/AUTHORS  
+/usr/share/doc/libdvdread/COPYING  
+/usr/share/doc/libdvdread/ChangeLog  
+/usr/share/doc/libdvdread/NEWS  
+/usr/share/doc/libdvdread/README  
+/usr/share/doc/libdvdread/TODO  

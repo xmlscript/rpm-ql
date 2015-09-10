@@ -1,0 +1,14 @@
+/usr/bin/xsltproc  
+/usr/lib/libexslt.so.0  
+/usr/lib/libexslt.so.0.8.17  
+/usr/lib/libxslt-plugins  
+/usr/lib/libxslt.so.1  
+/usr/lib/libxslt.so.1.1.28  
+/usr/share/doc/libxslt  
+/usr/share/doc/libxslt/AUTHORS  
+/usr/share/doc/libxslt/ChangeLog.gz  
+/usr/share/doc/libxslt/Copyright  
+/usr/share/doc/libxslt/FEATURES  
+/usr/share/doc/libxslt/NEWS  
+/usr/share/doc/libxslt/README  
+/usr/share/man/man1/xsltproc.1.gz  

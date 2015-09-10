@@ -1,0 +1,15 @@
+/usr/lib/libgpgme-pthread.so.11  
+/usr/lib/libgpgme-pthread.so.11.11.0  
+/usr/lib/libgpgme.so.11  
+/usr/lib/libgpgme.so.11.11.0  
+/usr/share/doc/gpgme  
+/usr/share/doc/gpgme/AUTHORS  
+/usr/share/doc/gpgme/ChangeLog  
+/usr/share/doc/gpgme/NEWS  
+/usr/share/doc/gpgme/README  
+/usr/share/doc/gpgme/THANKS  
+/usr/share/doc/gpgme/TODO  
+/usr/share/doc/gpgme/VERSION  
+/usr/share/licenses/gpgme  
+/usr/share/licenses/gpgme/COPYING  
+/usr/share/licenses/gpgme/COPYING.LESSER  

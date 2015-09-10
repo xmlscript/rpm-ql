@@ -1,0 +1,10 @@
+/usr/lib/girepository-1.0/ColorHug-1.0.typelib  
+/usr/lib/girepository-1.0/Colord-1.0.typelib  
+/usr/lib/libcolord.so.2  
+/usr/lib/libcolord.so.2.0.3  
+/usr/lib/libcolordprivate.so.2  
+/usr/lib/libcolordprivate.so.2.0.3  
+/usr/lib/libcolorhug.so.2  
+/usr/lib/libcolorhug.so.2.0.3  
+/usr/share/doc/colord-libs  
+/usr/share/doc/colord-libs/COPYING  

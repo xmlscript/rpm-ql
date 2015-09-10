@@ -1,0 +1,9 @@
+/etc/rpm/macros.nodejs  
+/usr/lib/rpm/fileattrs/nodejs.attr  
+/usr/lib/rpm/nodejs-fixdep  
+/usr/lib/rpm/nodejs-symlink-deps  
+/usr/lib/rpm/nodejs.prov  
+/usr/lib/rpm/nodejs.req  
+/usr/share/doc/nodejs-packaging  
+/usr/share/doc/nodejs-packaging/LICENSE  
+/usr/share/node/multiver\_modules  

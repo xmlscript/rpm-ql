@@ -1,0 +1,12 @@
+/usr/bin/appres  
+/usr/bin/editres  
+/usr/bin/listres  
+/usr/bin/viewres  
+/usr/share/X11/app-defaults/Editres  
+/usr/share/X11/app-defaults/Editres-color  
+/usr/share/X11/app-defaults/Viewres  
+/usr/share/X11/app-defaults/Viewres-color  
+/usr/share/man/man1/appres.1.gz  
+/usr/share/man/man1/editres.1.gz  
+/usr/share/man/man1/listres.1.gz  
+/usr/share/man/man1/viewres.1.gz  

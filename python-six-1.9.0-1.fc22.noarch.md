@@ -1,0 +1,13 @@
+/usr/lib/python2.7/site-packages/six-1.9.0-py2.7.egg-info  
+/usr/lib/python2.7/site-packages/six-1.9.0-py2.7.egg-info/PKG-INFO  
+/usr/lib/python2.7/site-packages/six-1.9.0-py2.7.egg-info/SOURCES.txt  
+/usr/lib/python2.7/site-packages/six-1.9.0-py2.7.egg-info/dependency\_links.txt  
+/usr/lib/python2.7/site-packages/six-1.9.0-py2.7.egg-info/top\_level.txt  
+/usr/lib/python2.7/site-packages/six.py  
+/usr/lib/python2.7/site-packages/six.pyc  
+/usr/lib/python2.7/site-packages/six.pyo  
+/usr/share/doc/python-six  
+/usr/share/doc/python-six/README  
+/usr/share/doc/python-six/index.rst  
+/usr/share/licenses/python-six  
+/usr/share/licenses/python-six/LICENSE  

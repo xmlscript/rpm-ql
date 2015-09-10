@@ -1,0 +1,16 @@
+/usr/share/doc/ipxe-roms-qemu  
+/usr/share/doc/ipxe-roms-qemu/COPYING  
+/usr/share/doc/ipxe-roms-qemu/COPYING.GPLv2  
+/usr/share/doc/ipxe-roms-qemu/COPYING.UBDL  
+/usr/share/ipxe  
+/usr/share/ipxe.efi  
+/usr/share/ipxe.efi/10222000.rom  
+/usr/share/ipxe.efi/10ec8029.rom  
+/usr/share/ipxe.efi/10ec8139.rom  
+/usr/share/ipxe.efi/1af41000.rom  
+/usr/share/ipxe.efi/8086100e.rom  
+/usr/share/ipxe/10222000.rom  
+/usr/share/ipxe/10ec8029.rom  
+/usr/share/ipxe/10ec8139.rom  
+/usr/share/ipxe/1af41000.rom  
+/usr/share/ipxe/8086100e.rom  

@@ -1,0 +1,17 @@
+/usr/bin/checksctp  
+/usr/bin/sctp\_darn  
+/usr/bin/sctp\_status  
+/usr/bin/sctp\_test  
+/usr/bin/withsctp  
+/usr/lib/libsctp.so.1  
+/usr/lib/libsctp.so.1.0.16  
+/usr/lib/lksctp-tools  
+/usr/lib/lksctp-tools/libwithsctp.so.1  
+/usr/lib/lksctp-tools/libwithsctp.so.1.0.16  
+/usr/share/doc/lksctp-tools  
+/usr/share/doc/lksctp-tools/AUTHORS  
+/usr/share/doc/lksctp-tools/COPYING  
+/usr/share/doc/lksctp-tools/COPYING.lib  
+/usr/share/doc/lksctp-tools/ChangeLog  
+/usr/share/doc/lksctp-tools/README  
+/usr/share/man/man7/sctp.7.gz  

@@ -1,0 +1,13 @@
+/etc/tmpfiles.d/vpnc.conf  
+/etc/vpnc/default.conf  
+/usr/bin/cisco-decrypt  
+/usr/sbin/vpnc  
+/usr/sbin/vpnc-disconnect  
+/usr/share/doc/vpnc  
+/usr/share/doc/vpnc/COPYING  
+/usr/share/doc/vpnc/README  
+/usr/share/doc/vpnc/pcf2vpnc  
+/usr/share/doc/vpnc/pcf2vpnc.1  
+/usr/share/man/man1/cisco-decrypt.1.gz  
+/usr/share/man/man8/vpnc.8.gz  
+/var/run/vpnc  

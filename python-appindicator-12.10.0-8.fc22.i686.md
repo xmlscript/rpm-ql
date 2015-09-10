@@ -1,0 +1,9 @@
+/usr/lib/python2.7/site-packages/appindicator  
+/usr/lib/python2.7/site-packages/appindicator/\_\_init\_\_.py  
+/usr/lib/python2.7/site-packages/appindicator/\_\_init\_\_.pyc  
+/usr/lib/python2.7/site-packages/appindicator/\_\_init\_\_.pyo  
+/usr/lib/python2.7/site-packages/appindicator/\_appindicator.so  
+/usr/share/pygtk  
+/usr/share/pygtk/2.0  
+/usr/share/pygtk/2.0/defs  
+/usr/share/pygtk/2.0/defs/appindicator.defs  

@@ -1,0 +1,12 @@
+/usr/lib/libopencv\_core.so.2.4  
+/usr/lib/libopencv\_core.so.2.4.11  
+/usr/lib/libopencv\_flann.so.2.4  
+/usr/lib/libopencv\_flann.so.2.4.11  
+/usr/lib/libopencv\_imgproc.so.2.4  
+/usr/lib/libopencv\_imgproc.so.2.4.11  
+/usr/lib/libopencv\_ml.so.2.4  
+/usr/lib/libopencv\_ml.so.2.4.11  
+/usr/lib/libopencv\_photo.so.2.4  
+/usr/lib/libopencv\_photo.so.2.4.11  
+/usr/lib/libopencv\_video.so.2.4  
+/usr/lib/libopencv\_video.so.2.4.11  

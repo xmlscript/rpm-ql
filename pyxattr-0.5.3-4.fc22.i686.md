@@ -1,0 +1,11 @@
+/usr/lib/python2.7/site-packages/pyxattr-0.5.3-py2.7.egg-info  
+/usr/lib/python2.7/site-packages/pyxattr-0.5.3-py2.7.egg-info/PKG-INFO  
+/usr/lib/python2.7/site-packages/pyxattr-0.5.3-py2.7.egg-info/SOURCES.txt  
+/usr/lib/python2.7/site-packages/pyxattr-0.5.3-py2.7.egg-info/dependency\_links.txt  
+/usr/lib/python2.7/site-packages/pyxattr-0.5.3-py2.7.egg-info/top\_level.txt  
+/usr/lib/python2.7/site-packages/xattr.so  
+/usr/share/doc/pyxattr  
+/usr/share/doc/pyxattr/NEWS  
+/usr/share/doc/pyxattr/README  
+/usr/share/licenses/pyxattr  
+/usr/share/licenses/pyxattr/COPYING  

@@ -1,0 +1,12 @@
+/etc/tcsd.conf  
+/usr/lib/libtspi.so.1  
+/usr/lib/libtspi.so.1.2.0  
+/usr/lib/systemd/system/tcsd.service  
+/usr/sbin/tcsd  
+/usr/share/doc/trousers  
+/usr/share/doc/trousers/ChangeLog  
+/usr/share/doc/trousers/LICENSE  
+/usr/share/doc/trousers/README  
+/usr/share/man/man5/tcsd.conf.5.gz  
+/usr/share/man/man8/tcsd.8.gz  
+/var/lib/tpm  

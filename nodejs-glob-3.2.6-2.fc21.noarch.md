@@ -1,0 +1,12 @@
+/usr/lib/node\_modules/glob  
+/usr/lib/node\_modules/glob/glob.js  
+/usr/lib/node\_modules/glob/node\_modules  
+/usr/lib/node\_modules/glob/node\_modules/inherits  
+/usr/lib/node\_modules/glob/node\_modules/minimatch  
+/usr/lib/node\_modules/glob/package.json  
+/usr/share/doc/nodejs-glob  
+/usr/share/doc/nodejs-glob/LICENSE  
+/usr/share/doc/nodejs-glob/README.md  
+/usr/share/doc/nodejs-glob/examples  
+/usr/share/doc/nodejs-glob/examples/g.js  
+/usr/share/doc/nodejs-glob/examples/usr-local.js  

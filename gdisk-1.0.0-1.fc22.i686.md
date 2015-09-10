@@ -1,0 +1,12 @@
+/usr/sbin/cgdisk  
+/usr/sbin/fixparts  
+/usr/sbin/gdisk  
+/usr/sbin/sgdisk  
+/usr/share/doc/gdisk  
+/usr/share/doc/gdisk/COPYING  
+/usr/share/doc/gdisk/README  
+/usr/share/doc/gdisk/gdisk\_test.sh  
+/usr/share/man/man8/cgdisk.8.gz  
+/usr/share/man/man8/fixparts.8.gz  
+/usr/share/man/man8/gdisk.8.gz  
+/usr/share/man/man8/sgdisk.8.gz  

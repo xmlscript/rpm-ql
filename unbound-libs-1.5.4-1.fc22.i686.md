@@ -1,0 +1,16 @@
+/etc/unbound  
+/etc/unbound/dlv.isc.org.key  
+/etc/unbound/icannbundle.pem  
+/etc/unbound/root.key  
+/usr/lib/libunbound.so.2  
+/usr/lib/libunbound.so.2.3.7  
+/usr/lib/systemd/system/unbound-anchor.service  
+/usr/lib/systemd/system/unbound-anchor.timer  
+/usr/sbin/unbound-anchor  
+/usr/share/doc/unbound-libs  
+/usr/share/doc/unbound-libs/README  
+/usr/share/licenses/unbound-libs  
+/usr/share/licenses/unbound-libs/LICENSE  
+/usr/share/man/man8/unbound-anchor.8.gz  
+/var/lib/unbound  
+/var/lib/unbound/root.key  

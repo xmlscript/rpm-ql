@@ -1,0 +1,11 @@
+/usr/lib/node\_modules/ctype  
+/usr/lib/node\_modules/ctype/ctf.js  
+/usr/lib/node\_modules/ctype/ctio.js  
+/usr/lib/node\_modules/ctype/ctype.js  
+/usr/lib/node\_modules/ctype/package.json  
+/usr/share/doc/nodejs-ctype  
+/usr/share/doc/nodejs-ctype/CHANGELOG  
+/usr/share/doc/nodejs-ctype/LICENSE  
+/usr/share/doc/nodejs-ctype/README  
+/usr/share/doc/nodejs-ctype/README.old  
+/usr/share/man/man3/ctio.3.gz  

@@ -1,0 +1,11 @@
+/etc/libreport/events.d/print\_event.conf  
+/etc/libreport/events/report\_Logger.conf  
+/etc/libreport/workflows.d/report\_logger.conf  
+/usr/bin/reporter-print  
+/usr/share/libreport/events/report\_Logger.xml  
+/usr/share/libreport/workflows/workflow\_Logger.xml  
+/usr/share/libreport/workflows/workflow\_LoggerCCpp.xml  
+/usr/share/man/man1/reporter-print.1.gz  
+/usr/share/man/man5/print\_event.conf.5.gz  
+/usr/share/man/man5/report\_Logger.conf.5.gz  
+/usr/share/man/man5/report\_logger.conf.5.gz  

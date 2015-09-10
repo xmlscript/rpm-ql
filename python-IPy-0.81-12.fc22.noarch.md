@@ -1,0 +1,11 @@
+/usr/lib/python2.7/site-packages/IPy-0.81-py2.7.egg-info  
+/usr/lib/python2.7/site-packages/IPy.py  
+/usr/lib/python2.7/site-packages/IPy.pyc  
+/usr/lib/python2.7/site-packages/IPy.pyo  
+/usr/share/doc/python-IPy  
+/usr/share/doc/python-IPy/AUTHORS  
+/usr/share/doc/python-IPy/ChangeLog  
+/usr/share/doc/python-IPy/PKG-INFO  
+/usr/share/doc/python-IPy/README  
+/usr/share/licenses/python-IPy  
+/usr/share/licenses/python-IPy/COPYING  

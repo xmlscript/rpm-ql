@@ -1,0 +1,14 @@
+/usr/lib/node\_modules/normalize-package-data  
+/usr/lib/node\_modules/normalize-package-data/lib  
+/usr/lib/node\_modules/normalize-package-data/lib/extract\_description.js  
+/usr/lib/node\_modules/normalize-package-data/lib/fixer.js  
+/usr/lib/node\_modules/normalize-package-data/lib/normalize.js  
+/usr/lib/node\_modules/normalize-package-data/lib/typos.json  
+/usr/lib/node\_modules/normalize-package-data/node\_modules  
+/usr/lib/node\_modules/normalize-package-data/node\_modules/github-url-from-git  
+/usr/lib/node\_modules/normalize-package-data/node\_modules/semver  
+/usr/lib/node\_modules/normalize-package-data/package.json  
+/usr/share/doc/nodejs-normalize-package-data  
+/usr/share/doc/nodejs-normalize-package-data/AUTHORS  
+/usr/share/doc/nodejs-normalize-package-data/LICENSE  
+/usr/share/doc/nodejs-normalize-package-data/README.md  

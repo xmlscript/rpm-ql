@@ -1,0 +1,16 @@
+/usr/bin/chacl  
+/usr/bin/getfacl  
+/usr/bin/setfacl  
+/usr/share/licenses/acl  
+/usr/share/licenses/acl/COPYING  
+/usr/share/licenses/acl/COPYING.LGPL  
+/usr/share/locale/de/LC\_MESSAGES/acl.mo  
+/usr/share/locale/es/LC\_MESSAGES/acl.mo  
+/usr/share/locale/fr/LC\_MESSAGES/acl.mo  
+/usr/share/locale/gl/LC\_MESSAGES/acl.mo  
+/usr/share/locale/pl/LC\_MESSAGES/acl.mo  
+/usr/share/locale/sv/LC\_MESSAGES/acl.mo  
+/usr/share/man/man1/chacl.1.gz  
+/usr/share/man/man1/getfacl.1.gz  
+/usr/share/man/man1/setfacl.1.gz  
+/usr/share/man/man5/acl.5.gz  

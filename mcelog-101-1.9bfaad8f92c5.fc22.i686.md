@@ -1,0 +1,15 @@
+/etc/cron.hourly/mcelog.cron  
+/etc/mcelog  
+/etc/mcelog/mcelog.conf  
+/etc/mcelog/mcelog.setup  
+/etc/mcelog/triggers  
+/etc/mcelog/triggers/cache-error-trigger  
+/etc/mcelog/triggers/dimm-error-trigger  
+/etc/mcelog/triggers/page-error-trigger  
+/etc/mcelog/triggers/socket-memory-error-trigger  
+/usr/lib/systemd/system/mcelog.service  
+/usr/sbin/mcelog  
+/usr/share/doc/mcelog  
+/usr/share/doc/mcelog/CHANGES  
+/usr/share/doc/mcelog/README  
+/usr/share/man/man8/mcelog.8.gz  

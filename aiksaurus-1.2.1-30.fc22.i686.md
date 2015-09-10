@@ -1,0 +1,12 @@
+/usr/bin/aiksaurus  
+/usr/bin/caiksaurus  
+/usr/lib/libAiksaurus-1.2.so.0  
+/usr/lib/libAiksaurus-1.2.so.0.0.1  
+/usr/share/aiksaurus  
+/usr/share/aiksaurus/meanings.dat  
+/usr/share/aiksaurus/words.dat  
+/usr/share/doc/aiksaurus  
+/usr/share/doc/aiksaurus/AUTHORS  
+/usr/share/doc/aiksaurus/COPYING  
+/usr/share/doc/aiksaurus/ChangeLog  
+/usr/share/doc/aiksaurus/README  

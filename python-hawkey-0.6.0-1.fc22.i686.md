@@ -1,0 +1,11 @@
+/usr/lib/python2.7/site-packages  
+/usr/lib/python2.7/site-packages/hawkey  
+/usr/lib/python2.7/site-packages/hawkey/\_\_init\_\_.py  
+/usr/lib/python2.7/site-packages/hawkey/\_\_init\_\_.pyc  
+/usr/lib/python2.7/site-packages/hawkey/\_\_init\_\_.pyo  
+/usr/lib/python2.7/site-packages/hawkey/\_hawkeymodule.so  
+/usr/lib/python2.7/site-packages/hawkey/test  
+/usr/lib/python2.7/site-packages/hawkey/test/\_\_init\_\_.py  
+/usr/lib/python2.7/site-packages/hawkey/test/\_\_init\_\_.pyc  
+/usr/lib/python2.7/site-packages/hawkey/test/\_\_init\_\_.pyo  
+/usr/lib/python2.7/site-packages/hawkey/test/\_hawkey\_testmodule.so  

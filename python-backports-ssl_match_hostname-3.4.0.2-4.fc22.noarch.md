@@ -1,0 +1,15 @@
+/usr/lib/python2.7/site-packages/backports.ssl\_match\_hostname-3.4.0.2-py2.7-nspkg.pth  
+/usr/lib/python2.7/site-packages/backports.ssl\_match\_hostname-3.4.0.2-py2.7.egg-info  
+/usr/lib/python2.7/site-packages/backports.ssl\_match\_hostname-3.4.0.2-py2.7.egg-info/PKG-INFO  
+/usr/lib/python2.7/site-packages/backports.ssl\_match\_hostname-3.4.0.2-py2.7.egg-info/SOURCES.txt  
+/usr/lib/python2.7/site-packages/backports.ssl\_match\_hostname-3.4.0.2-py2.7.egg-info/dependency\_links.txt  
+/usr/lib/python2.7/site-packages/backports.ssl\_match\_hostname-3.4.0.2-py2.7.egg-info/namespace\_packages.txt  
+/usr/lib/python2.7/site-packages/backports.ssl\_match\_hostname-3.4.0.2-py2.7.egg-info/top\_level.txt  
+/usr/lib/python2.7/site-packages/backports/ssl\_match\_hostname  
+/usr/lib/python2.7/site-packages/backports/ssl\_match\_hostname/\_\_init\_\_.py  
+/usr/lib/python2.7/site-packages/backports/ssl\_match\_hostname/\_\_init\_\_.pyc  
+/usr/lib/python2.7/site-packages/backports/ssl\_match\_hostname/\_\_init\_\_.pyo  
+/usr/share/doc/python-backports-ssl\_match\_hostname  
+/usr/share/doc/python-backports-ssl\_match\_hostname/README.txt  
+/usr/share/licenses/python-backports-ssl\_match\_hostname  
+/usr/share/licenses/python-backports-ssl\_match\_hostname/LICENSE.txt  

@@ -1,0 +1,11 @@
+/etc/lightdm/lightdm-gtk-greeter.conf  
+/usr/sbin/lightdm-gtk-greeter  
+/usr/share/doc/lightdm-gtk  
+/usr/share/doc/lightdm-gtk/COPYING  
+/usr/share/doc/lightdm-gtk/ChangeLog  
+/usr/share/doc/lightdm-gtk/NEWS  
+/usr/share/doc/lightdm-gtk/README  
+/usr/share/doc/lightdm-gtk/sample-lightdm-gtk-greeter.css  
+/usr/share/lightdm-gtk-greeter  
+/usr/share/xgreeters/lightdm-greeter.desktop  
+/usr/share/xgreeters/lightdm-gtk-greeter.desktop  

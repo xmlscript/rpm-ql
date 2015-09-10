@@ -1,0 +1,16 @@
+/usr/lib/node\_modules/npmconf  
+/usr/lib/node\_modules/npmconf/config-defs.js  
+/usr/lib/node\_modules/npmconf/node\_modules  
+/usr/lib/node\_modules/npmconf/node\_modules/config-chain  
+/usr/lib/node\_modules/npmconf/node\_modules/inherits  
+/usr/lib/node\_modules/npmconf/node\_modules/ini  
+/usr/lib/node\_modules/npmconf/node\_modules/mkdirp  
+/usr/lib/node\_modules/npmconf/node\_modules/nopt  
+/usr/lib/node\_modules/npmconf/node\_modules/once  
+/usr/lib/node\_modules/npmconf/node\_modules/osenv  
+/usr/lib/node\_modules/npmconf/node\_modules/semver  
+/usr/lib/node\_modules/npmconf/npmconf.js  
+/usr/lib/node\_modules/npmconf/package.json  
+/usr/share/doc/nodejs-npmconf  
+/usr/share/doc/nodejs-npmconf/LICENSE  
+/usr/share/doc/nodejs-npmconf/README.md  

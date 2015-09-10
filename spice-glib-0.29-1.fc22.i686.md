@@ -1,0 +1,9 @@
+/usr/lib/girepository-1.0/SpiceClientGLib-2.0.typelib  
+/usr/lib/libspice-client-glib-2.0.so.8  
+/usr/lib/libspice-client-glib-2.0.so.8.5.0  
+/usr/lib/libspice-controller.so.0  
+/usr/lib/libspice-controller.so.0.0.0  
+/usr/libexec/spice-gtk-i386  
+/usr/libexec/spice-gtk-i386/spice-client-glib-usb-acl-helper  
+/usr/share/locale/fr/LC\_MESSAGES/spice-gtk.mo  
+/usr/share/polkit-1/actions/org.spice-space.lowlevelusbaccess.policy  

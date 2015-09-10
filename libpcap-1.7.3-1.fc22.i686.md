@@ -1,0 +1,10 @@
+/usr/lib/libpcap.so.1  
+/usr/lib/libpcap.so.1.7.3  
+/usr/share/doc/libpcap  
+/usr/share/doc/libpcap/CHANGES  
+/usr/share/doc/libpcap/CREDITS  
+/usr/share/doc/libpcap/LICENSE  
+/usr/share/doc/libpcap/README  
+/usr/share/man/man7/pcap-filter.7.gz  
+/usr/share/man/man7/pcap-linktype.7.gz  
+/usr/share/man/man7/pcap-tstamp.7.gz  

@@ -1,0 +1,13 @@
+/etc/fonts/conf.d/57-paratype-pt-sans.conf  
+/usr/share/appdata/paratype-pt-sans-narrow.metainfo.xml  
+/usr/share/appdata/paratype-pt-sans.metainfo.xml  
+/usr/share/doc/paratype-pt-sans-fonts  
+/usr/share/doc/paratype-pt-sans-fonts/PTSSM\_OFL.txt  
+/usr/share/fontconfig/conf.avail/57-paratype-pt-sans.conf  
+/usr/share/fonts/paratype-pt-sans  
+/usr/share/fonts/paratype-pt-sans/PTN57F.ttf  
+/usr/share/fonts/paratype-pt-sans/PTN77F.ttf  
+/usr/share/fonts/paratype-pt-sans/PTS55F.ttf  
+/usr/share/fonts/paratype-pt-sans/PTS56F.ttf  
+/usr/share/fonts/paratype-pt-sans/PTS75F.ttf  
+/usr/share/fonts/paratype-pt-sans/PTS76F.ttf  

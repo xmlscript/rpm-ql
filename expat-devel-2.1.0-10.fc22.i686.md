@@ -1,0 +1,16 @@
+/usr/include/expat.h  
+/usr/include/expat\_external.h  
+/usr/lib/libexpat.so  
+/usr/lib/pkgconfig/expat.pc  
+/usr/share/doc/expat-devel  
+/usr/share/doc/expat-devel/Changes  
+/usr/share/doc/expat-devel/doc  
+/usr/share/doc/expat-devel/doc/expat.png  
+/usr/share/doc/expat-devel/doc/reference.html  
+/usr/share/doc/expat-devel/doc/style.css  
+/usr/share/doc/expat-devel/doc/valid-xhtml10.png  
+/usr/share/doc/expat-devel/doc/xmlwf.1  
+/usr/share/doc/expat-devel/doc/xmlwf.sgml  
+/usr/share/doc/expat-devel/examples  
+/usr/share/doc/expat-devel/examples/elements.c  
+/usr/share/doc/expat-devel/examples/outline.c  

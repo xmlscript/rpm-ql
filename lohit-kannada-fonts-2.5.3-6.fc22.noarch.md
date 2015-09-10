@@ -1,0 +1,12 @@
+/etc/fonts/conf.d/65-0-lohit-kannada.conf  
+/usr/share/appdata/lohit-kannada.metainfo.xml  
+/usr/share/doc/lohit-kannada-fonts  
+/usr/share/doc/lohit-kannada-fonts/AUTHORS  
+/usr/share/doc/lohit-kannada-fonts/COPYRIGHT  
+/usr/share/doc/lohit-kannada-fonts/ChangeLog  
+/usr/share/doc/lohit-kannada-fonts/ChangeLog.old  
+/usr/share/doc/lohit-kannada-fonts/OFL.txt  
+/usr/share/doc/lohit-kannada-fonts/README  
+/usr/share/fontconfig/conf.avail/65-0-lohit-kannada.conf  
+/usr/share/fonts/lohit-kannada  
+/usr/share/fonts/lohit-kannada/Lohit-Kannada.ttf  

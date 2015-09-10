@@ -1,0 +1,17 @@
+/etc/logrotate.d  
+/etc/logrotate.d/samba  
+/etc/samba  
+/etc/samba/lmhosts  
+/etc/samba/smb.conf  
+/etc/sysconfig/samba  
+/usr/lib/tmpfiles.d/samba.conf  
+/usr/share/samba/codepages  
+/usr/share/samba/codepages/lowcase.dat  
+/usr/share/samba/codepages/upcase.dat  
+/usr/share/samba/codepages/valid.dat  
+/var/lib/samba  
+/var/lib/samba/private  
+/var/log/samba  
+/var/log/samba/old  
+/var/run/samba  
+/var/run/winbindd  

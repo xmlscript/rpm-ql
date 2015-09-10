@@ -1,0 +1,9 @@
+/usr/lib/libtheora.so.0  
+/usr/lib/libtheora.so.0.3.10  
+/usr/lib/libtheoradec.so.1  
+/usr/lib/libtheoradec.so.1.1.4  
+/usr/lib/libtheoraenc.so.1  
+/usr/lib/libtheoraenc.so.1.1.2  
+/usr/share/doc/libtheora  
+/usr/share/doc/libtheora/COPYING  
+/usr/share/doc/libtheora/README  

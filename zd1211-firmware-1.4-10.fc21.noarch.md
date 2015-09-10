@@ -1,0 +1,14 @@
+/lib/firmware/zd1211  
+/lib/firmware/zd1211/zd1211\_ub  
+/lib/firmware/zd1211/zd1211\_uph  
+/lib/firmware/zd1211/zd1211\_uphm  
+/lib/firmware/zd1211/zd1211\_uphr  
+/lib/firmware/zd1211/zd1211\_ur  
+/lib/firmware/zd1211/zd1211b\_ub  
+/lib/firmware/zd1211/zd1211b\_uph  
+/lib/firmware/zd1211/zd1211b\_uphm  
+/lib/firmware/zd1211/zd1211b\_uphr  
+/lib/firmware/zd1211/zd1211b\_ur  
+/usr/share/doc/zd1211-firmware  
+/usr/share/doc/zd1211-firmware/COPYING  
+/usr/share/doc/zd1211-firmware/README  

@@ -1,0 +1,11 @@
+/usr/bin/compile\_et  
+/usr/include/com\_err.h  
+/usr/include/et  
+/usr/include/et/com\_err.h  
+/usr/lib/libcom\_err.so  
+/usr/lib/pkgconfig/com\_err.pc  
+/usr/share/et  
+/usr/share/et/et\_c.awk  
+/usr/share/et/et\_h.awk  
+/usr/share/man/man1/compile\_et.1.gz  
+/usr/share/man/man3/com\_err.3.gz  

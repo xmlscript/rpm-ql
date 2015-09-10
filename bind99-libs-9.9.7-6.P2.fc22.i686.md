@@ -1,0 +1,12 @@
+/etc/ld.so.conf.d/bind99-i386.conf  
+/usr/lib/bind99  
+/usr/lib/bind99/libdns-export.so.106  
+/usr/lib/bind99/libdns-export.so.106.1.2  
+/usr/lib/bind99/libirs-export.so.91  
+/usr/lib/bind99/libirs-export.so.91.0.1  
+/usr/lib/bind99/libisc-export.so.104  
+/usr/lib/bind99/libisc-export.so.104.0.2  
+/usr/lib/bind99/libisccfg-export.so.90  
+/usr/lib/bind99/libisccfg-export.so.90.2.4  
+/usr/share/doc/bind99-libs  
+/usr/share/doc/bind99-libs/README  

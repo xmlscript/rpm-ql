@@ -1,0 +1,12 @@
+/usr/share/doc/perl-IO-Socket-IP  
+/usr/share/doc/perl-IO-Socket-IP/Changes  
+/usr/share/doc/perl-IO-Socket-IP/README  
+/usr/share/doc/perl-IO-Socket-IP/examples  
+/usr/share/doc/perl-IO-Socket-IP/examples/connect.pl  
+/usr/share/doc/perl-IO-Socket-IP/examples/nonblocking\_libasyncns.pl  
+/usr/share/licenses/perl-IO-Socket-IP  
+/usr/share/licenses/perl-IO-Socket-IP/LICENSE  
+/usr/share/man/man3/IO::Socket::IP.3pm.gz  
+/usr/share/perl5/vendor\_perl/IO  
+/usr/share/perl5/vendor\_perl/IO/Socket  
+/usr/share/perl5/vendor\_perl/IO/Socket/IP.pm  

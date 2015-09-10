@@ -1,0 +1,17 @@
+/usr/bin/dvcont  
+/usr/bin/mkrfc2734  
+/usr/bin/panelctl  
+/usr/lib/libavc1394.so.0  
+/usr/lib/libavc1394.so.0.3.0  
+/usr/lib/librom1394.so.0  
+/usr/lib/librom1394.so.0.3.0  
+/usr/share/doc/libavc1394  
+/usr/share/doc/libavc1394/AUTHORS  
+/usr/share/doc/libavc1394/COPYING  
+/usr/share/doc/libavc1394/ChangeLog  
+/usr/share/doc/libavc1394/NEWS  
+/usr/share/doc/libavc1394/README  
+/usr/share/doc/libavc1394/TODO  
+/usr/share/man/man1/dvcont.1.gz  
+/usr/share/man/man1/mkrfc2734.1.gz  
+/usr/share/man/man1/panelctl.1.gz  

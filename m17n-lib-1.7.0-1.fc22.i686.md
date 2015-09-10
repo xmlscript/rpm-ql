@@ -1,0 +1,15 @@
+/usr/bin/m17n-conv  
+/usr/lib/libm17n-core.so.0  
+/usr/lib/libm17n-core.so.0.4.1  
+/usr/lib/libm17n-flt.so.0  
+/usr/lib/libm17n-flt.so.0.4.1  
+/usr/lib/libm17n.so.0  
+/usr/lib/libm17n.so.0.4.1  
+/usr/lib/m17n  
+/usr/lib/m17n/1.0  
+/usr/share/doc/m17n-lib  
+/usr/share/doc/m17n-lib/AUTHORS  
+/usr/share/doc/m17n-lib/COPYING  
+/usr/share/doc/m17n-lib/ChangeLog  
+/usr/share/doc/m17n-lib/NEWS  
+/usr/share/doc/m17n-lib/README  

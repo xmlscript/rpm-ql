@@ -1,0 +1,15 @@
+/usr/bin/firewall-config  
+/usr/share/appdata/firewall-config.appdata.xml  
+/usr/share/applications/firewall-config.desktop  
+/usr/share/firewalld/firewall-config.glade  
+/usr/share/firewalld/gtk3\_chooserbutton.py  
+/usr/share/firewalld/gtk3\_chooserbutton.pyc  
+/usr/share/firewalld/gtk3\_chooserbutton.pyo  
+/usr/share/glib-2.0/schemas/org.fedoraproject.FirewallConfig.gschema.xml  
+/usr/share/icons/hicolor/16x16/apps/firewall-config.png  
+/usr/share/icons/hicolor/22x22/apps/firewall-config.png  
+/usr/share/icons/hicolor/24x24/apps/firewall-config.png  
+/usr/share/icons/hicolor/32x32/apps/firewall-config.png  
+/usr/share/icons/hicolor/48x48/apps/firewall-config.png  
+/usr/share/icons/hicolor/scalable/apps/firewall-config.svg  
+/usr/share/man/man1/firewall-config.1.gz  

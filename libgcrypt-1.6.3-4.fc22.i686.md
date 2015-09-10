@@ -1,0 +1,10 @@
+/etc/gcrypt  
+/usr/lib/.libgcrypt.so.20.hmac  
+/usr/lib/libgcrypt.so.20  
+/usr/lib/libgcrypt.so.20.0.3  
+/usr/share/doc/libgcrypt  
+/usr/share/doc/libgcrypt/AUTHORS  
+/usr/share/doc/libgcrypt/NEWS  
+/usr/share/doc/libgcrypt/THANKS  
+/usr/share/licenses/libgcrypt  
+/usr/share/licenses/libgcrypt/COPYING.LIB  

@@ -1,0 +1,11 @@
+/etc/sysconfig/rpcbind  
+/sbin/rpcbind  
+/usr/lib/systemd/system/rpcbind.service  
+/usr/lib/systemd/system/rpcbind.socket  
+/usr/sbin/rpcinfo  
+/usr/share/doc/rpcbind  
+/usr/share/doc/rpcbind/AUTHORS  
+/usr/share/doc/rpcbind/ChangeLog  
+/usr/share/doc/rpcbind/README  
+/usr/share/man/man8/rpcbind.8.gz  
+/usr/share/man/man8/rpcinfo.8.gz  

@@ -1,0 +1,9 @@
+/usr/lib/libIntelXvMC.so.1  
+/usr/lib/libIntelXvMC.so.1.0.0  
+/usr/lib/xorg/modules/drivers/intel\_drv.so  
+/usr/libexec/xf86-video-intel-backlight-helper  
+/usr/share/doc/xorg-x11-drv-intel  
+/usr/share/doc/xorg-x11-drv-intel/COPYING  
+/usr/share/man/man4/intel-virtual-output.4.gz  
+/usr/share/man/man4/intel.4.gz  
+/usr/share/polkit-1/actions/org.x.xf86-video-intel.backlight-helper.policy  

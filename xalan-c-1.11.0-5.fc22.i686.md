@@ -1,0 +1,9 @@
+/usr/bin/Xalan  
+/usr/lib/libxalan-c.so.111  
+/usr/lib/libxalan-c.so.111.0  
+/usr/lib/libxalanMsg.so.111  
+/usr/lib/libxalanMsg.so.111.0  
+/usr/share/doc/xalan-c  
+/usr/share/doc/xalan-c/KEYS  
+/usr/share/doc/xalan-c/LICENSE  
+/usr/share/doc/xalan-c/NOTICE  

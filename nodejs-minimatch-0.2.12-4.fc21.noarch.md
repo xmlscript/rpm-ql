@@ -1,0 +1,9 @@
+/usr/lib/node\_modules/minimatch  
+/usr/lib/node\_modules/minimatch/minimatch.js  
+/usr/lib/node\_modules/minimatch/node\_modules  
+/usr/lib/node\_modules/minimatch/node\_modules/lru-cache  
+/usr/lib/node\_modules/minimatch/node\_modules/sigmund  
+/usr/lib/node\_modules/minimatch/package.json  
+/usr/share/doc/nodejs-minimatch  
+/usr/share/doc/nodejs-minimatch/LICENSE  
+/usr/share/doc/nodejs-minimatch/README.md  

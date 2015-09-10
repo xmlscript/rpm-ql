@@ -1,0 +1,10 @@
+/usr/bin/node\_g  
+/usr/include/node  
+/usr/include/node/common.gypi  
+/usr/include/node/config.gypi  
+/usr/include/node/node.h  
+/usr/include/node/node\_buffer.h  
+/usr/include/node/node\_internals.h  
+/usr/include/node/node\_object\_wrap.h  
+/usr/include/node/node\_version.h  
+/usr/share/node/common.gypi  

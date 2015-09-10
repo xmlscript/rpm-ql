@@ -1,0 +1,10 @@
+/usr/sbin/lshw  
+/usr/share/doc/lshw  
+/usr/share/doc/lshw/COPYING  
+/usr/share/doc/lshw/Changelog  
+/usr/share/doc/lshw/IODC.txt  
+/usr/share/doc/lshw/README  
+/usr/share/doc/lshw/TODO  
+/usr/share/doc/lshw/lshw.xsd  
+/usr/share/doc/lshw/proc\_usb\_info.txt  
+/usr/share/man/man1/lshw.1.gz  

@@ -1,0 +1,14 @@
+/usr/lib/libchewing.so.3  
+/usr/lib/libchewing.so.3.2.0  
+/usr/share/doc/libchewing  
+/usr/share/doc/libchewing/AUTHORS  
+/usr/share/doc/libchewing/COPYING  
+/usr/share/doc/libchewing/NEWS  
+/usr/share/doc/libchewing/README.md  
+/usr/share/doc/libchewing/TODO  
+/usr/share/info/libchewing.info.gz  
+/usr/share/libchewing/dictionary.dat  
+/usr/share/libchewing/index\_tree.dat  
+/usr/share/libchewing/pinyin.tab  
+/usr/share/libchewing/swkb.dat  
+/usr/share/libchewing/symbols.dat  

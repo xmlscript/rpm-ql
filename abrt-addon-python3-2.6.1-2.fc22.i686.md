@@ -1,0 +1,9 @@
+/etc/abrt/plugins/python3.conf  
+/etc/libreport/events.d/python3\_event.conf  
+/usr/lib/python3.4/site-packages/\_\_pycache\_\_/abrt\_exception\_handler3.cpython-34.pyc  
+/usr/lib/python3.4/site-packages/\_\_pycache\_\_/abrt\_exception\_handler3.cpython-34.pyo  
+/usr/lib/python3.4/site-packages/abrt3.pth  
+/usr/lib/python3.4/site-packages/abrt\_exception\_handler3.py  
+/usr/share/abrt/conf.d/plugins/python3.conf  
+/usr/share/man/man5/abrt-python3.conf.5.gz  
+/usr/share/man/man5/python3\_event.conf.5.gz  

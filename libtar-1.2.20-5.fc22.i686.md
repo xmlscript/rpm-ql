@@ -1,0 +1,9 @@
+/usr/bin/libtar  
+/usr/lib/libtar.so.1  
+/usr/lib/libtar.so.1.2.20  
+/usr/share/doc/libtar  
+/usr/share/doc/libtar/COPYRIGHT  
+/usr/share/doc/libtar/ChangeLog  
+/usr/share/doc/libtar/ChangeLog-1.0.x  
+/usr/share/doc/libtar/README  
+/usr/share/doc/libtar/TODO  

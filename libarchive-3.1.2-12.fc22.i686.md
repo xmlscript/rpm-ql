@@ -1,0 +1,10 @@
+/usr/lib/libarchive.so.13  
+/usr/lib/libarchive.so.13.1.2  
+/usr/share/doc/libarchive  
+/usr/share/doc/libarchive/NEWS  
+/usr/share/doc/libarchive/README  
+/usr/share/licenses/libarchive  
+/usr/share/licenses/libarchive/COPYING  
+/usr/share/man/man5/cpio.5.gz  
+/usr/share/man/man5/mtree.5.gz  
+/usr/share/man/man5/tar.5.gz  

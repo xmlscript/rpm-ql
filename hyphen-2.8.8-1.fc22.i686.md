@@ -1,0 +1,10 @@
+/usr/lib/libhyphen.so.0  
+/usr/lib/libhyphen.so.0.3.0  
+/usr/share/doc/hyphen  
+/usr/share/doc/hyphen/AUTHORS  
+/usr/share/doc/hyphen/ChangeLog  
+/usr/share/doc/hyphen/README  
+/usr/share/doc/hyphen/README.hyphen  
+/usr/share/doc/hyphen/README.nonstandard  
+/usr/share/doc/hyphen/TODO  
+/usr/share/hyphen  

@@ -1,0 +1,12 @@
+/usr/lib/libassuan.so.0  
+/usr/lib/libassuan.so.0.5.0  
+/usr/share/doc/libassuan  
+/usr/share/doc/libassuan/AUTHORS  
+/usr/share/doc/libassuan/ChangeLog  
+/usr/share/doc/libassuan/NEWS  
+/usr/share/doc/libassuan/README  
+/usr/share/doc/libassuan/THANKS  
+/usr/share/doc/libassuan/TODO  
+/usr/share/licenses/libassuan  
+/usr/share/licenses/libassuan/COPYING  
+/usr/share/licenses/libassuan/COPYING.LIB  

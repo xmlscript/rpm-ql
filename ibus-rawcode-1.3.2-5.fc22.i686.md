@@ -1,0 +1,10 @@
+/usr/libexec/ibus-engine-rawcode  
+/usr/share/doc/ibus-rawcode  
+/usr/share/doc/ibus-rawcode/AUTHORS  
+/usr/share/doc/ibus-rawcode/COPYING  
+/usr/share/doc/ibus-rawcode/README  
+/usr/share/ibus-rawcode  
+/usr/share/ibus-rawcode/icons  
+/usr/share/ibus-rawcode/icons/ibus-rawcode.png  
+/usr/share/ibus/component/rawcode.xml  
+/usr/share/locale/zh\_CN/LC\_MESSAGES/ibus-rawcode.mo  

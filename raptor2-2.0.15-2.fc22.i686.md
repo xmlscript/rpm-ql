@@ -1,0 +1,13 @@
+/usr/bin/rapper  
+/usr/lib/libraptor2.so.0  
+/usr/lib/libraptor2.so.0.0.0  
+/usr/share/doc/raptor2  
+/usr/share/doc/raptor2/AUTHORS  
+/usr/share/doc/raptor2/COPYING  
+/usr/share/doc/raptor2/COPYING.LIB  
+/usr/share/doc/raptor2/ChangeLog  
+/usr/share/doc/raptor2/LICENSE-2.0.txt  
+/usr/share/doc/raptor2/LICENSE.txt  
+/usr/share/doc/raptor2/NEWS  
+/usr/share/doc/raptor2/README  
+/usr/share/man/man1/rapper.1.gz  

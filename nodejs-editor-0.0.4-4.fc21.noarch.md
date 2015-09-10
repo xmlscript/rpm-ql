@@ -1,0 +1,10 @@
+/usr/lib/node\_modules/editor  
+/usr/lib/node\_modules/editor/index.js  
+/usr/lib/node\_modules/editor/node\_modules  
+/usr/lib/node\_modules/editor/package.json  
+/usr/share/doc/nodejs-editor  
+/usr/share/doc/nodejs-editor/LICENSE  
+/usr/share/doc/nodejs-editor/README.markdown  
+/usr/share/doc/nodejs-editor/example  
+/usr/share/doc/nodejs-editor/example/beep.json  
+/usr/share/doc/nodejs-editor/example/edit.js  

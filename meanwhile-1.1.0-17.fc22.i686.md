@@ -1,0 +1,9 @@
+/usr/lib/libmeanwhile.so.1  
+/usr/lib/libmeanwhile.so.1.1.0  
+/usr/share/doc/meanwhile  
+/usr/share/doc/meanwhile/AUTHORS  
+/usr/share/doc/meanwhile/COPYING  
+/usr/share/doc/meanwhile/ChangeLog  
+/usr/share/doc/meanwhile/LICENSE  
+/usr/share/doc/meanwhile/README  
+/usr/share/doc/meanwhile/TODO  

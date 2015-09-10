@@ -1,0 +1,10 @@
+/usr/lib/libschroedinger-1.0.so.0  
+/usr/lib/libschroedinger-1.0.so.0.11.0  
+/usr/share/doc/schroedinger  
+/usr/share/doc/schroedinger/COPYING  
+/usr/share/doc/schroedinger/COPYING.GPL  
+/usr/share/doc/schroedinger/COPYING.LGPL  
+/usr/share/doc/schroedinger/COPYING.MIT  
+/usr/share/doc/schroedinger/COPYING.MPL  
+/usr/share/doc/schroedinger/NEWS  
+/usr/share/doc/schroedinger/TODO  

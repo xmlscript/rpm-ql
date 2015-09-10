@@ -1,0 +1,11 @@
+/usr/bin/wavpack  
+/usr/bin/wvgain  
+/usr/bin/wvunpack  
+/usr/lib/libwavpack.so.1  
+/usr/lib/libwavpack.so.1.1.5  
+/usr/share/doc/wavpack  
+/usr/share/doc/wavpack/AUTHORS  
+/usr/share/doc/wavpack/COPYING  
+/usr/share/man/man1/wavpack.1.gz  
+/usr/share/man/man1/wvgain.1.gz  
+/usr/share/man/man1/wvunpack.1.gz  

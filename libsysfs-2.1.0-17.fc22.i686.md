@@ -1,0 +1,11 @@
+/lib/libsysfs.so.2  
+/lib/libsysfs.so.2.0.1  
+/usr/share/doc/libsysfs  
+/usr/share/doc/libsysfs/AUTHORS  
+/usr/share/doc/libsysfs/COPYING  
+/usr/share/doc/libsysfs/CREDITS  
+/usr/share/doc/libsysfs/ChangeLog  
+/usr/share/doc/libsysfs/LGPL  
+/usr/share/doc/libsysfs/NEWS  
+/usr/share/doc/libsysfs/README  
+/usr/share/doc/libsysfs/libsysfs.txt  

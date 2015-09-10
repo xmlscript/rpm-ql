@@ -1,0 +1,9 @@
+/usr/lib/perl5/vendor\_perl/Digest  
+/usr/lib/perl5/vendor\_perl/Digest/MD5.pm  
+/usr/lib/perl5/vendor\_perl/auto/Digest  
+/usr/lib/perl5/vendor\_perl/auto/Digest/MD5  
+/usr/lib/perl5/vendor\_perl/auto/Digest/MD5/MD5.so  
+/usr/share/doc/perl-Digest-MD5  
+/usr/share/doc/perl-Digest-MD5/Changes  
+/usr/share/doc/perl-Digest-MD5/README  
+/usr/share/man/man3/Digest::MD5.3pm.gz  

@@ -1,0 +1,12 @@
+/usr/lib/libtasn1.so.6  
+/usr/lib/libtasn1.so.6.4.2  
+/usr/share/doc/libtasn1  
+/usr/share/doc/libtasn1/AUTHORS  
+/usr/share/doc/libtasn1/NEWS  
+/usr/share/doc/libtasn1/README  
+/usr/share/doc/libtasn1/THANKS  
+/usr/share/doc/libtasn1/TODO  
+/usr/share/doc/libtasn1/libtasn1.pdf  
+/usr/share/licenses/libtasn1  
+/usr/share/licenses/libtasn1/COPYING  
+/usr/share/licenses/libtasn1/COPYING.LIB  

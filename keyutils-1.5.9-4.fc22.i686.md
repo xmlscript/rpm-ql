@@ -1,0 +1,15 @@
+/etc/request-key.conf  
+/etc/request-key.d  
+/usr/bin/keyctl  
+/usr/sbin/key.dns\_resolver  
+/usr/sbin/request-key  
+/usr/share/doc/keyutils  
+/usr/share/doc/keyutils/README  
+/usr/share/keyutils  
+/usr/share/keyutils/request-key-debug.sh  
+/usr/share/licenses/keyutils  
+/usr/share/licenses/keyutils/LICENCE.GPL  
+/usr/share/man/man1/keyctl.1.gz  
+/usr/share/man/man5/request-key.conf.5.gz  
+/usr/share/man/man8/key.dns\_resolver.8.gz  
+/usr/share/man/man8/request-key.8.gz  

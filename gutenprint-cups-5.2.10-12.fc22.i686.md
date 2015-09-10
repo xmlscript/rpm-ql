@@ -1,0 +1,14 @@
+/usr/bin/cups-calibrate  
+/usr/lib/cups/backend/gutenprint52+usb  
+/usr/lib/cups/driver/gutenprint.5.2  
+/usr/lib/cups/filter/commandtocanon  
+/usr/lib/cups/filter/commandtoepson  
+/usr/lib/cups/filter/rastertogutenprint.5.2  
+/usr/sbin/cups-genppd.5.2  
+/usr/sbin/cups-genppdupdate  
+/usr/share/cups/calibrate.ppm  
+/usr/share/cups/usb/net.sf.gimp-print.usb-quirks  
+/usr/share/man/man8/cups-calibrate.8.gz  
+/usr/share/man/man8/cups-genppd.5.2.8.gz  
+/usr/share/man/man8/cups-genppd.8.gz  
+/usr/share/man/man8/cups-genppdupdate.8.gz  

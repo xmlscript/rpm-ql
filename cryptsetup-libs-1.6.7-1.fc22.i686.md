@@ -1,0 +1,17 @@
+/usr/lib/libcryptsetup.so.4  
+/usr/lib/libcryptsetup.so.4.7.0  
+/usr/share/licenses/cryptsetup-libs  
+/usr/share/licenses/cryptsetup-libs/COPYING  
+/usr/share/licenses/cryptsetup-libs/COPYING.LGPL  
+/usr/share/locale/cs/LC\_MESSAGES/cryptsetup.mo  
+/usr/share/locale/de/LC\_MESSAGES/cryptsetup.mo  
+/usr/share/locale/es/LC\_MESSAGES/cryptsetup.mo  
+/usr/share/locale/fi/LC\_MESSAGES/cryptsetup.mo  
+/usr/share/locale/fr/LC\_MESSAGES/cryptsetup.mo  
+/usr/share/locale/id/LC\_MESSAGES/cryptsetup.mo  
+/usr/share/locale/it/LC\_MESSAGES/cryptsetup.mo  
+/usr/share/locale/nl/LC\_MESSAGES/cryptsetup.mo  
+/usr/share/locale/pl/LC\_MESSAGES/cryptsetup.mo  
+/usr/share/locale/sv/LC\_MESSAGES/cryptsetup.mo  
+/usr/share/locale/uk/LC\_MESSAGES/cryptsetup.mo  
+/usr/share/locale/vi/LC\_MESSAGES/cryptsetup.mo  

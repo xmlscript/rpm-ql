@@ -1,0 +1,11 @@
+/etc/libvirt/qemu  
+/etc/libvirt/qemu-lockd.conf  
+/etc/libvirt/qemu.conf  
+/etc/logrotate.d/libvirtd.qemu  
+/usr/lib/libvirt/connection-driver/libvirt\_driver\_qemu.so  
+/usr/share/augeas/lenses/libvirtd\_qemu.aug  
+/usr/share/augeas/lenses/tests/test\_libvirtd\_qemu.aug  
+/var/cache/libvirt/qemu  
+/var/lib/libvirt/qemu  
+/var/log/libvirt/qemu  
+/var/run/libvirt/qemu  

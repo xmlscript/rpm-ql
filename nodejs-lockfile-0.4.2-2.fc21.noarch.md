@@ -1,0 +1,12 @@
+/usr/lib/node\_modules/lockfile  
+/usr/lib/node\_modules/lockfile/lockfile.js  
+/usr/lib/node\_modules/lockfile/node\_modules  
+/usr/lib/node\_modules/lockfile/package.json  
+/usr/lib/node\_modules/lockfile/test  
+/usr/lib/node\_modules/lockfile/test/basic.js  
+/usr/lib/node\_modules/lockfile/test/fixtures  
+/usr/lib/node\_modules/lockfile/test/fixtures/bad-child.js  
+/usr/lib/node\_modules/lockfile/test/fixtures/child.js  
+/usr/share/doc/nodejs-lockfile  
+/usr/share/doc/nodejs-lockfile/LICENSE  
+/usr/share/doc/nodejs-lockfile/README.md  

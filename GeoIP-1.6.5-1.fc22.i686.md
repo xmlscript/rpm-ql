@@ -1,0 +1,13 @@
+/usr/bin/geoiplookup  
+/usr/bin/geoiplookup6  
+/usr/lib/libGeoIP.so.1  
+/usr/lib/libGeoIP.so.1.6.5  
+/usr/share/doc/GeoIP  
+/usr/share/doc/GeoIP/AUTHORS  
+/usr/share/doc/GeoIP/ChangeLog  
+/usr/share/doc/GeoIP/NEWS.md  
+/usr/share/doc/GeoIP/README.md  
+/usr/share/licenses/GeoIP  
+/usr/share/licenses/GeoIP/COPYING  
+/usr/share/man/man1/geoiplookup.1.gz  
+/usr/share/man/man1/geoiplookup6.1.gz  

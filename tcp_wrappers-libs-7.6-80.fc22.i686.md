@@ -1,0 +1,17 @@
+/usr/lib/libwrap.so.0  
+/usr/lib/libwrap.so.0.7.6  
+/usr/share/doc/tcp\_wrappers-libs  
+/usr/share/doc/tcp\_wrappers-libs/BLURB  
+/usr/share/doc/tcp\_wrappers-libs/Banners.Makefile  
+/usr/share/doc/tcp\_wrappers-libs/CHANGES  
+/usr/share/doc/tcp\_wrappers-libs/README  
+/usr/share/doc/tcp\_wrappers-libs/README.IRIX  
+/usr/share/doc/tcp\_wrappers-libs/README.NIS  
+/usr/share/doc/tcp\_wrappers-libs/README.ipv6  
+/usr/share/doc/tcp\_wrappers-libs/README.ipv6.2  
+/usr/share/licenses/tcp\_wrappers-libs  
+/usr/share/licenses/tcp\_wrappers-libs/DISCLAIMER  
+/usr/share/man/man5/hosts.allow.5.gz  
+/usr/share/man/man5/hosts.deny.5.gz  
+/usr/share/man/man5/hosts\_access.5.gz  
+/usr/share/man/man5/hosts\_options.5.gz  

@@ -1,0 +1,13 @@
+/usr/lib/python2.7/site-packages/dmidecode.py  
+/usr/lib/python2.7/site-packages/dmidecode.pyc  
+/usr/lib/python2.7/site-packages/dmidecode.pyo  
+/usr/lib/python2.7/site-packages/dmidecodemod.so  
+/usr/lib/python2.7/site-packages/python\_dmidecode-3.10.13-py2.7.egg-info  
+/usr/share/doc/python-dmidecode  
+/usr/share/doc/python-dmidecode/AUTHORS  
+/usr/share/doc/python-dmidecode/AUTHORS.upstream  
+/usr/share/doc/python-dmidecode/LICENSE  
+/usr/share/doc/python-dmidecode/README  
+/usr/share/doc/python-dmidecode/README.upstream  
+/usr/share/python-dmidecode  
+/usr/share/python-dmidecode/pymap.xml  

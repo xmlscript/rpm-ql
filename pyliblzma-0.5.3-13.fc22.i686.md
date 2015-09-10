@@ -1,0 +1,16 @@
+/usr/lib/python2.7/site-packages/liblzma.py  
+/usr/lib/python2.7/site-packages/liblzma.pyc  
+/usr/lib/python2.7/site-packages/liblzma.pyo  
+/usr/lib/python2.7/site-packages/lzma.so  
+/usr/lib/python2.7/site-packages/pyliblzma-0.5.3-py2.7.egg-info  
+/usr/lib/python2.7/site-packages/pyliblzma-0.5.3-py2.7.egg-info/PKG-INFO  
+/usr/lib/python2.7/site-packages/pyliblzma-0.5.3-py2.7.egg-info/SOURCES.txt  
+/usr/lib/python2.7/site-packages/pyliblzma-0.5.3-py2.7.egg-info/dependency\_links.txt  
+/usr/lib/python2.7/site-packages/pyliblzma-0.5.3-py2.7.egg-info/top\_level.txt  
+/usr/share/doc/pyliblzma  
+/usr/share/doc/pyliblzma/ChangeLog  
+/usr/share/doc/pyliblzma/NEWS  
+/usr/share/doc/pyliblzma/README  
+/usr/share/doc/pyliblzma/THANKS  
+/usr/share/licenses/pyliblzma  
+/usr/share/licenses/pyliblzma/COPYING  

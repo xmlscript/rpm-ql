@@ -1,0 +1,14 @@
+/usr/lib/libfftw3.so.3  
+/usr/lib/libfftw3.so.3.4.4  
+/usr/lib/libfftw3\_omp.so.3  
+/usr/lib/libfftw3\_omp.so.3.4.4  
+/usr/lib/libfftw3\_threads.so.3  
+/usr/lib/libfftw3\_threads.so.3.4.4  
+/usr/share/doc/fftw-libs-double  
+/usr/share/doc/fftw-libs-double/AUTHORS  
+/usr/share/doc/fftw-libs-double/COPYING  
+/usr/share/doc/fftw-libs-double/COPYRIGHT  
+/usr/share/doc/fftw-libs-double/ChangeLog  
+/usr/share/doc/fftw-libs-double/NEWS  
+/usr/share/doc/fftw-libs-double/README  
+/usr/share/doc/fftw-libs-double/TODO  

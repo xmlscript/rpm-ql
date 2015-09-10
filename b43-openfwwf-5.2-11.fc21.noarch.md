@@ -1,0 +1,9 @@
+/etc/modprobe.d/openfwwf.conf  
+/lib/firmware/b43-open  
+/lib/firmware/b43-open/b0g0bsinitvals5.fw  
+/lib/firmware/b43-open/b0g0initvals5.fw  
+/lib/firmware/b43-open/ucode5.fw  
+/usr/share/doc/b43-openfwwf  
+/usr/share/doc/b43-openfwwf/COPYING  
+/usr/share/doc/b43-openfwwf/LICENSE  
+/usr/share/doc/b43-openfwwf/README.openfwwf  

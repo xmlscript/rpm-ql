@@ -1,0 +1,11 @@
+/usr/bin/fribidi  
+/usr/lib/libfribidi.so.0  
+/usr/lib/libfribidi.so.0.3.5  
+/usr/share/doc/fribidi  
+/usr/share/doc/fribidi/AUTHORS  
+/usr/share/doc/fribidi/COPYING  
+/usr/share/doc/fribidi/ChangeLog  
+/usr/share/doc/fribidi/NEWS  
+/usr/share/doc/fribidi/README  
+/usr/share/doc/fribidi/THANKS  
+/usr/share/doc/fribidi/TODO  

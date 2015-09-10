@@ -1,0 +1,10 @@
+/usr/lib/liborcus-0.8.so.0  
+/usr/lib/liborcus-0.8.so.0.0.0  
+/usr/lib/liborcus-mso-0.8.so.0  
+/usr/lib/liborcus-mso-0.8.so.0.0.0  
+/usr/lib/liborcus-parser-0.8.so.0  
+/usr/lib/liborcus-parser-0.8.so.0.0.0  
+/usr/share/doc/liborcus  
+/usr/share/doc/liborcus/AUTHORS  
+/usr/share/doc/liborcus/COPYING  
+/usr/share/doc/liborcus/README  

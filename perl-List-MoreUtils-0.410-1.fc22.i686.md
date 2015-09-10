@@ -1,0 +1,14 @@
+/usr/lib/perl5/vendor\_perl/List  
+/usr/lib/perl5/vendor\_perl/List/MoreUtils  
+/usr/lib/perl5/vendor\_perl/List/MoreUtils.pm  
+/usr/lib/perl5/vendor\_perl/List/MoreUtils/PP.pm  
+/usr/lib/perl5/vendor\_perl/List/MoreUtils/XS.pm  
+/usr/lib/perl5/vendor\_perl/auto/List  
+/usr/lib/perl5/vendor\_perl/auto/List/MoreUtils  
+/usr/lib/perl5/vendor\_perl/auto/List/MoreUtils/MoreUtils.so  
+/usr/share/doc/perl-List-MoreUtils  
+/usr/share/doc/perl-List-MoreUtils/Changes  
+/usr/share/doc/perl-List-MoreUtils/README.md  
+/usr/share/man/man3/List::MoreUtils.3pm.gz  
+/usr/share/man/man3/List::MoreUtils::PP.3pm.gz  
+/usr/share/man/man3/List::MoreUtils::XS.3pm.gz  

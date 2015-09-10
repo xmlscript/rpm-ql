@@ -1,0 +1,9 @@
+/usr/share/doc/perl-WWW-RobotRules  
+/usr/share/doc/perl-WWW-RobotRules/Changes  
+/usr/share/doc/perl-WWW-RobotRules/README  
+/usr/share/man/man3/WWW::RobotRules.3pm.gz  
+/usr/share/man/man3/WWW::RobotRules::AnyDBM\_File.3pm.gz  
+/usr/share/perl5/vendor\_perl/WWW  
+/usr/share/perl5/vendor\_perl/WWW/RobotRules  
+/usr/share/perl5/vendor\_perl/WWW/RobotRules.pm  
+/usr/share/perl5/vendor\_perl/WWW/RobotRules/AnyDBM\_File.pm  

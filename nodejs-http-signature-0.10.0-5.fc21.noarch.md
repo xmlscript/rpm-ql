@@ -1,0 +1,16 @@
+/usr/lib/node\_modules/http-signature  
+/usr/lib/node\_modules/http-signature/lib  
+/usr/lib/node\_modules/http-signature/lib/index.js  
+/usr/lib/node\_modules/http-signature/lib/parser.js  
+/usr/lib/node\_modules/http-signature/lib/signer.js  
+/usr/lib/node\_modules/http-signature/lib/util.js  
+/usr/lib/node\_modules/http-signature/lib/verify.js  
+/usr/lib/node\_modules/http-signature/node\_modules  
+/usr/lib/node\_modules/http-signature/node\_modules/asn1  
+/usr/lib/node\_modules/http-signature/node\_modules/assert-plus  
+/usr/lib/node\_modules/http-signature/node\_modules/ctype  
+/usr/lib/node\_modules/http-signature/package.json  
+/usr/share/doc/nodejs-http-signature  
+/usr/share/doc/nodejs-http-signature/LICENSE  
+/usr/share/doc/nodejs-http-signature/README.md  
+/usr/share/doc/nodejs-http-signature/http\_signing.md  

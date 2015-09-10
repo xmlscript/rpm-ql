@@ -1,0 +1,14 @@
+/usr/bin/canberra-gtk-play  
+/usr/lib/gnome-settings-daemon-3.0  
+/usr/lib/gnome-settings-daemon-3.0/gtk-modules  
+/usr/lib/gnome-settings-daemon-3.0/gtk-modules/canberra-gtk-module.desktop  
+/usr/lib/gtk-3.0/modules/libcanberra-gtk-module.so  
+/usr/lib/gtk-3.0/modules/libcanberra-gtk3-module.so  
+/usr/lib/libcanberra-gtk3.so.0  
+/usr/lib/libcanberra-gtk3.so.0.1.9  
+/usr/share/gdm  
+/usr/share/gdm/autostart  
+/usr/share/gdm/autostart/LoginWindow  
+/usr/share/gdm/autostart/LoginWindow/libcanberra-ready-sound.desktop  
+/usr/share/gnome/autostart/libcanberra-login-sound.desktop  
+/usr/share/gnome/shutdown/libcanberra-logout-sound.sh  

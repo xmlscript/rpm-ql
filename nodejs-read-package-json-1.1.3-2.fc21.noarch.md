@@ -1,0 +1,10 @@
+/usr/lib/node\_modules/read-package-json  
+/usr/lib/node\_modules/read-package-json/node\_modules  
+/usr/lib/node\_modules/read-package-json/node\_modules/glob  
+/usr/lib/node\_modules/read-package-json/node\_modules/lru-cache  
+/usr/lib/node\_modules/read-package-json/node\_modules/normalize-package-data  
+/usr/lib/node\_modules/read-package-json/package.json  
+/usr/lib/node\_modules/read-package-json/read-json.js  
+/usr/share/doc/nodejs-read-package-json  
+/usr/share/doc/nodejs-read-package-json/LICENSE  
+/usr/share/doc/nodejs-read-package-json/README.md  

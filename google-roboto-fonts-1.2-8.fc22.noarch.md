@@ -1,0 +1,16 @@
+/etc/fonts/conf.d/64-google-roboto.conf  
+/usr/share/appdata/google-roboto.metainfo.xml  
+/usr/share/fontconfig/conf.avail/64-google-roboto.conf  
+/usr/share/fonts/google-roboto  
+/usr/share/fonts/google-roboto/Roboto-Black.ttf  
+/usr/share/fonts/google-roboto/Roboto-BlackItalic.ttf  
+/usr/share/fonts/google-roboto/Roboto-Bold.ttf  
+/usr/share/fonts/google-roboto/Roboto-BoldItalic.ttf  
+/usr/share/fonts/google-roboto/Roboto-Italic.ttf  
+/usr/share/fonts/google-roboto/Roboto-Light.ttf  
+/usr/share/fonts/google-roboto/Roboto-LightItalic.ttf  
+/usr/share/fonts/google-roboto/Roboto-Medium.ttf  
+/usr/share/fonts/google-roboto/Roboto-MediumItalic.ttf  
+/usr/share/fonts/google-roboto/Roboto-Regular.ttf  
+/usr/share/fonts/google-roboto/Roboto-Thin.ttf  
+/usr/share/fonts/google-roboto/Roboto-ThinItalic.ttf  

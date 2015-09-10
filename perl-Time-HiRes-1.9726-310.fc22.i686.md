@@ -1,0 +1,10 @@
+/usr/lib/perl5/vendor\_perl/Time  
+/usr/lib/perl5/vendor\_perl/Time/HiRes.pm  
+/usr/lib/perl5/vendor\_perl/auto/Time  
+/usr/lib/perl5/vendor\_perl/auto/Time/HiRes  
+/usr/lib/perl5/vendor\_perl/auto/Time/HiRes/HiRes.so  
+/usr/share/doc/perl-Time-HiRes  
+/usr/share/doc/perl-Time-HiRes/Changes  
+/usr/share/doc/perl-Time-HiRes/README  
+/usr/share/doc/perl-Time-HiRes/TODO  
+/usr/share/man/man3/Time::HiRes.3pm.gz  

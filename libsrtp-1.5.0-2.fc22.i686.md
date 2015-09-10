@@ -1,0 +1,14 @@
+/usr/lib/libsrtp.so.1  
+/usr/lib/libsrtp.so.1.0.0  
+/usr/share/doc/libsrtp  
+/usr/share/doc/libsrtp/CHANGES  
+/usr/share/doc/libsrtp/LICENSE  
+/usr/share/doc/libsrtp/README  
+/usr/share/doc/libsrtp/TODO  
+/usr/share/doc/libsrtp/VERSION  
+/usr/share/doc/libsrtp/crypto\_kernel.txt  
+/usr/share/doc/libsrtp/draft-irtf-cfrg-icm-00.txt  
+/usr/share/doc/libsrtp/intro.txt  
+/usr/share/doc/libsrtp/libsrtp.pdf  
+/usr/share/doc/libsrtp/references.txt  
+/usr/share/doc/libsrtp/rfc3711.txt  

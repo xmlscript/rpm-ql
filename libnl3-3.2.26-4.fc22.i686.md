@@ -1,0 +1,17 @@
+/etc/libnl  
+/etc/libnl/classid  
+/etc/libnl/pktloc  
+/usr/lib/libnl-3.so.200  
+/usr/lib/libnl-3.so.200.21.0  
+/usr/lib/libnl-genl-3.so.200  
+/usr/lib/libnl-genl-3.so.200.21.0  
+/usr/lib/libnl-idiag-3.so.200  
+/usr/lib/libnl-idiag-3.so.200.21.0  
+/usr/lib/libnl-nf-3.so.200  
+/usr/lib/libnl-nf-3.so.200.21.0  
+/usr/lib/libnl-route-3.so.200  
+/usr/lib/libnl-route-3.so.200.21.0  
+/usr/lib/libnl-xfrm-3.so.200  
+/usr/lib/libnl-xfrm-3.so.200.21.0  
+/usr/share/doc/libnl3  
+/usr/share/doc/libnl3/COPYING  

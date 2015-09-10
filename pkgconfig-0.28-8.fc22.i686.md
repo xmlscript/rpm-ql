@@ -1,0 +1,13 @@
+/usr/bin/i686-redhat-linux-gnu-pkg-config  
+/usr/bin/pkg-config  
+/usr/lib/pkgconfig  
+/usr/share/aclocal/pkg.m4  
+/usr/share/doc/pkgconfig  
+/usr/share/doc/pkgconfig/AUTHORS  
+/usr/share/doc/pkgconfig/NEWS  
+/usr/share/doc/pkgconfig/README  
+/usr/share/doc/pkgconfig/pkg-config-guide.html  
+/usr/share/licenses/pkgconfig  
+/usr/share/licenses/pkgconfig/COPYING  
+/usr/share/man/man1/pkg-config.1.gz  
+/usr/share/pkgconfig  

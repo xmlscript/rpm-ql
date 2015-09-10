@@ -1,0 +1,10 @@
+/usr/share/doc/geronimo-jms  
+/usr/share/doc/geronimo-jms/LICENSE.txt  
+/usr/share/doc/geronimo-jms/NOTICE.txt  
+/usr/share/java/geronimo-jms.jar  
+/usr/share/java/geronimo-jms\_1.1\_spec.jar  
+/usr/share/java/jms.jar  
+/usr/share/maven-metadata/geronimo-jms.xml  
+/usr/share/maven-poms/geronimo-jms.pom  
+/usr/share/maven-poms/geronimo-jms\_1.1\_spec.pom  
+/usr/share/maven-poms/jms.pom  

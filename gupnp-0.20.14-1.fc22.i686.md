@@ -1,0 +1,9 @@
+/usr/bin/gupnp-binding-tool  
+/usr/lib/girepository-1.0/GUPnP-1.0.typelib  
+/usr/lib/libgupnp-1.0.so.4  
+/usr/lib/libgupnp-1.0.so.4.0.0  
+/usr/share/doc/gupnp  
+/usr/share/doc/gupnp/AUTHORS  
+/usr/share/doc/gupnp/README  
+/usr/share/licenses/gupnp  
+/usr/share/licenses/gupnp/COPYING  

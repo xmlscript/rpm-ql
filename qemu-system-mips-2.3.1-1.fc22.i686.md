@@ -1,0 +1,16 @@
+/usr/bin/qemu-system-mips  
+/usr/bin/qemu-system-mips64  
+/usr/bin/qemu-system-mips64el  
+/usr/bin/qemu-system-mipsel  
+/usr/share/man/man1/qemu-system-mips.1.gz  
+/usr/share/man/man1/qemu-system-mips64.1.gz  
+/usr/share/man/man1/qemu-system-mips64el.1.gz  
+/usr/share/man/man1/qemu-system-mipsel.1.gz  
+/usr/share/systemtap/tapset/qemu-system-mips-simpletrace.stp  
+/usr/share/systemtap/tapset/qemu-system-mips.stp  
+/usr/share/systemtap/tapset/qemu-system-mips64-simpletrace.stp  
+/usr/share/systemtap/tapset/qemu-system-mips64.stp  
+/usr/share/systemtap/tapset/qemu-system-mips64el-simpletrace.stp  
+/usr/share/systemtap/tapset/qemu-system-mips64el.stp  
+/usr/share/systemtap/tapset/qemu-system-mipsel-simpletrace.stp  
+/usr/share/systemtap/tapset/qemu-system-mipsel.stp  

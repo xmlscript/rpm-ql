@@ -1,0 +1,12 @@
+/etc/fonts/conf.d/65-1-lohit-devanagari.conf  
+/usr/share/appdata/lohit-devanagari.metainfo.xml  
+/usr/share/doc/lohit-devanagari-fonts  
+/usr/share/doc/lohit-devanagari-fonts/AUTHORS  
+/usr/share/doc/lohit-devanagari-fonts/COPYRIGHT  
+/usr/share/doc/lohit-devanagari-fonts/ChangeLog  
+/usr/share/doc/lohit-devanagari-fonts/OFL.txt  
+/usr/share/doc/lohit-devanagari-fonts/README  
+/usr/share/doc/lohit-devanagari-fonts/test-devanagari.txt  
+/usr/share/fontconfig/conf.avail/65-1-lohit-devanagari.conf  
+/usr/share/fonts/lohit-devanagari  
+/usr/share/fonts/lohit-devanagari/Lohit-Devanagari.ttf  

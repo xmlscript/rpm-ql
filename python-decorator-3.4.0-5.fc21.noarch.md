@@ -1,0 +1,12 @@
+/usr/lib/python2.7/site-packages/decorator-3.4.0-py2.7.egg-info  
+/usr/lib/python2.7/site-packages/decorator-3.4.0-py2.7.egg-info/PKG-INFO  
+/usr/lib/python2.7/site-packages/decorator-3.4.0-py2.7.egg-info/SOURCES.txt  
+/usr/lib/python2.7/site-packages/decorator-3.4.0-py2.7.egg-info/dependency\_links.txt  
+/usr/lib/python2.7/site-packages/decorator-3.4.0-py2.7.egg-info/not-zip-safe  
+/usr/lib/python2.7/site-packages/decorator-3.4.0-py2.7.egg-info/top\_level.txt  
+/usr/lib/python2.7/site-packages/decorator.py  
+/usr/lib/python2.7/site-packages/decorator.pyc  
+/usr/lib/python2.7/site-packages/decorator.pyo  
+/usr/share/doc/python-decorator  
+/usr/share/doc/python-decorator/README.txt  
+/usr/share/doc/python-decorator/documentation.py  

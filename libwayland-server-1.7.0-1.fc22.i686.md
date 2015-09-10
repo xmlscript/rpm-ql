@@ -1,0 +1,2 @@
+/usr/lib/libwayland-server.so.0  
+/usr/lib/libwayland-server.so.0.1.0  

@@ -1,0 +1,12 @@
+/usr/bin/stunbdc  
+/usr/bin/stund  
+/usr/lib/girepository-1.0/Nice-0.1.typelib  
+/usr/lib/libnice.so.10  
+/usr/lib/libnice.so.10.6.2  
+/usr/share/doc/libnice  
+/usr/share/doc/libnice/NEWS  
+/usr/share/doc/libnice/README  
+/usr/share/licenses/libnice  
+/usr/share/licenses/libnice/COPYING  
+/usr/share/licenses/libnice/COPYING.LGPL  
+/usr/share/licenses/libnice/COPYING.MPL  

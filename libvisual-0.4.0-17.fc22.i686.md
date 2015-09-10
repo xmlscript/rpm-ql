@@ -1,0 +1,11 @@
+/usr/lib/libvisual-0.4.so.0  
+/usr/lib/libvisual-0.4.so.0.0.0  
+/usr/share/doc/libvisual  
+/usr/share/doc/libvisual/AUTHORS  
+/usr/share/doc/libvisual/COPYING  
+/usr/share/doc/libvisual/ChangeLog  
+/usr/share/doc/libvisual/NEWS  
+/usr/share/doc/libvisual/README  
+/usr/share/doc/libvisual/TODO  
+/usr/share/locale/es\_AR/LC\_MESSAGES/libvisual-0.4.mo  
+/usr/share/locale/es\_ES/LC\_MESSAGES/libvisual-0.4.mo  

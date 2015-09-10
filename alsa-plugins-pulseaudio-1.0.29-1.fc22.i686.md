@@ -1,0 +1,10 @@
+/usr/lib/alsa-lib/libasound\_module\_conf\_pulse.so  
+/usr/lib/alsa-lib/libasound\_module\_ctl\_pulse.so  
+/usr/lib/alsa-lib/libasound\_module\_pcm\_pulse.so  
+/usr/share/alsa/alsa.conf.d  
+/usr/share/alsa/alsa.conf.d/50-pulseaudio.conf  
+/usr/share/alsa/alsa.conf.d/99-pulseaudio-default.conf  
+/usr/share/doc/alsa-plugins-pulseaudio  
+/usr/share/doc/alsa-plugins-pulseaudio/COPYING  
+/usr/share/doc/alsa-plugins-pulseaudio/COPYING.GPL  
+/usr/share/doc/alsa-plugins-pulseaudio/README-pulse  

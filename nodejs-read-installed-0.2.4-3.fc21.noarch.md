@@ -1,0 +1,10 @@
+/usr/lib/node\_modules/read-installed  
+/usr/lib/node\_modules/read-installed/node\_modules  
+/usr/lib/node\_modules/read-installed/node\_modules/read-package-json  
+/usr/lib/node\_modules/read-installed/node\_modules/semver  
+/usr/lib/node\_modules/read-installed/node\_modules/slide  
+/usr/lib/node\_modules/read-installed/package.json  
+/usr/lib/node\_modules/read-installed/read-installed.js  
+/usr/share/doc/nodejs-read-installed  
+/usr/share/doc/nodejs-read-installed/LICENSE  
+/usr/share/doc/nodejs-read-installed/README.md  

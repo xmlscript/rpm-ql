@@ -1,0 +1,11 @@
+/usr/lib/libclucene-core.so.1  
+/usr/lib/libclucene-core.so.2.3.3.4  
+/usr/lib/libclucene-shared.so.1  
+/usr/lib/libclucene-shared.so.2.3.3.4  
+/usr/share/doc/clucene-core  
+/usr/share/doc/clucene-core/APACHE.license  
+/usr/share/doc/clucene-core/AUTHORS  
+/usr/share/doc/clucene-core/COPYING  
+/usr/share/doc/clucene-core/ChangeLog  
+/usr/share/doc/clucene-core/LGPL.license  
+/usr/share/doc/clucene-core/README  

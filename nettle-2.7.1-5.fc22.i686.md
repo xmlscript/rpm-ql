@@ -1,0 +1,16 @@
+/usr/bin/nettle-hash  
+/usr/bin/nettle-lfib-stream  
+/usr/bin/pkcs1-conv  
+/usr/bin/sexp-conv  
+/usr/lib/libhogweed.so.2  
+/usr/lib/libhogweed.so.2.5  
+/usr/lib/libnettle.so.4  
+/usr/lib/libnettle.so.4.7  
+/usr/share/doc/nettle  
+/usr/share/doc/nettle/AUTHORS  
+/usr/share/doc/nettle/COPYING.LIB  
+/usr/share/doc/nettle/ChangeLog  
+/usr/share/doc/nettle/NEWS  
+/usr/share/doc/nettle/README  
+/usr/share/doc/nettle/TODO  
+/usr/share/info/nettle.info.gz  

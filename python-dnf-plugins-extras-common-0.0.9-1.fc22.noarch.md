@@ -1,0 +1,9 @@
+/usr/lib/python2.7/site-packages/dnfpluginsextras  
+/usr/lib/python2.7/site-packages/dnfpluginsextras/\_\_init\_\_.py  
+/usr/lib/python2.7/site-packages/dnfpluginsextras/\_\_init\_\_.pyc  
+/usr/lib/python2.7/site-packages/dnfpluginsextras/\_\_init\_\_.pyo  
+/usr/share/doc/python-dnf-plugins-extras-common  
+/usr/share/doc/python-dnf-plugins-extras-common/AUTHORS  
+/usr/share/doc/python-dnf-plugins-extras-common/COPYING  
+/usr/share/doc/python-dnf-plugins-extras-common/README.rst  
+/usr/share/locale/ru/LC\_MESSAGES/dnf-plugins-extras.mo  

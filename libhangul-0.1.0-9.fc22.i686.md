@@ -1,0 +1,13 @@
+/usr/bin/hangul  
+/usr/lib/libhangul.so.1  
+/usr/lib/libhangul.so.1.0.0  
+/usr/share/doc/libhangul  
+/usr/share/doc/libhangul/AUTHORS  
+/usr/share/doc/libhangul/COPYING  
+/usr/share/doc/libhangul/ChangeLog  
+/usr/share/doc/libhangul/NEWS  
+/usr/share/doc/libhangul/README  
+/usr/share/libhangul  
+/usr/share/libhangul/hanja  
+/usr/share/libhangul/hanja/hanja.txt  
+/usr/share/locale/ko/LC\_MESSAGES/libhangul.mo  

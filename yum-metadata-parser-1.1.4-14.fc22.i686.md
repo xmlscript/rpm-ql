@@ -1,0 +1,11 @@
+/usr/lib/python2.7/site-packages/\_sqlitecache.so  
+/usr/lib/python2.7/site-packages/sqlitecachec.py  
+/usr/lib/python2.7/site-packages/sqlitecachec.pyc  
+/usr/lib/python2.7/site-packages/sqlitecachec.pyo  
+/usr/lib/python2.7/site-packages/yum\_metadata\_parser-1.1.4-py2.7.egg-info  
+/usr/share/doc/yum-metadata-parser  
+/usr/share/doc/yum-metadata-parser/AUTHORS  
+/usr/share/doc/yum-metadata-parser/ChangeLog  
+/usr/share/doc/yum-metadata-parser/README  
+/usr/share/licenses/yum-metadata-parser  
+/usr/share/licenses/yum-metadata-parser/gpl-2.0.txt  

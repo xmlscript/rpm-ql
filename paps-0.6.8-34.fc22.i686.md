@@ -1,0 +1,10 @@
+/etc/fonts/conf.d/29-paps.conf  
+/usr/bin/paps  
+/usr/lib/cups/filter/texttopaps  
+/usr/share/cups/mime/paps.convs  
+/usr/share/doc/paps  
+/usr/share/doc/paps/AUTHORS  
+/usr/share/doc/paps/COPYING.LIB  
+/usr/share/doc/paps/README  
+/usr/share/doc/paps/TODO  
+/usr/share/man/man1/paps.1.gz  

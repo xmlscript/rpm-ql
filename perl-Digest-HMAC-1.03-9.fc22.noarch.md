@@ -1,0 +1,10 @@
+/usr/share/doc/perl-Digest-HMAC  
+/usr/share/doc/perl-Digest-HMAC/Changes  
+/usr/share/doc/perl-Digest-HMAC/README  
+/usr/share/man/man3/Digest::HMAC.3pm.gz  
+/usr/share/man/man3/Digest::HMAC\_MD5.3pm.gz  
+/usr/share/man/man3/Digest::HMAC\_SHA1.3pm.gz  
+/usr/share/perl5/vendor\_perl/Digest  
+/usr/share/perl5/vendor\_perl/Digest/HMAC.pm  
+/usr/share/perl5/vendor\_perl/Digest/HMAC\_MD5.pm  
+/usr/share/perl5/vendor\_perl/Digest/HMAC\_SHA1.pm  

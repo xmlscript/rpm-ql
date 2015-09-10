@@ -1,0 +1,10 @@
+/etc/passwdqc.conf  
+/lib/security/pam\_passwdqc.so  
+/usr/bin/pwqcheck  
+/usr/bin/pwqgen  
+/usr/share/doc/passwdqc  
+/usr/share/doc/passwdqc/README  
+/usr/share/man/man1/pwqcheck.1.gz  
+/usr/share/man/man1/pwqgen.1.gz  
+/usr/share/man/man5/passwdqc.conf.5.gz  
+/usr/share/man/man8/pam\_passwdqc.8.gz  

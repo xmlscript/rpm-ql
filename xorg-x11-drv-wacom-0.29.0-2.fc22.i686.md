@@ -1,0 +1,13 @@
+/usr/bin/isdv4-serial-inputattach  
+/usr/bin/xsetwacom  
+/usr/lib/systemd/system/wacom-inputattach@.service  
+/usr/lib/udev/rules.d/70-wacom.rules  
+/usr/lib/xorg/modules/input/wacom\_drv.so  
+/usr/share/X11/xorg.conf.d/50-wacom.conf  
+/usr/share/doc/xorg-x11-drv-wacom  
+/usr/share/doc/xorg-x11-drv-wacom/AUTHORS  
+/usr/share/doc/xorg-x11-drv-wacom/ChangeLog  
+/usr/share/doc/xorg-x11-drv-wacom/GPL  
+/usr/share/doc/xorg-x11-drv-wacom/README  
+/usr/share/man/man1/xsetwacom.1.gz  
+/usr/share/man/man4/wacom.4.gz  

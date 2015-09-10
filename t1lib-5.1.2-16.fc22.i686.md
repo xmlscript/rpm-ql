@@ -1,0 +1,15 @@
+/usr/lib/libt1.so.5  
+/usr/lib/libt1.so.5.1.2  
+/usr/lib/libt1x.so.5  
+/usr/lib/libt1x.so.5.1.2  
+/usr/sbin/t1libconfig  
+/usr/share/doc/t1lib  
+/usr/share/doc/t1lib/Changes  
+/usr/share/doc/t1lib/LGPL  
+/usr/share/doc/t1lib/LICENSE  
+/usr/share/doc/t1lib/README  
+/usr/share/man/man5/FontDatabase.5.gz  
+/usr/share/man/man8/t1libconfig.8.gz  
+/usr/share/t1lib  
+/usr/share/t1lib/FontDatabase  
+/usr/share/t1lib/t1lib.config  

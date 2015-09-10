@@ -1,0 +1,12 @@
+/usr/include/uv-errno.h  
+/usr/include/uv-linux.h  
+/usr/include/uv-threadpool.h  
+/usr/include/uv-unix.h  
+/usr/include/uv-version.h  
+/usr/include/uv.h  
+/usr/lib/libuv.so  
+/usr/lib/pkgconfig/libuv.pc  
+/usr/share/doc/libuv-devel  
+/usr/share/doc/libuv-devel/AUTHORS  
+/usr/share/doc/libuv-devel/LICENSE  
+/usr/share/doc/libuv-devel/README.md  

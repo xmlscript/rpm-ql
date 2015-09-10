@@ -1,0 +1,11 @@
+/etc/libreport/events.d/uploader\_event.conf  
+/etc/libreport/plugins/upload.conf  
+/etc/libreport/workflows.d/report\_uploader.conf  
+/usr/bin/reporter-upload  
+/usr/share/libreport/conf.d/plugins/upload.conf  
+/usr/share/libreport/events/report\_Uploader.xml  
+/usr/share/libreport/workflows/workflow\_Upload.xml  
+/usr/share/libreport/workflows/workflow\_UploadCCpp.xml  
+/usr/share/man/man1/reporter-upload.1.gz  
+/usr/share/man/man5/report\_uploader.conf.5.gz  
+/usr/share/man/man5/uploader\_event.conf.5.gz  

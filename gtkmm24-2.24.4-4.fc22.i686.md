@@ -1,0 +1,9 @@
+/usr/lib/libgdkmm-2.4.so.1  
+/usr/lib/libgdkmm-2.4.so.1.1.0  
+/usr/lib/libgtkmm-2.4.so.1  
+/usr/lib/libgtkmm-2.4.so.1.1.0  
+/usr/share/doc/gtkmm24  
+/usr/share/doc/gtkmm24/AUTHORS  
+/usr/share/doc/gtkmm24/COPYING  
+/usr/share/doc/gtkmm24/NEWS  
+/usr/share/doc/gtkmm24/README  

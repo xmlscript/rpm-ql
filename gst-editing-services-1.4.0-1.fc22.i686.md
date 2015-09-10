@@ -1,0 +1,12 @@
+/usr/bin/ges-launch-1.0  
+/usr/lib/girepository-1.0/GES-1.0.typelib  
+/usr/lib/libges-1.0.so.0  
+/usr/lib/libges-1.0.so.0.0.0  
+/usr/share/doc/gst-editing-services  
+/usr/share/doc/gst-editing-services/AUTHORS  
+/usr/share/doc/gst-editing-services/COPYING  
+/usr/share/doc/gst-editing-services/COPYING.LIB  
+/usr/share/doc/gst-editing-services/ChangeLog  
+/usr/share/doc/gst-editing-services/NEWS  
+/usr/share/doc/gst-editing-services/README  
+/usr/share/doc/gst-editing-services/RELEASE  

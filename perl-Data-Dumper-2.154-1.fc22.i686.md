@@ -1,0 +1,9 @@
+/usr/lib/perl5/vendor\_perl/Data  
+/usr/lib/perl5/vendor\_perl/Data/Dumper.pm  
+/usr/lib/perl5/vendor\_perl/auto/Data  
+/usr/lib/perl5/vendor\_perl/auto/Data/Dumper  
+/usr/lib/perl5/vendor\_perl/auto/Data/Dumper/Dumper.so  
+/usr/share/doc/perl-Data-Dumper  
+/usr/share/doc/perl-Data-Dumper/Changes  
+/usr/share/doc/perl-Data-Dumper/Todo  
+/usr/share/man/man3/Data::Dumper.3pm.gz  

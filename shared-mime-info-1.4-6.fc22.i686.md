@@ -1,0 +1,16 @@
+/usr/bin/update-mime-database  
+/usr/share/applications/gnome-mimeapps.list  
+/usr/share/applications/mimeapps.list  
+/usr/share/doc/shared-mime-info  
+/usr/share/doc/shared-mime-info/HACKING  
+/usr/share/doc/shared-mime-info/NEWS  
+/usr/share/doc/shared-mime-info/README  
+/usr/share/doc/shared-mime-info/shared-mime-info-spec.xml  
+/usr/share/licenses/shared-mime-info  
+/usr/share/licenses/shared-mime-info/COPYING  
+/usr/share/man/man1/update-mime-database.1.gz  
+/usr/share/mime  
+/usr/share/mime/packages  
+/usr/share/mime/packages/freedesktop.org.xml  
+/usr/share/pkgconfig  
+/usr/share/pkgconfig/shared-mime-info.pc  

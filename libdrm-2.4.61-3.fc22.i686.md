@@ -1,0 +1,13 @@
+/lib/udev/rules.d/91-drm-modeset.rules  
+/usr/lib/libdrm.so.2  
+/usr/lib/libdrm.so.2.4.0  
+/usr/lib/libdrm\_intel.so.1  
+/usr/lib/libdrm\_intel.so.1.0.0  
+/usr/lib/libdrm\_nouveau.so.2  
+/usr/lib/libdrm\_nouveau.so.2.0.0  
+/usr/lib/libdrm\_radeon.so.1  
+/usr/lib/libdrm\_radeon.so.1.0.1  
+/usr/lib/libkms.so.1  
+/usr/lib/libkms.so.1.0.0  
+/usr/share/doc/libdrm  
+/usr/share/doc/libdrm/README  

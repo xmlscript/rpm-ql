@@ -1,0 +1,9 @@
+/usr/bin/rb  
+/usr/bin/rx  
+/usr/bin/rz  
+/usr/bin/sb  
+/usr/bin/sx  
+/usr/bin/sz  
+/usr/share/locale/de/LC\_MESSAGES/lrzsz.mo  
+/usr/share/man/man1/rz.1.gz  
+/usr/share/man/man1/sz.1.gz  

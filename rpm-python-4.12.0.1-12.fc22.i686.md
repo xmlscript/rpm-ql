@@ -1,0 +1,11 @@
+/usr/lib/python2.7/site-packages/rpm  
+/usr/lib/python2.7/site-packages/rpm/\_\_init\_\_.py  
+/usr/lib/python2.7/site-packages/rpm/\_\_init\_\_.pyc  
+/usr/lib/python2.7/site-packages/rpm/\_\_init\_\_.pyo  
+/usr/lib/python2.7/site-packages/rpm/\_rpm.so  
+/usr/lib/python2.7/site-packages/rpm/\_rpmb.so  
+/usr/lib/python2.7/site-packages/rpm/\_rpms.so  
+/usr/lib/python2.7/site-packages/rpm/transaction.py  
+/usr/lib/python2.7/site-packages/rpm/transaction.pyc  
+/usr/lib/python2.7/site-packages/rpm/transaction.pyo  
+/usr/lib/python2.7/site-packages/rpm\_python-4.12.0.1-py2.7.egg-info  

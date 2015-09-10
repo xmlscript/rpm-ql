@@ -1,0 +1,10 @@
+/etc/libreport/events.d/bugzilla\_anaconda\_event.conf  
+/etc/libreport/plugins/bugzilla\_format\_anaconda.conf  
+/etc/libreport/plugins/bugzilla\_formatdup\_anaconda.conf  
+/etc/libreport/workflows.d/anaconda\_event.conf  
+/usr/share/libreport/workflows/workflow\_AnacondaFedora.xml  
+/usr/share/libreport/workflows/workflow\_AnacondaUpload.xml  
+/usr/share/man/man5/anaconda\_event.conf.5.gz  
+/usr/share/man/man5/bugzilla\_anaconda\_event.conf.5.gz  
+/usr/share/man/man5/bugzilla\_format\_anaconda.conf.5.gz  
+/usr/share/man/man5/bugzilla\_formatdup\_anaconda.conf.5.gz  

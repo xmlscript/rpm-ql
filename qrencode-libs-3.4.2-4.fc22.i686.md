@@ -1,0 +1,9 @@
+/usr/lib/libqrencode.so.3  
+/usr/lib/libqrencode.so.3.4.2  
+/usr/share/doc/qrencode-libs  
+/usr/share/doc/qrencode-libs/ChangeLog  
+/usr/share/doc/qrencode-libs/NEWS  
+/usr/share/doc/qrencode-libs/README  
+/usr/share/doc/qrencode-libs/TODO  
+/usr/share/licenses/qrencode-libs  
+/usr/share/licenses/qrencode-libs/COPYING  

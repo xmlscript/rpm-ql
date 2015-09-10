@@ -1,0 +1,12 @@
+/usr/lib/node\_modules/init-package-json  
+/usr/lib/node\_modules/init-package-json/default-input.js  
+/usr/lib/node\_modules/init-package-json/init-package-json.js  
+/usr/lib/node\_modules/init-package-json/node\_modules  
+/usr/lib/node\_modules/init-package-json/node\_modules/promzard  
+/usr/lib/node\_modules/init-package-json/node\_modules/read  
+/usr/lib/node\_modules/init-package-json/node\_modules/read-package-json  
+/usr/lib/node\_modules/init-package-json/node\_modules/semver  
+/usr/lib/node\_modules/init-package-json/package.json  
+/usr/share/doc/nodejs-init-package-json  
+/usr/share/doc/nodejs-init-package-json/README.md  
+/usr/share/doc/nodejs-init-package-json/example.js  

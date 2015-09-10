@@ -1,0 +1,11 @@
+/usr/bin/compface  
+/usr/bin/uncompface  
+/usr/lib/libcompface.so.1  
+/usr/lib/libcompface.so.1.0.0  
+/usr/share/doc/compface  
+/usr/share/doc/compface/ChangeLog  
+/usr/share/doc/compface/README  
+/usr/share/doc/compface/README.copyright  
+/usr/share/doc/compface/xbm2xface.pl  
+/usr/share/man/man1/compface.1.gz  
+/usr/share/man/man1/uncompface.1.gz  

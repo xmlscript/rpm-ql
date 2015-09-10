@@ -1,0 +1,9 @@
+/usr/lib/libconfig++.so.9  
+/usr/lib/libconfig++.so.9.1.3  
+/usr/lib/libconfig.so.9  
+/usr/lib/libconfig.so.9.1.3  
+/usr/share/doc/libconfig  
+/usr/share/doc/libconfig/AUTHORS  
+/usr/share/doc/libconfig/COPYING.LIB  
+/usr/share/doc/libconfig/ChangeLog  
+/usr/share/doc/libconfig/README  

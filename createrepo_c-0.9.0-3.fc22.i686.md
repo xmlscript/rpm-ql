@@ -1,0 +1,15 @@
+/usr/bin/createrepo\_c  
+/usr/bin/mergerepo\_c  
+/usr/bin/modifyrepo\_c  
+/usr/bin/sqliterepo\_c  
+/usr/share/bash-completion/completions/createrepo\_c  
+/usr/share/bash-completion/completions/mergerepo\_c  
+/usr/share/bash-completion/completions/modifyrepo\_c  
+/usr/share/bash-completion/completions/sqliterepo\_c  
+/usr/share/doc/createrepo\_c  
+/usr/share/doc/createrepo\_c/COPYING  
+/usr/share/doc/createrepo\_c/README.md  
+/usr/share/man/man8/createrepo\_c.8.gz  
+/usr/share/man/man8/mergerepo\_c.8.gz  
+/usr/share/man/man8/modifyrepo\_c.8.gz  
+/usr/share/man/man8/sqliterepo\_c.8.gz  

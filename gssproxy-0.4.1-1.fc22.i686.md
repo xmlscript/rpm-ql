@@ -1,0 +1,14 @@
+/etc/gss/mech.d/gssproxy.conf  
+/etc/gssproxy  
+/etc/gssproxy/gssproxy.conf  
+/usr/lib/gssproxy/proxymech.so  
+/usr/lib/systemd/system/gssproxy.service  
+/usr/sbin/gssproxy  
+/usr/share/doc/gssproxy  
+/usr/share/doc/gssproxy/COPYING  
+/usr/share/doc/gssproxy/doc  
+/usr/share/man/man5/gssproxy.conf.5.gz  
+/usr/share/man/man8/gssproxy-mech.8.gz  
+/usr/share/man/man8/gssproxy.8.gz  
+/var/lib/gssproxy  
+/var/lib/gssproxy/clients  

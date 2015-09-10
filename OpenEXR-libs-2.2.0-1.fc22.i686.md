@@ -1,0 +1,10 @@
+/usr/lib/libIlmImf-2\_2.so.22  
+/usr/lib/libIlmImf-2\_2.so.22.0.0  
+/usr/lib/libIlmImfUtil-2\_2.so.22  
+/usr/lib/libIlmImfUtil-2\_2.so.22.0.0  
+/usr/share/doc/OpenEXR-libs  
+/usr/share/doc/OpenEXR-libs/AUTHORS  
+/usr/share/doc/OpenEXR-libs/ChangeLog  
+/usr/share/doc/OpenEXR-libs/LICENSE  
+/usr/share/doc/OpenEXR-libs/NEWS  
+/usr/share/doc/OpenEXR-libs/README  

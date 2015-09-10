@@ -1,0 +1,10 @@
+/usr/bin/qemu-system-microblaze  
+/usr/bin/qemu-system-microblazeel  
+/usr/share/man/man1/qemu-system-microblaze.1.gz  
+/usr/share/man/man1/qemu-system-microblazeel.1.gz  
+/usr/share/qemu/petalogix-ml605.dtb  
+/usr/share/qemu/petalogix-s3adsp1800.dtb  
+/usr/share/systemtap/tapset/qemu-system-microblaze-simpletrace.stp  
+/usr/share/systemtap/tapset/qemu-system-microblaze.stp  
+/usr/share/systemtap/tapset/qemu-system-microblazeel-simpletrace.stp  
+/usr/share/systemtap/tapset/qemu-system-microblazeel.stp  

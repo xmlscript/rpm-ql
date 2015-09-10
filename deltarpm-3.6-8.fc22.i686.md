@@ -1,0 +1,10 @@
+/usr/bin/applydeltarpm  
+/usr/bin/combinedeltarpm  
+/usr/bin/makedeltarpm  
+/usr/bin/rpmdumpheader  
+/usr/share/doc/deltarpm  
+/usr/share/doc/deltarpm/LICENSE.BSD  
+/usr/share/doc/deltarpm/README  
+/usr/share/man/man8/applydeltarpm.8.gz  
+/usr/share/man/man8/combinedeltarpm.8.gz  
+/usr/share/man/man8/makedeltarpm.8.gz  

@@ -1,0 +1,12 @@
+/usr/bin/pinentry  
+/usr/bin/pinentry-curses  
+/usr/share/doc/pinentry  
+/usr/share/doc/pinentry/AUTHORS  
+/usr/share/doc/pinentry/ChangeLog  
+/usr/share/doc/pinentry/NEWS  
+/usr/share/doc/pinentry/README  
+/usr/share/doc/pinentry/THANKS  
+/usr/share/doc/pinentry/TODO  
+/usr/share/info/pinentry.info.gz  
+/usr/share/licenses/pinentry  
+/usr/share/licenses/pinentry/COPYING  

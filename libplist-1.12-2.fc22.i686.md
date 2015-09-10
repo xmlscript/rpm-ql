@@ -1,0 +1,10 @@
+/usr/bin/plistutil  
+/usr/lib/libplist++.so.3  
+/usr/lib/libplist++.so.3.0.0  
+/usr/lib/libplist.so.3  
+/usr/lib/libplist.so.3.0.0  
+/usr/share/doc/libplist  
+/usr/share/doc/libplist/AUTHORS  
+/usr/share/doc/libplist/README  
+/usr/share/licenses/libplist  
+/usr/share/licenses/libplist/COPYING.LESSER  

@@ -1,0 +1,12 @@
+/usr/lib/libkeyutils.so.1  
+/usr/lib/libkeyutils.so.1.5  
+/usr/share/licenses/keyutils-libs  
+/usr/share/licenses/keyutils-libs/LICENCE.LGPL  
+/usr/share/man/man7/keyrings.7.gz  
+/usr/share/man/man7/keyutils.7.gz  
+/usr/share/man/man7/persistent-keyring.7.gz  
+/usr/share/man/man7/process-keyring.7.gz  
+/usr/share/man/man7/session-keyring.7.gz  
+/usr/share/man/man7/thread-keyring.7.gz  
+/usr/share/man/man7/user-keyring.7.gz  
+/usr/share/man/man7/user-session-keyring.7.gz  

@@ -1,0 +1,10 @@
+/usr/bin/qemu-system-sparc  
+/usr/bin/qemu-system-sparc64  
+/usr/share/man/man1/qemu-system-sparc.1.gz  
+/usr/share/man/man1/qemu-system-sparc64.1.gz  
+/usr/share/qemu/QEMU,cgthree.bin  
+/usr/share/qemu/QEMU,tcx.bin  
+/usr/share/systemtap/tapset/qemu-system-sparc-simpletrace.stp  
+/usr/share/systemtap/tapset/qemu-system-sparc.stp  
+/usr/share/systemtap/tapset/qemu-system-sparc64-simpletrace.stp  
+/usr/share/systemtap/tapset/qemu-system-sparc64.stp  

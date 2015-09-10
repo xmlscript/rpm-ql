@@ -1,0 +1,9 @@
+/usr/lib/libusbredirhost.so.1  
+/usr/lib/libusbredirhost.so.1.0.0  
+/usr/lib/libusbredirparser.so.1  
+/usr/lib/libusbredirparser.so.1.0.0  
+/usr/share/doc/usbredir  
+/usr/share/doc/usbredir/COPYING.LIB  
+/usr/share/doc/usbredir/ChangeLog  
+/usr/share/doc/usbredir/README  
+/usr/share/doc/usbredir/TODO  

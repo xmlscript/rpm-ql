@@ -1,0 +1,13 @@
+/usr/lib/ao  
+/usr/lib/ao/plugins-4  
+/usr/lib/ao/plugins-4/libalsa.so  
+/usr/lib/ao/plugins-4/liboss.so  
+/usr/lib/ao/plugins-4/libpulse.so  
+/usr/lib/libao.so.4  
+/usr/lib/libao.so.4.1.0  
+/usr/share/doc/libao  
+/usr/share/doc/libao/AUTHORS  
+/usr/share/doc/libao/CHANGES  
+/usr/share/doc/libao/COPYING  
+/usr/share/doc/libao/README  
+/usr/share/man/man5/libao.conf.5.gz  

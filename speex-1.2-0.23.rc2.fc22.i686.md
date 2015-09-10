@@ -1,0 +1,9 @@
+/usr/lib/libspeex.so.1  
+/usr/lib/libspeex.so.1.5.0  
+/usr/share/doc/speex  
+/usr/share/doc/speex/AUTHORS  
+/usr/share/doc/speex/COPYING  
+/usr/share/doc/speex/ChangeLog  
+/usr/share/doc/speex/NEWS  
+/usr/share/doc/speex/README  
+/usr/share/doc/speex/TODO  

@@ -1,0 +1,10 @@
+/usr/lib/libcaca++.so.0  
+/usr/lib/libcaca++.so.0.99.18  
+/usr/lib/libcaca.so.0  
+/usr/lib/libcaca.so.0.99.18  
+/usr/lib/libcucul++.so.0  
+/usr/lib/libcucul++.so.0.99.18  
+/usr/lib/libcucul.so.0  
+/usr/lib/libcucul.so.0.99.18  
+/usr/share/doc/libcaca  
+/usr/share/doc/libcaca/COPYING  

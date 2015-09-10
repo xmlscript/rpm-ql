@@ -1,0 +1,11 @@
+/usr/bin/rcp  
+/usr/bin/rexec  
+/usr/bin/rlogin  
+/usr/bin/rsh  
+/usr/share/doc/rsh  
+/usr/share/doc/rsh/BUGS  
+/usr/share/doc/rsh/README  
+/usr/share/man/man1/rcp.1.gz  
+/usr/share/man/man1/rexec.1.gz  
+/usr/share/man/man1/rlogin.1.gz  
+/usr/share/man/man1/rsh.1.gz  

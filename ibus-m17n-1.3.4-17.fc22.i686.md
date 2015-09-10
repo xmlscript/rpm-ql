@@ -1,0 +1,15 @@
+/usr/libexec/ibus-engine-m17n  
+/usr/libexec/ibus-setup-m17n  
+/usr/share/applications/ibus-setup-m17n.desktop  
+/usr/share/doc/ibus-m17n  
+/usr/share/doc/ibus-m17n/AUTHORS  
+/usr/share/doc/ibus-m17n/COPYING  
+/usr/share/doc/ibus-m17n/README  
+/usr/share/ibus-m17n  
+/usr/share/ibus-m17n/default.xml  
+/usr/share/ibus-m17n/icons  
+/usr/share/ibus-m17n/icons/ibus-m17n.svg  
+/usr/share/ibus-m17n/setup  
+/usr/share/ibus-m17n/setup/ibus-m17n-preferences.ui  
+/usr/share/ibus/component/m17n.xml  
+/usr/share/locale/zh\_CN/LC\_MESSAGES/ibus-m17n.mo  

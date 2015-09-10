@@ -1,0 +1,11 @@
+/usr/bin/mencoder  
+/usr/share/man/cs/man1/mencoder.1.gz  
+/usr/share/man/de/man1/mencoder.1.gz  
+/usr/share/man/es/man1/mencoder.1.gz  
+/usr/share/man/fr/man1/mencoder.1.gz  
+/usr/share/man/hu/man1/mencoder.1.gz  
+/usr/share/man/it/man1/mencoder.1.gz  
+/usr/share/man/man1/mencoder.1.gz  
+/usr/share/man/pl/man1/mencoder.1.gz  
+/usr/share/man/ru/man1/mencoder.1.gz  
+/usr/share/man/zh\_CN/man1/mencoder.1.gz  

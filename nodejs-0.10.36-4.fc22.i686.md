@@ -1,0 +1,11 @@
+/usr/bin/node  
+/usr/lib/node\_modules  
+/usr/lib/rpm/fileattrs/nodejs\_native.attr  
+/usr/lib/rpm/nodejs\_native.req  
+/usr/share/doc/nodejs  
+/usr/share/doc/nodejs/AUTHORS  
+/usr/share/doc/nodejs/ChangeLog  
+/usr/share/doc/nodejs/LICENSE  
+/usr/share/doc/nodejs/README.md  
+/usr/share/man/man1/node.1.gz  
+/usr/share/node  

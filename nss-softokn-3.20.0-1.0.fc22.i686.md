@@ -1,0 +1,10 @@
+/usr/lib/libnssdbm3.chk  
+/usr/lib/libnssdbm3.so  
+/usr/lib/libsoftokn3.chk  
+/usr/lib/libsoftokn3.so  
+/usr/lib/nss  
+/usr/lib/nss/saved  
+/usr/lib/nss/unsupported-tools  
+/usr/lib/nss/unsupported-tools/bltest  
+/usr/lib/nss/unsupported-tools/fipstest  
+/usr/lib/nss/unsupported-tools/shlibsign  

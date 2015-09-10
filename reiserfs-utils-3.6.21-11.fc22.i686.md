@@ -1,0 +1,14 @@
+/sbin/debugreiserfs  
+/sbin/fsck.reiserfs  
+/sbin/mkfs.reiserfs  
+/sbin/mkreiserfs  
+/sbin/reiserfsck  
+/sbin/reiserfstune  
+/sbin/resize\_reiserfs  
+/usr/share/doc/reiserfs-utils  
+/usr/share/doc/reiserfs-utils/README  
+/usr/share/man/man8/debugreiserfs.8.gz  
+/usr/share/man/man8/mkreiserfs.8.gz  
+/usr/share/man/man8/reiserfsck.8.gz  
+/usr/share/man/man8/reiserfstune.8.gz  
+/usr/share/man/man8/resize\_reiserfs.8.gz  

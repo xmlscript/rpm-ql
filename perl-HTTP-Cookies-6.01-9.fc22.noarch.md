@@ -1,0 +1,11 @@
+/usr/share/doc/perl-HTTP-Cookies  
+/usr/share/doc/perl-HTTP-Cookies/Changes  
+/usr/share/doc/perl-HTTP-Cookies/README  
+/usr/share/man/man3/HTTP::Cookies.3pm.gz  
+/usr/share/man/man3/HTTP::Cookies::Microsoft.3pm.gz  
+/usr/share/man/man3/HTTP::Cookies::Netscape.3pm.gz  
+/usr/share/perl5/vendor\_perl/HTTP  
+/usr/share/perl5/vendor\_perl/HTTP/Cookies  
+/usr/share/perl5/vendor\_perl/HTTP/Cookies.pm  
+/usr/share/perl5/vendor\_perl/HTTP/Cookies/Microsoft.pm  
+/usr/share/perl5/vendor\_perl/HTTP/Cookies/Netscape.pm  

@@ -1,0 +1,11 @@
+/boot/elf-memtest86+-5.01  
+/boot/memtest86+-5.01  
+/etc/grub.d/20\_memtest86+  
+/usr/sbin/memtest-setup  
+/usr/sbin/new-memtest-pkg  
+/usr/share/doc/memtest86+  
+/usr/share/doc/memtest86+/README  
+/usr/share/doc/memtest86+/README.fedora  
+/usr/share/man/man8/memtest-setup.8.gz  
+/usr/share/memtest86+  
+/usr/share/memtest86+/20\_memtest86+  

@@ -1,0 +1,14 @@
+/usr/bin/iptc  
+/usr/lib/libiptcdata.so.0  
+/usr/lib/libiptcdata.so.0.3.3  
+/usr/share/doc/libiptcdata  
+/usr/share/doc/libiptcdata/AUTHORS  
+/usr/share/doc/libiptcdata/COPYING  
+/usr/share/doc/libiptcdata/ChangeLog  
+/usr/share/doc/libiptcdata/NEWS  
+/usr/share/doc/libiptcdata/README  
+/usr/share/doc/libiptcdata/TODO  
+/usr/share/locale/de/LC\_MESSAGES/iptc.mo  
+/usr/share/locale/de/LC\_MESSAGES/libiptcdata.mo  
+/usr/share/locale/it/LC\_MESSAGES/iptc.mo  
+/usr/share/locale/it/LC\_MESSAGES/libiptcdata.mo  

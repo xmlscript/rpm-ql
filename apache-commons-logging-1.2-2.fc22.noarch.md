@@ -1,0 +1,15 @@
+/usr/share/doc/apache-commons-logging  
+/usr/share/doc/apache-commons-logging/LICENSE.txt  
+/usr/share/doc/apache-commons-logging/NOTICE.txt  
+/usr/share/doc/apache-commons-logging/PROPOSAL.html  
+/usr/share/doc/apache-commons-logging/RELEASE-NOTES.txt  
+/usr/share/java/apache-commons-logging-adapters.jar  
+/usr/share/java/apache-commons-logging-api.jar  
+/usr/share/java/apache-commons-logging.jar  
+/usr/share/java/commons-logging-adapters.jar  
+/usr/share/java/commons-logging-api.jar  
+/usr/share/java/commons-logging.jar  
+/usr/share/maven-metadata/apache-commons-logging.xml  
+/usr/share/maven-poms/JPP-commons-logging-api.pom  
+/usr/share/maven-poms/apache-commons-logging.pom  
+/usr/share/maven-poms/commons-logging.pom  

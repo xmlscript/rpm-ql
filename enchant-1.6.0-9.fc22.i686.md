@@ -1,0 +1,13 @@
+/usr/bin/enchant  
+/usr/bin/enchant-lsmod  
+/usr/lib/enchant  
+/usr/lib/enchant/libenchant\_myspell.so  
+/usr/lib/libenchant.so.1  
+/usr/lib/libenchant.so.1.6.0  
+/usr/share/doc/enchant  
+/usr/share/doc/enchant/AUTHORS  
+/usr/share/doc/enchant/COPYING.LIB  
+/usr/share/doc/enchant/README  
+/usr/share/enchant  
+/usr/share/enchant/enchant.ordering  
+/usr/share/man/man1/enchant.1.gz  

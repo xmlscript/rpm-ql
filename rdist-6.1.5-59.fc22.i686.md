@@ -1,0 +1,10 @@
+/usr/bin/oldrdist  
+/usr/bin/rdist  
+/usr/bin/rdistd  
+/usr/sbin/rdistd  
+/usr/share/doc/rdist  
+/usr/share/doc/rdist/README  
+/usr/share/doc/rdist/rdist-eu-license.txt  
+/usr/share/doc/rdist/rdist-licensing-email.txt  
+/usr/share/man/man1/rdist.1.gz  
+/usr/share/man/man8/rdistd.8.gz  

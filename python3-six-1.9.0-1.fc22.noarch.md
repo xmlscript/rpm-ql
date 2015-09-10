@@ -1,0 +1,14 @@
+/usr/lib/python3.4/site-packages/\_\_pycache\_\_  
+/usr/lib/python3.4/site-packages/\_\_pycache\_\_/six.cpython-34.pyc  
+/usr/lib/python3.4/site-packages/\_\_pycache\_\_/six.cpython-34.pyo  
+/usr/lib/python3.4/site-packages/six-1.9.0-py3.4.egg-info  
+/usr/lib/python3.4/site-packages/six-1.9.0-py3.4.egg-info/PKG-INFO  
+/usr/lib/python3.4/site-packages/six-1.9.0-py3.4.egg-info/SOURCES.txt  
+/usr/lib/python3.4/site-packages/six-1.9.0-py3.4.egg-info/dependency\_links.txt  
+/usr/lib/python3.4/site-packages/six-1.9.0-py3.4.egg-info/top\_level.txt  
+/usr/lib/python3.4/site-packages/six.py  
+/usr/share/doc/python3-six  
+/usr/share/doc/python3-six/README  
+/usr/share/doc/python3-six/index.rst  
+/usr/share/licenses/python3-six  
+/usr/share/licenses/python3-six/LICENSE  

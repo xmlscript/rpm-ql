@@ -1,0 +1,14 @@
+/usr/share/doc/php-symfony-filesystem  
+/usr/share/doc/php-symfony-filesystem/CHANGELOG.md  
+/usr/share/doc/php-symfony-filesystem/README.md  
+/usr/share/doc/php-symfony-filesystem/composer.json  
+/usr/share/licenses/php-symfony-filesystem  
+/usr/share/licenses/php-symfony-filesystem/LICENSE  
+/usr/share/php/Symfony/Component/Filesystem  
+/usr/share/php/Symfony/Component/Filesystem/Exception  
+/usr/share/php/Symfony/Component/Filesystem/Exception/ExceptionInterface.php  
+/usr/share/php/Symfony/Component/Filesystem/Exception/FileNotFoundException.php  
+/usr/share/php/Symfony/Component/Filesystem/Exception/IOException.php  
+/usr/share/php/Symfony/Component/Filesystem/Exception/IOExceptionInterface.php  
+/usr/share/php/Symfony/Component/Filesystem/Filesystem.php  
+/usr/share/php/Symfony/Component/Filesystem/autoloader.php  

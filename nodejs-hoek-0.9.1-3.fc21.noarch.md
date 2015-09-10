@@ -1,0 +1,12 @@
+/usr/lib/node\_modules/hoek  
+/usr/lib/node\_modules/hoek/index.js  
+/usr/lib/node\_modules/hoek/lib  
+/usr/lib/node\_modules/hoek/lib/escape.js  
+/usr/lib/node\_modules/hoek/lib/index.js  
+/usr/lib/node\_modules/hoek/node\_modules  
+/usr/lib/node\_modules/hoek/package.json  
+/usr/share/doc/nodejs-hoek  
+/usr/share/doc/nodejs-hoek/LICENSE  
+/usr/share/doc/nodejs-hoek/README.md  
+/usr/share/doc/nodejs-hoek/images  
+/usr/share/doc/nodejs-hoek/images/hoek.png  

@@ -1,0 +1,16 @@
+/etc/php-zts.d/15-xdebug.ini  
+/etc/php.d/15-xdebug.ini  
+/usr/bin/debugclient  
+/usr/lib/php-zts/modules/xdebug.so  
+/usr/lib/php/modules/xdebug.so  
+/usr/share/doc/pecl/xdebug  
+/usr/share/doc/pecl/xdebug/CREDITS  
+/usr/share/doc/pecl/xdebug/LICENSE  
+/usr/share/doc/pecl/xdebug/NEWS  
+/usr/share/doc/pecl/xdebug/README  
+/usr/share/doc/pecl/xdebug/contrib  
+/usr/share/doc/pecl/xdebug/contrib/tracefile-analyser.php  
+/usr/share/doc/pecl/xdebug/contrib/xt.vim  
+/usr/share/licenses/php-pecl-xdebug  
+/usr/share/licenses/php-pecl-xdebug/LICENSE  
+/var/lib/pear/pkgxml/php-pecl-xdebug.xml  

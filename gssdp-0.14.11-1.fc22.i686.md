@@ -1,0 +1,9 @@
+/usr/lib/girepository-1.0/GSSDP-1.0.typelib  
+/usr/lib/libgssdp-1.0.so.3  
+/usr/lib/libgssdp-1.0.so.3.0.0  
+/usr/share/doc/gssdp  
+/usr/share/doc/gssdp/AUTHORS  
+/usr/share/doc/gssdp/COPYING  
+/usr/share/doc/gssdp/NEWS  
+/usr/share/doc/gssdp/README  
+/usr/share/gssdp  

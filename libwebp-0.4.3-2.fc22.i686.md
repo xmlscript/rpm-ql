@@ -1,0 +1,15 @@
+/usr/lib/libwebp.so.5  
+/usr/lib/libwebp.so.5.0.3  
+/usr/lib/libwebpdecoder.so.1  
+/usr/lib/libwebpdecoder.so.1.0.3  
+/usr/lib/libwebpdemux.so.1  
+/usr/lib/libwebpdemux.so.1.0.2  
+/usr/lib/libwebpmux.so.1  
+/usr/lib/libwebpmux.so.1.0.2  
+/usr/share/doc/libwebp  
+/usr/share/doc/libwebp/AUTHORS  
+/usr/share/doc/libwebp/NEWS  
+/usr/share/doc/libwebp/PATENTS  
+/usr/share/doc/libwebp/README  
+/usr/share/licenses/libwebp  
+/usr/share/licenses/libwebp/COPYING  

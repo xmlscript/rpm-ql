@@ -1,0 +1,12 @@
+/etc/fonts/conf.d/65-0-adobe-source-han-sans-cn.conf  
+/usr/share/fontconfig/conf.avail/65-0-adobe-source-han-sans-cn.conf  
+/usr/share/fonts/adobe-source-han-sans-cn  
+/usr/share/fonts/adobe-source-han-sans-cn/SourceHanSansCN-Bold.otf  
+/usr/share/fonts/adobe-source-han-sans-cn/SourceHanSansCN-ExtraLight.otf  
+/usr/share/fonts/adobe-source-han-sans-cn/SourceHanSansCN-Heavy.otf  
+/usr/share/fonts/adobe-source-han-sans-cn/SourceHanSansCN-Light.otf  
+/usr/share/fonts/adobe-source-han-sans-cn/SourceHanSansCN-Medium.otf  
+/usr/share/fonts/adobe-source-han-sans-cn/SourceHanSansCN-Normal.otf  
+/usr/share/fonts/adobe-source-han-sans-cn/SourceHanSansCN-Regular.otf  
+/usr/share/licenses/adobe-source-han-sans-cn-fonts  
+/usr/share/licenses/adobe-source-han-sans-cn-fonts/LICENSE.txt  

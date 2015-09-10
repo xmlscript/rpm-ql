@@ -1,0 +1,9 @@
+/usr/sbin/tcpdump  
+/usr/sbin/tcpslice  
+/usr/share/doc/tcpdump  
+/usr/share/doc/tcpdump/CHANGES  
+/usr/share/doc/tcpdump/CREDITS  
+/usr/share/doc/tcpdump/LICENSE  
+/usr/share/doc/tcpdump/README.md  
+/usr/share/man/man8/tcpdump.8.gz  
+/usr/share/man/man8/tcpslice.8.gz  

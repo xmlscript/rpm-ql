@@ -1,0 +1,15 @@
+/usr/lib/python2.7/site-packages/systemd  
+/usr/lib/python2.7/site-packages/systemd/\_\_init\_\_.py  
+/usr/lib/python2.7/site-packages/systemd/\_\_init\_\_.pyc  
+/usr/lib/python2.7/site-packages/systemd/\_\_init\_\_.pyo  
+/usr/lib/python2.7/site-packages/systemd/\_daemon.so  
+/usr/lib/python2.7/site-packages/systemd/\_journal.so  
+/usr/lib/python2.7/site-packages/systemd/\_reader.so  
+/usr/lib/python2.7/site-packages/systemd/daemon.py  
+/usr/lib/python2.7/site-packages/systemd/daemon.pyc  
+/usr/lib/python2.7/site-packages/systemd/daemon.pyo  
+/usr/lib/python2.7/site-packages/systemd/id128.so  
+/usr/lib/python2.7/site-packages/systemd/journal.py  
+/usr/lib/python2.7/site-packages/systemd/journal.pyc  
+/usr/lib/python2.7/site-packages/systemd/journal.pyo  
+/usr/lib/python2.7/site-packages/systemd/login.so  

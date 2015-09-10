@@ -1,0 +1,16 @@
+/etc/sgml  
+/etc/sgml/docbook  
+/etc/sgml/docbook/xmlcatalog  
+/etc/xml  
+/etc/xml/catalog  
+/usr/share/doc/xml-common  
+/usr/share/doc/xml-common/AUTHORS  
+/usr/share/doc/xml-common/COPYING  
+/usr/share/doc/xml-common/ChangeLog  
+/usr/share/doc/xml-common/NEWS  
+/usr/share/doc/xml-common/README  
+/usr/share/sgml  
+/usr/share/sgml/docbook  
+/usr/share/sgml/docbook/xmlcatalog  
+/usr/share/xml  
+/usr/share/xml/xml.xsd  

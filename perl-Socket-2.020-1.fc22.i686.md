@@ -1,0 +1,10 @@
+/usr/lib/perl5/vendor\_perl/Socket.pm  
+/usr/lib/perl5/vendor\_perl/auto/Socket  
+/usr/lib/perl5/vendor\_perl/auto/Socket/Socket.so  
+/usr/share/doc/perl-Socket  
+/usr/share/doc/perl-Socket/Changes  
+/usr/share/licenses/perl-Socket  
+/usr/share/licenses/perl-Socket/Artistic  
+/usr/share/licenses/perl-Socket/Copying  
+/usr/share/licenses/perl-Socket/LICENSE  
+/usr/share/man/man3/Socket.3pm.gz  

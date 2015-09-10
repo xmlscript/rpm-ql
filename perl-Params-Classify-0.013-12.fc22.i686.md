@@ -1,0 +1,9 @@
+/usr/lib/perl5/vendor\_perl/Params  
+/usr/lib/perl5/vendor\_perl/Params/Classify.pm  
+/usr/lib/perl5/vendor\_perl/auto/Params  
+/usr/lib/perl5/vendor\_perl/auto/Params/Classify  
+/usr/lib/perl5/vendor\_perl/auto/Params/Classify/Classify.so  
+/usr/share/doc/perl-Params-Classify  
+/usr/share/doc/perl-Params-Classify/Changes  
+/usr/share/doc/perl-Params-Classify/README  
+/usr/share/man/man3/Params::Classify.3pm.gz  

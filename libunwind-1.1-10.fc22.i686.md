@@ -1,0 +1,10 @@
+/usr/lib/libunwind-coredump.so.0  
+/usr/lib/libunwind-coredump.so.0.0.0  
+/usr/lib/libunwind-x86.so.8  
+/usr/lib/libunwind-x86.so.8.0.1  
+/usr/lib/libunwind.so.8  
+/usr/lib/libunwind.so.8.0.1  
+/usr/share/doc/libunwind  
+/usr/share/doc/libunwind/COPYING  
+/usr/share/doc/libunwind/NEWS  
+/usr/share/doc/libunwind/README  

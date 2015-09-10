@@ -1,0 +1,10 @@
+/usr/lib/girepository-1.0/GXPS-0.1.typelib  
+/usr/lib/libgxps.so.2  
+/usr/lib/libgxps.so.2.1.1  
+/usr/share/doc/libgxps  
+/usr/share/doc/libgxps/AUTHORS  
+/usr/share/doc/libgxps/COPYING  
+/usr/share/doc/libgxps/ChangeLog  
+/usr/share/doc/libgxps/NEWS  
+/usr/share/doc/libgxps/README  
+/usr/share/doc/libgxps/TODO  

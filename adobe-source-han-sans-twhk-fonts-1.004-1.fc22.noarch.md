@@ -1,0 +1,12 @@
+/etc/fonts/conf.d/65-0-adobe-source-han-sans-twhk.conf  
+/usr/share/doc/adobe-source-han-sans-twhk-fonts  
+/usr/share/doc/adobe-source-han-sans-twhk-fonts/LICENSE.txt  
+/usr/share/fontconfig/conf.avail/65-0-adobe-source-han-sans-twhk.conf  
+/usr/share/fonts/adobe-source-han-sans-twhk  
+/usr/share/fonts/adobe-source-han-sans-twhk/SourceHanSansTW-Bold.otf  
+/usr/share/fonts/adobe-source-han-sans-twhk/SourceHanSansTW-ExtraLight.otf  
+/usr/share/fonts/adobe-source-han-sans-twhk/SourceHanSansTW-Heavy.otf  
+/usr/share/fonts/adobe-source-han-sans-twhk/SourceHanSansTW-Light.otf  
+/usr/share/fonts/adobe-source-han-sans-twhk/SourceHanSansTW-Medium.otf  
+/usr/share/fonts/adobe-source-han-sans-twhk/SourceHanSansTW-Normal.otf  
+/usr/share/fonts/adobe-source-han-sans-twhk/SourceHanSansTW-Regular.otf  

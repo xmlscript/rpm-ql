@@ -1,0 +1,9 @@
+/usr/lib/libseccomp.so.2  
+/usr/lib/libseccomp.so.2.2.3  
+/usr/share/doc/libseccomp  
+/usr/share/doc/libseccomp/CHANGELOG  
+/usr/share/doc/libseccomp/CREDITS  
+/usr/share/doc/libseccomp/README  
+/usr/share/doc/libseccomp/SUBMITTING\_PATCHES  
+/usr/share/licenses/libseccomp  
+/usr/share/licenses/libseccomp/LICENSE  

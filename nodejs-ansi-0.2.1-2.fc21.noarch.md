@@ -1,0 +1,16 @@
+/usr/lib/node\_modules/ansi  
+/usr/lib/node\_modules/ansi/lib  
+/usr/lib/node\_modules/ansi/lib/ansi.js  
+/usr/lib/node\_modules/ansi/lib/newlines.js  
+/usr/lib/node\_modules/ansi/package.json  
+/usr/share/doc/nodejs-ansi  
+/usr/share/doc/nodejs-ansi/README.md  
+/usr/share/doc/nodejs-ansi/examples  
+/usr/share/doc/nodejs-ansi/examples/beep  
+/usr/share/doc/nodejs-ansi/examples/beep/index.js  
+/usr/share/doc/nodejs-ansi/examples/clear  
+/usr/share/doc/nodejs-ansi/examples/clear/index.js  
+/usr/share/doc/nodejs-ansi/examples/cursorPosition.js  
+/usr/share/doc/nodejs-ansi/examples/progress  
+/usr/share/doc/nodejs-ansi/examples/progress/index.js  
+/usr/share/doc/nodejs-ansi/examples/starwars.js  

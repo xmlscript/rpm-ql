@@ -1,0 +1,10 @@
+/etc/ld.so.conf.d/llvm-i386.conf  
+/usr/lib/llvm  
+/usr/lib/llvm/BugpointPasses.so  
+/usr/lib/llvm/LLVMgold.so  
+/usr/lib/llvm/libLLVM-3.5.0.so  
+/usr/lib/llvm/libLLVM-3.5.so  
+/usr/lib/llvm/libLTO.so  
+/usr/lib/llvm/readline.so  
+/usr/share/doc/llvm-libs  
+/usr/share/doc/llvm-libs/LICENSE.TXT  

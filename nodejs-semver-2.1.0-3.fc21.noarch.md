@@ -1,0 +1,9 @@
+/usr/bin/semver  
+/usr/lib/node\_modules/semver  
+/usr/lib/node\_modules/semver/bin  
+/usr/lib/node\_modules/semver/bin/semver  
+/usr/lib/node\_modules/semver/package.json  
+/usr/lib/node\_modules/semver/semver.js  
+/usr/share/doc/nodejs-semver  
+/usr/share/doc/nodejs-semver/LICENSE  
+/usr/share/doc/nodejs-semver/README.md  

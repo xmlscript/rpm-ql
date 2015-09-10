@@ -1,0 +1,13 @@
+/usr/bin/dumpiso  
+/usr/bin/sendiso  
+/usr/bin/testlibraw  
+/usr/lib/libraw1394.so.11  
+/usr/lib/libraw1394.so.11.1.0  
+/usr/share/doc/libraw1394  
+/usr/share/doc/libraw1394/COPYING.LIB  
+/usr/share/doc/libraw1394/NEWS  
+/usr/share/doc/libraw1394/README  
+/usr/share/man/man1/dumpiso.1.gz  
+/usr/share/man/man1/sendiso.1.gz  
+/usr/share/man/man1/testlibraw.1.gz  
+/usr/share/man/man5/isodump.5.gz  

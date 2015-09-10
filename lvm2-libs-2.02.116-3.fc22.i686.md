@@ -1,0 +1,14 @@
+/usr/lib/device-mapper  
+/usr/lib/device-mapper/libdevmapper-event-lvm2mirror.so  
+/usr/lib/device-mapper/libdevmapper-event-lvm2raid.so  
+/usr/lib/device-mapper/libdevmapper-event-lvm2snapshot.so  
+/usr/lib/device-mapper/libdevmapper-event-lvm2thin.so  
+/usr/lib/libdevmapper-event-lvm2.so.2.02  
+/usr/lib/libdevmapper-event-lvm2mirror.so  
+/usr/lib/libdevmapper-event-lvm2raid.so  
+/usr/lib/libdevmapper-event-lvm2snapshot.so  
+/usr/lib/libdevmapper-event-lvm2thin.so  
+/usr/lib/liblvm2app.so.2.2  
+/usr/lib/liblvm2cmd.so.2.02  
+/usr/share/licenses/lvm2-libs  
+/usr/share/licenses/lvm2-libs/COPYING.LIB  

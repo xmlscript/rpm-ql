@@ -1,0 +1,15 @@
+/etc/idmapd.conf  
+/lib/libnfsidmap  
+/lib/libnfsidmap.so.0  
+/lib/libnfsidmap.so.0.3.0  
+/lib/libnfsidmap/nsswitch.so  
+/lib/libnfsidmap/static.so  
+/lib/libnfsidmap/umich\_ldap.so  
+/usr/share/doc/libnfsidmap  
+/usr/share/doc/libnfsidmap/AUTHORS  
+/usr/share/doc/libnfsidmap/COPYING  
+/usr/share/doc/libnfsidmap/ChangeLog  
+/usr/share/doc/libnfsidmap/NEWS  
+/usr/share/doc/libnfsidmap/README  
+/usr/share/man/man3/nfs4\_uid\_to\_name.3.gz  
+/usr/share/man/man5/idmapd.conf.5.gz  

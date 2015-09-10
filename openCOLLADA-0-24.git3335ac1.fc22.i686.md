@@ -1,0 +1,14 @@
+/usr/lib/libGeneratedSaxParser.so.0.2  
+/usr/lib/libMathMLSolver.so.0.2  
+/usr/lib/libOpenCOLLADABaseUtils.so.0.2  
+/usr/lib/libOpenCOLLADAFramework.so.0.2  
+/usr/lib/libOpenCOLLADASaxFrameworkLoader.so.0.2  
+/usr/lib/libOpenCOLLADAStreamWriter.so.0.2  
+/usr/lib/libUTF.so.0.2  
+/usr/lib/libbuffer.so.0.2  
+/usr/lib/libftoa.so.0.2  
+/usr/share/doc/openCOLLADA  
+/usr/share/doc/openCOLLADA/AUTHORS  
+/usr/share/doc/openCOLLADA/LICENSE  
+/usr/share/doc/openCOLLADA/README  
+/usr/share/doc/openCOLLADA/README.COLLADAStreamWriter  

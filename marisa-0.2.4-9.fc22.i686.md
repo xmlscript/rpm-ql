@@ -1,0 +1,9 @@
+/usr/lib/libmarisa.so.0  
+/usr/lib/libmarisa.so.0.0.0  
+/usr/share/doc/marisa  
+/usr/share/doc/marisa/AUTHORS  
+/usr/share/doc/marisa/COPYING  
+/usr/share/doc/marisa/README  
+/usr/share/doc/marisa/readme.en.html  
+/usr/share/doc/marisa/readme.ja.html  
+/usr/share/doc/marisa/style.css  

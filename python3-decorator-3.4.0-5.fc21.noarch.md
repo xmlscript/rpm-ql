@@ -1,0 +1,13 @@
+/usr/lib/python3.4/site-packages/\_\_pycache\_\_  
+/usr/lib/python3.4/site-packages/\_\_pycache\_\_/decorator.cpython-34.pyc  
+/usr/lib/python3.4/site-packages/\_\_pycache\_\_/decorator.cpython-34.pyo  
+/usr/lib/python3.4/site-packages/decorator-3.4.0-py3.4.egg-info  
+/usr/lib/python3.4/site-packages/decorator-3.4.0-py3.4.egg-info/PKG-INFO  
+/usr/lib/python3.4/site-packages/decorator-3.4.0-py3.4.egg-info/SOURCES.txt  
+/usr/lib/python3.4/site-packages/decorator-3.4.0-py3.4.egg-info/dependency\_links.txt  
+/usr/lib/python3.4/site-packages/decorator-3.4.0-py3.4.egg-info/not-zip-safe  
+/usr/lib/python3.4/site-packages/decorator-3.4.0-py3.4.egg-info/top\_level.txt  
+/usr/lib/python3.4/site-packages/decorator.py  
+/usr/share/doc/python3-decorator  
+/usr/share/doc/python3-decorator/README.txt  
+/usr/share/doc/python3-decorator/documentation3.py  

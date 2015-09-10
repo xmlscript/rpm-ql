@@ -1,0 +1,13 @@
+/usr/lib/libkkc  
+/usr/lib/libkkc/models  
+/usr/lib/libkkc/models/sorted3  
+/usr/lib/libkkc/models/sorted3/data.1gram  
+/usr/lib/libkkc/models/sorted3/data.1gram.index  
+/usr/lib/libkkc/models/sorted3/data.2gram  
+/usr/lib/libkkc/models/sorted3/data.2gram.filter  
+/usr/lib/libkkc/models/sorted3/data.3gram  
+/usr/lib/libkkc/models/sorted3/data.3gram.filter  
+/usr/lib/libkkc/models/sorted3/data.input  
+/usr/lib/libkkc/models/sorted3/metadata.json  
+/usr/share/doc/libkkc-data  
+/usr/share/doc/libkkc-data/COPYING  

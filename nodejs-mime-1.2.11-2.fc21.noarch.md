@@ -1,0 +1,9 @@
+/usr/lib/node\_modules/mime  
+/usr/lib/node\_modules/mime/mime.js  
+/usr/lib/node\_modules/mime/package.json  
+/usr/lib/node\_modules/mime/types  
+/usr/lib/node\_modules/mime/types/mime.types  
+/usr/lib/node\_modules/mime/types/node.types  
+/usr/share/doc/nodejs-mime  
+/usr/share/doc/nodejs-mime/LICENSE  
+/usr/share/doc/nodejs-mime/README.md  

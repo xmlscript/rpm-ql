@@ -1,0 +1,11 @@
+/usr/lib/librols.so.0  
+/usr/lib/librols.so.0.0.1  
+/usr/lib/libusal.so.0  
+/usr/lib/libusal.so.0.0.1  
+/usr/share/doc/libusal  
+/usr/share/doc/libusal/COPYING  
+/usr/share/doc/libusal/Changelog  
+/usr/share/doc/libusal/FAQ  
+/usr/share/doc/libusal/FORK  
+/usr/share/doc/libusal/README.linux  
+/usr/share/doc/libusal/START  

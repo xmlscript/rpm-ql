@@ -1,0 +1,11 @@
+/bin/traceroute  
+/bin/traceroute6  
+/usr/bin/tcptraceroute  
+/usr/share/doc/traceroute  
+/usr/share/doc/traceroute/COPYING  
+/usr/share/doc/traceroute/CREDITS  
+/usr/share/doc/traceroute/README  
+/usr/share/doc/traceroute/TODO  
+/usr/share/man/man8/tcptraceroute.8.gz  
+/usr/share/man/man8/traceroute.8.gz  
+/usr/share/man/man8/traceroute6.8.gz  

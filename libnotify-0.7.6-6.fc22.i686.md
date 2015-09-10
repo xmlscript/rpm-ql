@@ -1,0 +1,9 @@
+/usr/bin/notify-send  
+/usr/lib/girepository-1.0/Notify-0.7.typelib  
+/usr/lib/libnotify.so.4  
+/usr/lib/libnotify.so.4.0.0  
+/usr/share/doc/libnotify  
+/usr/share/doc/libnotify/AUTHORS  
+/usr/share/doc/libnotify/NEWS  
+/usr/share/licenses/libnotify  
+/usr/share/licenses/libnotify/COPYING  

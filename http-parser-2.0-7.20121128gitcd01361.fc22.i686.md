@@ -1,0 +1,9 @@
+/usr/lib/libhttp\_parser.so.2  
+/usr/lib/libhttp\_parser.so.2.0  
+/usr/lib/libhttp\_parser\_strict.so.2  
+/usr/lib/libhttp\_parser\_strict.so.2.0  
+/usr/share/doc/http-parser  
+/usr/share/doc/http-parser/AUTHORS  
+/usr/share/doc/http-parser/CONTRIBUTIONS  
+/usr/share/doc/http-parser/LICENSE-MIT  
+/usr/share/doc/http-parser/README.md  

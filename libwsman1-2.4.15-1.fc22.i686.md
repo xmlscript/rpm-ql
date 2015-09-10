@@ -1,0 +1,12 @@
+/usr/lib/libwsman.so.1  
+/usr/lib/libwsman.so.1.0.0  
+/usr/lib/libwsman\_client.so.2  
+/usr/lib/libwsman\_client.so.2.0.0  
+/usr/lib/libwsman\_curl\_client\_transport.so.1  
+/usr/lib/libwsman\_curl\_client\_transport.so.1.0.0  
+/usr/share/doc/libwsman1  
+/usr/share/doc/libwsman1/AUTHORS  
+/usr/share/doc/libwsman1/COPYING  
+/usr/share/doc/libwsman1/ChangeLog  
+/usr/share/doc/libwsman1/README.md  
+/usr/share/doc/libwsman1/TODO  

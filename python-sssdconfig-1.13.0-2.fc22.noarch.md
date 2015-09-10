@@ -1,0 +1,11 @@
+/usr/lib/python2.7/site-packages/SSSDConfig  
+/usr/lib/python2.7/site-packages/SSSDConfig-1.13.0-py2.7.egg-info  
+/usr/lib/python2.7/site-packages/SSSDConfig/\_\_init\_\_.py  
+/usr/lib/python2.7/site-packages/SSSDConfig/\_\_init\_\_.pyc  
+/usr/lib/python2.7/site-packages/SSSDConfig/\_\_init\_\_.pyo  
+/usr/lib/python2.7/site-packages/SSSDConfig/ipachangeconf.py  
+/usr/lib/python2.7/site-packages/SSSDConfig/ipachangeconf.pyc  
+/usr/lib/python2.7/site-packages/SSSDConfig/ipachangeconf.pyo  
+/usr/lib/python2.7/site-packages/SSSDConfig/sssd\_upgrade\_config.py  
+/usr/lib/python2.7/site-packages/SSSDConfig/sssd\_upgrade\_config.pyc  
+/usr/lib/python2.7/site-packages/SSSDConfig/sssd\_upgrade\_config.pyo  

@@ -1,0 +1,10 @@
+/usr/lib/girepository-1.0/Dbusmenu-0.4.typelib  
+/usr/lib/libdbusmenu-glib.so.4  
+/usr/lib/libdbusmenu-glib.so.4.0.12  
+/usr/share/doc/libdbusmenu  
+/usr/share/doc/libdbusmenu/AUTHORS  
+/usr/share/doc/libdbusmenu/COPYING  
+/usr/share/doc/libdbusmenu/COPYING-GPL3  
+/usr/share/doc/libdbusmenu/COPYING.2.1  
+/usr/share/doc/libdbusmenu/README  
+/usr/share/doc/libdbusmenu/examples  

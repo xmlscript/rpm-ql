@@ -1,0 +1,13 @@
+/usr/lib/node\_modules/sntp  
+/usr/lib/node\_modules/sntp/index.js  
+/usr/lib/node\_modules/sntp/lib  
+/usr/lib/node\_modules/sntp/lib/index.js  
+/usr/lib/node\_modules/sntp/node\_modules  
+/usr/lib/node\_modules/sntp/node\_modules/hoek  
+/usr/lib/node\_modules/sntp/package.json  
+/usr/share/doc/nodejs-sntp  
+/usr/share/doc/nodejs-sntp/LICENSE  
+/usr/share/doc/nodejs-sntp/README.md  
+/usr/share/doc/nodejs-sntp/examples  
+/usr/share/doc/nodejs-sntp/examples/offset.js  
+/usr/share/doc/nodejs-sntp/examples/time.js  

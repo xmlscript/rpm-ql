@@ -1,0 +1,14 @@
+/usr/lib/firmware/iwlwifi-7260-10.ucode  
+/usr/lib/firmware/iwlwifi-7260-12.ucode  
+/usr/lib/firmware/iwlwifi-7260-7.ucode  
+/usr/lib/firmware/iwlwifi-7260-8.ucode  
+/usr/lib/firmware/iwlwifi-7260-9.ucode  
+/usr/lib/firmware/iwlwifi-7265-10.ucode  
+/usr/lib/firmware/iwlwifi-7265-12.ucode  
+/usr/lib/firmware/iwlwifi-7265-8.ucode  
+/usr/lib/firmware/iwlwifi-7265-9.ucode  
+/usr/lib/firmware/iwlwifi-7265D-10.ucode  
+/usr/lib/firmware/iwlwifi-7265D-12.ucode  
+/usr/share/doc/iwl7260-firmware  
+/usr/share/doc/iwl7260-firmware/LICENCE.iwlwifi\_firmware  
+/usr/share/doc/iwl7260-firmware/WHENCE  

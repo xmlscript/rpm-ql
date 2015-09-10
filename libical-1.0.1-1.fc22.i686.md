@@ -1,0 +1,10 @@
+/usr/lib/libical.so.1  
+/usr/lib/libical.so.1.0.1  
+/usr/lib/libicalss.so.1  
+/usr/lib/libicalss.so.1.0.1  
+/usr/lib/libicalvcal.so.1  
+/usr/lib/libicalvcal.so.1.0.1  
+/usr/share/doc/libical  
+/usr/share/doc/libical/LICENSE  
+/usr/share/doc/libical/ReadMe.txt  
+/usr/share/doc/libical/THANKS  

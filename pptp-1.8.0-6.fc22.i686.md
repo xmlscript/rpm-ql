@@ -1,0 +1,16 @@
+/etc/ppp/options.pptp  
+/usr/lib/tmpfiles.d/pptp.conf  
+/usr/sbin/pptp  
+/usr/share/doc/pptp  
+/usr/share/doc/pptp/AUTHORS  
+/usr/share/doc/pptp/COPYING  
+/usr/share/doc/pptp/ChangeLog  
+/usr/share/doc/pptp/DESIGN.PPTP  
+/usr/share/doc/pptp/DEVELOPERS  
+/usr/share/doc/pptp/NEWS  
+/usr/share/doc/pptp/PROTOCOL-SECURITY  
+/usr/share/doc/pptp/README  
+/usr/share/doc/pptp/TODO  
+/usr/share/doc/pptp/USING  
+/usr/share/man/man8/pptp.8.gz  
+/var/run/pptp  

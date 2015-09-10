@@ -1,0 +1,10 @@
+/usr/lib/libgif.so.4  
+/usr/lib/libgif.so.4.1.6  
+/usr/lib/libungif.so.4  
+/usr/lib/libungif.so.4.1.6  
+/usr/share/doc/giflib  
+/usr/share/doc/giflib/AUTHORS  
+/usr/share/doc/giflib/COPYING  
+/usr/share/doc/giflib/ChangeLog  
+/usr/share/doc/giflib/NEWS  
+/usr/share/doc/giflib/README  

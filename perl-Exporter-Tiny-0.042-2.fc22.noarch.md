@@ -1,0 +1,16 @@
+/usr/share/doc/perl-Exporter-Tiny  
+/usr/share/doc/perl-Exporter-Tiny/CONTRIBUTING  
+/usr/share/doc/perl-Exporter-Tiny/CREDITS  
+/usr/share/doc/perl-Exporter-Tiny/Changes  
+/usr/share/doc/perl-Exporter-Tiny/README  
+/usr/share/doc/perl-Exporter-Tiny/examples  
+/usr/share/doc/perl-Exporter-Tiny/examples/Example  
+/usr/share/doc/perl-Exporter-Tiny/examples/Example/Exporter.pm  
+/usr/share/licenses/perl-Exporter-Tiny  
+/usr/share/licenses/perl-Exporter-Tiny/COPYRIGHT  
+/usr/share/licenses/perl-Exporter-Tiny/LICENSE  
+/usr/share/man/man3/Exporter::Shiny.3pm.gz  
+/usr/share/man/man3/Exporter::Tiny.3pm.gz  
+/usr/share/perl5/vendor\_perl/Exporter  
+/usr/share/perl5/vendor\_perl/Exporter/Shiny.pm  
+/usr/share/perl5/vendor\_perl/Exporter/Tiny.pm  

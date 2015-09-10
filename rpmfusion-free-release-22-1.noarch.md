@@ -1,0 +1,13 @@
+/etc/pki/rpm-gpg/RPM-GPG-KEY-rpmfusion-free-fedora  
+/etc/pki/rpm-gpg/RPM-GPG-KEY-rpmfusion-free-fedora-22  
+/etc/pki/rpm-gpg/RPM-GPG-KEY-rpmfusion-free-fedora-22-primary  
+/etc/pki/rpm-gpg/RPM-GPG-KEY-rpmfusion-free-fedora-23  
+/etc/pki/rpm-gpg/RPM-GPG-KEY-rpmfusion-free-fedora-23-primary  
+/etc/pki/rpm-gpg/RPM-GPG-KEY-rpmfusion-free-fedora-24  
+/etc/pki/rpm-gpg/RPM-GPG-KEY-rpmfusion-free-fedora-24-primary  
+/etc/pki/rpm-gpg/RPM-GPG-KEY-rpmfusion-free-fedora-latest  
+/etc/pki/rpm-gpg/RPM-GPG-KEY-rpmfusion-free-fedora-rawhide  
+/etc/yum.repos.d/rpmfusion-free-rawhide.repo  
+/etc/yum.repos.d/rpmfusion-free-updates-testing.repo  
+/etc/yum.repos.d/rpmfusion-free-updates.repo  
+/etc/yum.repos.d/rpmfusion-free.repo  

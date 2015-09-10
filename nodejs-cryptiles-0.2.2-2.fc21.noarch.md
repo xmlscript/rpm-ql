@@ -1,0 +1,10 @@
+/usr/lib/node\_modules/cryptiles  
+/usr/lib/node\_modules/cryptiles/index.js  
+/usr/lib/node\_modules/cryptiles/lib  
+/usr/lib/node\_modules/cryptiles/lib/index.js  
+/usr/lib/node\_modules/cryptiles/node\_modules  
+/usr/lib/node\_modules/cryptiles/node\_modules/boom  
+/usr/lib/node\_modules/cryptiles/package.json  
+/usr/share/doc/nodejs-cryptiles  
+/usr/share/doc/nodejs-cryptiles/LICENSE  
+/usr/share/doc/nodejs-cryptiles/README.md  

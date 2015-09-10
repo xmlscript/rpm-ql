@@ -1,0 +1,10 @@
+/usr/lib/perl5/vendor\_perl/auto/threads  
+/usr/lib/perl5/vendor\_perl/auto/threads/threads.so  
+/usr/lib/perl5/vendor\_perl/threads.pm  
+/usr/share/doc/perl-threads  
+/usr/share/doc/perl-threads/Changes  
+/usr/share/doc/perl-threads/README  
+/usr/share/doc/perl-threads/examples  
+/usr/share/doc/perl-threads/examples/pool.pl  
+/usr/share/doc/perl-threads/examples/pool\_reuse.pl  
+/usr/share/man/man3/threads.3pm.gz  

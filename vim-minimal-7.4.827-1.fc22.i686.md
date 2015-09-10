@@ -1,0 +1,13 @@
+/etc/virc  
+/usr/bin/ex  
+/usr/bin/rvi  
+/usr/bin/rview  
+/usr/bin/vi  
+/usr/bin/view  
+/usr/share/man/man1/ex.1.gz  
+/usr/share/man/man1/rvi.1.gz  
+/usr/share/man/man1/rview.1.gz  
+/usr/share/man/man1/vi.1.gz  
+/usr/share/man/man1/view.1.gz  
+/usr/share/man/man1/vim.1.gz  
+/usr/share/man/man5/virc.5.gz  

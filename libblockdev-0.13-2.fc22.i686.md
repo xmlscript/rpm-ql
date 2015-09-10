@@ -1,0 +1,11 @@
+/usr/lib/girepository-1.0/BlockDev-0.1.typelib  
+/usr/lib/libblockdev.so.0  
+/usr/lib/libblockdev.so.0.1.0  
+/usr/lib/python2.7/site-packages/gi/overrides/BlockDev.py  
+/usr/lib/python2.7/site-packages/gi/overrides/BlockDev.pyc  
+/usr/lib/python2.7/site-packages/gi/overrides/BlockDev.pyo  
+/usr/lib/python3.4/site-packages/gi/overrides/BlockDev.py  
+/usr/lib/python3.4/site-packages/gi/overrides/\_\_pycache\_\_/BlockDev.cpython-34.pyc  
+/usr/lib/python3.4/site-packages/gi/overrides/\_\_pycache\_\_/BlockDev.cpython-34.pyo  
+/usr/share/licenses/libblockdev  
+/usr/share/licenses/libblockdev/LICENSE  

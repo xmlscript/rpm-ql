@@ -1,0 +1,16 @@
+/usr/bin/oodraw  
+/usr/lib/libreoffice/help/en-US/sdraw.cfg  
+/usr/lib/libreoffice/help/en-US/sdraw.db  
+/usr/lib/libreoffice/help/en-US/sdraw.ht  
+/usr/lib/libreoffice/help/en-US/sdraw.idxl  
+/usr/lib/libreoffice/help/en-US/sdraw.idxl/\_0.cfs  
+/usr/lib/libreoffice/help/en-US/sdraw.idxl/segments.gen  
+/usr/lib/libreoffice/help/en-US/sdraw.idxl/segments\_3  
+/usr/lib/libreoffice/help/en-US/sdraw.jar  
+/usr/lib/libreoffice/help/en-US/sdraw.key  
+/usr/lib/libreoffice/program/pagein-draw  
+/usr/lib/libreoffice/program/sdraw  
+/usr/lib/libreoffice/share/registry/draw.xcd  
+/usr/share/appdata/libreoffice-draw.appdata.xml  
+/usr/share/applications/libreoffice-draw.desktop  
+/usr/share/man/man1/oodraw.1.gz  

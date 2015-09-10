@@ -1,0 +1,16 @@
+/usr/share/appdata/lyx.metainfo.xml  
+/usr/share/doc/lyx-fonts  
+/usr/share/doc/lyx-fonts/BaKoMaFontLicense.txt  
+/usr/share/doc/lyx-fonts/ReadmeBaKoMa4LyX.txt  
+/usr/share/fonts/lyx  
+/usr/share/fonts/lyx/cmex10.ttf  
+/usr/share/fonts/lyx/cmmi10.ttf  
+/usr/share/fonts/lyx/cmr10.ttf  
+/usr/share/fonts/lyx/cmsy10.ttf  
+/usr/share/fonts/lyx/esint10.ttf  
+/usr/share/fonts/lyx/eufm10.ttf  
+/usr/share/fonts/lyx/msam10.ttf  
+/usr/share/fonts/lyx/msbm10.ttf  
+/usr/share/fonts/lyx/rsfs10.ttf  
+/usr/share/fonts/lyx/stmary10.ttf  
+/usr/share/fonts/lyx/wasy10.ttf  

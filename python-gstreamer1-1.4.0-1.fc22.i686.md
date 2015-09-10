@@ -1,0 +1,13 @@
+/usr/lib/python2.7/site-packages/gi/overrides/Gst.py  
+/usr/lib/python2.7/site-packages/gi/overrides/Gst.pyc  
+/usr/lib/python2.7/site-packages/gi/overrides/Gst.pyo  
+/usr/lib/python2.7/site-packages/gi/overrides/GstPbutils.py  
+/usr/lib/python2.7/site-packages/gi/overrides/GstPbutils.pyc  
+/usr/lib/python2.7/site-packages/gi/overrides/GstPbutils.pyo  
+/usr/lib/python2.7/site-packages/gi/overrides/\_gi\_gst.so  
+/usr/share/doc/python-gstreamer1  
+/usr/share/doc/python-gstreamer1/AUTHORS  
+/usr/share/doc/python-gstreamer1/COPYING  
+/usr/share/doc/python-gstreamer1/ChangeLog  
+/usr/share/doc/python-gstreamer1/NEWS  
+/usr/share/doc/python-gstreamer1/README  

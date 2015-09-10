@@ -1,0 +1,9 @@
+/usr/lib/node\_modules/npmlog  
+/usr/lib/node\_modules/npmlog/log.js  
+/usr/lib/node\_modules/npmlog/node\_modules  
+/usr/lib/node\_modules/npmlog/node\_modules/ansi  
+/usr/lib/node\_modules/npmlog/package.json  
+/usr/share/doc/nodejs-npmlog  
+/usr/share/doc/nodejs-npmlog/LICENSE  
+/usr/share/doc/nodejs-npmlog/README.md  
+/usr/share/doc/nodejs-npmlog/example.js  

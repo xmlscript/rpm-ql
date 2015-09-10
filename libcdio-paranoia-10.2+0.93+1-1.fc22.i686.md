@@ -1,0 +1,13 @@
+/usr/bin/cd-paranoia  
+/usr/lib/libcdio\_cdda.so.2  
+/usr/lib/libcdio\_cdda.so.2.0.0  
+/usr/lib/libcdio\_paranoia.so.2  
+/usr/lib/libcdio\_paranoia.so.2.0.0  
+/usr/share/doc/libcdio-paranoia  
+/usr/share/doc/libcdio-paranoia/AUTHORS  
+/usr/share/doc/libcdio-paranoia/COPYING  
+/usr/share/doc/libcdio-paranoia/NEWS  
+/usr/share/doc/libcdio-paranoia/README  
+/usr/share/doc/libcdio-paranoia/THANKS  
+/usr/share/man/ja/man1/cd-paranoia.1.gz  
+/usr/share/man/man1/cd-paranoia.1.gz  

@@ -1,0 +1,16 @@
+/usr/bin/tmux  
+/usr/share/doc/tmux  
+/usr/share/doc/tmux/CHANGES  
+/usr/share/doc/tmux/FAQ  
+/usr/share/doc/tmux/TODO  
+/usr/share/doc/tmux/examples  
+/usr/share/doc/tmux/examples/bash\_completion\_tmux.sh  
+/usr/share/doc/tmux/examples/h-boetes.conf  
+/usr/share/doc/tmux/examples/n-marriott.conf  
+/usr/share/doc/tmux/examples/screen-keys.conf  
+/usr/share/doc/tmux/examples/t-williams.conf  
+/usr/share/doc/tmux/examples/tmux.vim  
+/usr/share/doc/tmux/examples/tmux\_backup.sh  
+/usr/share/doc/tmux/examples/vim-keys.conf  
+/usr/share/doc/tmux/examples/xterm-keys.vim  
+/usr/share/man/man1/tmux.1.gz  

@@ -1,0 +1,12 @@
+/usr/lib/libgiomm-2.4.so.1  
+/usr/lib/libgiomm-2.4.so.1.3.0  
+/usr/lib/libglibmm-2.4.so.1  
+/usr/lib/libglibmm-2.4.so.1.3.0  
+/usr/lib/libglibmm\_generate\_extra\_defs-2.4.so.1  
+/usr/lib/libglibmm\_generate\_extra\_defs-2.4.so.1.3.0  
+/usr/share/doc/glibmm24  
+/usr/share/doc/glibmm24/AUTHORS  
+/usr/share/doc/glibmm24/NEWS  
+/usr/share/doc/glibmm24/README  
+/usr/share/licenses/glibmm24  
+/usr/share/licenses/glibmm24/COPYING  

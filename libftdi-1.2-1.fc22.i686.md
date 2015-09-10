@@ -1,0 +1,9 @@
+/lib/udev/rules.d/69-libftdi.rules  
+/usr/lib/libftdi1.so.2  
+/usr/lib/libftdi1.so.2.2.0  
+/usr/share/doc/libftdi  
+/usr/share/doc/libftdi/AUTHORS  
+/usr/share/doc/libftdi/ChangeLog  
+/usr/share/doc/libftdi/README  
+/usr/share/licenses/libftdi  
+/usr/share/licenses/libftdi/COPYING.LIB  

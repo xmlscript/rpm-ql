@@ -1,0 +1,11 @@
+/usr/lib/librevenge-0.0.so.0  
+/usr/lib/librevenge-0.0.so.0.0.2  
+/usr/lib/librevenge-generators-0.0.so.0  
+/usr/lib/librevenge-generators-0.0.so.0.0.2  
+/usr/lib/librevenge-stream-0.0.so.0  
+/usr/lib/librevenge-stream-0.0.so.0.0.2  
+/usr/share/doc/librevenge  
+/usr/share/doc/librevenge/COPYING.LGPL  
+/usr/share/doc/librevenge/COPYING.MPL  
+/usr/share/doc/librevenge/NEWS  
+/usr/share/doc/librevenge/README  

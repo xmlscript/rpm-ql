@@ -1,0 +1,14 @@
+/etc/crypto-policies  
+/etc/crypto-policies/config  
+/usr/bin/update-crypto-policies  
+/usr/share/crypto-policies  
+/usr/share/crypto-policies/profiles  
+/usr/share/crypto-policies/profiles/DEFAULT-F21.settings  
+/usr/share/crypto-policies/profiles/DEFAULT.settings  
+/usr/share/crypto-policies/profiles/FUTURE-F21.settings  
+/usr/share/crypto-policies/profiles/FUTURE.settings  
+/usr/share/crypto-policies/profiles/LEGACY-F21.settings  
+/usr/share/crypto-policies/profiles/LEGACY.settings  
+/usr/share/licenses/crypto-policies  
+/usr/share/licenses/crypto-policies/COPYING.LESSER  
+/usr/share/man/man8/update-crypto-policies.8.gz  

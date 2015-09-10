@@ -1,0 +1,12 @@
+/usr/lib/perl5/vendor\_perl/Sub  
+/usr/lib/perl5/vendor\_perl/Sub/Name.pm  
+/usr/lib/perl5/vendor\_perl/auto/Sub  
+/usr/lib/perl5/vendor\_perl/auto/Sub/Name  
+/usr/lib/perl5/vendor\_perl/auto/Sub/Name/Name.so  
+/usr/share/doc/perl-Sub-Name  
+/usr/share/doc/perl-Sub-Name/CONTRIBUTING  
+/usr/share/doc/perl-Sub-Name/Changes  
+/usr/share/doc/perl-Sub-Name/README  
+/usr/share/licenses/perl-Sub-Name  
+/usr/share/licenses/perl-Sub-Name/LICENSE  
+/usr/share/man/man3/Sub::Name.3pm.gz  

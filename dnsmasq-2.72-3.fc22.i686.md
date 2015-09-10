@@ -1,0 +1,15 @@
+/etc/dbus-1/system.d/dnsmasq.conf  
+/etc/dnsmasq.conf  
+/etc/dnsmasq.d  
+/usr/lib/systemd/system/dnsmasq.service  
+/usr/sbin/dnsmasq  
+/usr/share/doc/dnsmasq  
+/usr/share/doc/dnsmasq/CHANGELOG  
+/usr/share/doc/dnsmasq/COPYING  
+/usr/share/doc/dnsmasq/COPYING-v3  
+/usr/share/doc/dnsmasq/DBus-interface  
+/usr/share/doc/dnsmasq/FAQ  
+/usr/share/doc/dnsmasq/doc.html  
+/usr/share/doc/dnsmasq/setup.html  
+/usr/share/man/man8/dnsmasq.8.gz  
+/var/lib/dnsmasq  

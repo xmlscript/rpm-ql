@@ -1,0 +1,14 @@
+/usr/share/backgrounds/f22  
+/usr/share/backgrounds/f22/default  
+/usr/share/backgrounds/f22/default/f22.xml  
+/usr/share/backgrounds/f22/default/normalish  
+/usr/share/backgrounds/f22/default/normalish/f22.png  
+/usr/share/backgrounds/f22/default/standard  
+/usr/share/backgrounds/f22/default/standard/f22.png  
+/usr/share/backgrounds/f22/default/tv-wide  
+/usr/share/backgrounds/f22/default/tv-wide/f22.png  
+/usr/share/backgrounds/f22/default/wide  
+/usr/share/backgrounds/f22/default/wide/f22.png  
+/usr/share/doc/f22-backgrounds-base  
+/usr/share/doc/f22-backgrounds-base/Attribution  
+/usr/share/doc/f22-backgrounds-base/CC-BY-SA-3.0  

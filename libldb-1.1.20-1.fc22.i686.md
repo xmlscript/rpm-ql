@@ -1,0 +1,14 @@
+/usr/lib/ldb  
+/usr/lib/ldb/modules  
+/usr/lib/ldb/modules/ldb  
+/usr/lib/ldb/modules/ldb/asq.so  
+/usr/lib/ldb/modules/ldb/ldap.so  
+/usr/lib/ldb/modules/ldb/paged\_results.so  
+/usr/lib/ldb/modules/ldb/paged\_searches.so  
+/usr/lib/ldb/modules/ldb/rdn\_name.so  
+/usr/lib/ldb/modules/ldb/sample.so  
+/usr/lib/ldb/modules/ldb/server\_sort.so  
+/usr/lib/ldb/modules/ldb/skel.so  
+/usr/lib/ldb/modules/ldb/tdb.so  
+/usr/lib/libldb.so.1  
+/usr/lib/libldb.so.1.1.20  

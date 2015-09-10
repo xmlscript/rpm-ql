@@ -1,0 +1,17 @@
+/usr/lib/dri/dummy\_drv\_video.so  
+/usr/lib/libva-drm.so.1  
+/usr/lib/libva-drm.so.1.3700.0  
+/usr/lib/libva-egl.so.1  
+/usr/lib/libva-egl.so.1.3700.0  
+/usr/lib/libva-glx.so.1  
+/usr/lib/libva-glx.so.1.3700.0  
+/usr/lib/libva-tpi.so.1  
+/usr/lib/libva-tpi.so.1.3700.0  
+/usr/lib/libva-wayland.so.1  
+/usr/lib/libva-wayland.so.1.3700.0  
+/usr/lib/libva-x11.so.1  
+/usr/lib/libva-x11.so.1.3700.0  
+/usr/lib/libva.so.1  
+/usr/lib/libva.so.1.3700.0  
+/usr/share/doc/libva  
+/usr/share/doc/libva/COPYING  

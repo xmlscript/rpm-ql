@@ -1,0 +1,11 @@
+/usr/bin/cddb\_query  
+/usr/lib/libcddb.so.2  
+/usr/lib/libcddb.so.2.2.3  
+/usr/share/doc/libcddb  
+/usr/share/doc/libcddb/AUTHORS  
+/usr/share/doc/libcddb/COPYING  
+/usr/share/doc/libcddb/ChangeLog  
+/usr/share/doc/libcddb/NEWS  
+/usr/share/doc/libcddb/README  
+/usr/share/doc/libcddb/THANKS  
+/usr/share/doc/libcddb/TODO  

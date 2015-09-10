@@ -1,0 +1,9 @@
+/usr/bin/exempi  
+/usr/lib/libexempi.so.3  
+/usr/lib/libexempi.so.3.2.3  
+/usr/share/doc/exempi  
+/usr/share/doc/exempi/AUTHORS  
+/usr/share/doc/exempi/COPYING  
+/usr/share/doc/exempi/ChangeLog  
+/usr/share/doc/exempi/README  
+/usr/share/man/man1/exempi.1.gz  

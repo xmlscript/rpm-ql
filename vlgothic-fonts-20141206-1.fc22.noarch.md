@@ -1,0 +1,14 @@
+/etc/fonts/conf.d/65-1-vlgothic-gothic.conf  
+/usr/share/appdata/vlgothic.metainfo.xml  
+/usr/share/doc/vlgothic-fonts  
+/usr/share/doc/vlgothic-fonts/LICENSE  
+/usr/share/doc/vlgothic-fonts/LICENSE.en  
+/usr/share/doc/vlgothic-fonts/LICENSE\_E.mplus  
+/usr/share/doc/vlgothic-fonts/LICENSE\_J.mplus  
+/usr/share/doc/vlgothic-fonts/README  
+/usr/share/doc/vlgothic-fonts/README.sazanami  
+/usr/share/doc/vlgothic-fonts/README\_E.mplus  
+/usr/share/doc/vlgothic-fonts/README\_J.mplus  
+/usr/share/fontconfig/conf.avail/65-1-vlgothic-gothic.conf  
+/usr/share/fonts/vlgothic  
+/usr/share/fonts/vlgothic/VL-Gothic-Regular.ttf  

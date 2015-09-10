@@ -1,0 +1,11 @@
+/etc/abrt  
+/etc/abrt/abrt.conf  
+/etc/abrt/plugins  
+/usr/lib/libabrt.so.0  
+/usr/lib/libabrt.so.0.0.1  
+/usr/share/abrt  
+/usr/share/abrt/conf.d  
+/usr/share/abrt/conf.d/abrt.conf  
+/usr/share/abrt/conf.d/plugins  
+/usr/share/augeas/lenses/abrt.aug  
+/usr/share/man/man5/abrt.conf.5.gz  

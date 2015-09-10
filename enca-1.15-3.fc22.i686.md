@@ -1,0 +1,13 @@
+/usr/bin/enca  
+/usr/bin/enconv  
+/usr/lib/libenca.so.0  
+/usr/lib/libenca.so.0.5.1  
+/usr/share/doc/enca  
+/usr/share/doc/enca/AUTHORS  
+/usr/share/doc/enca/COPYING  
+/usr/share/doc/enca/FAQ  
+/usr/share/doc/enca/README  
+/usr/share/doc/enca/THANKS  
+/usr/share/doc/enca/TODO  
+/usr/share/man/man1/enca.1.gz  
+/usr/share/man/man1/enconv.1.gz  

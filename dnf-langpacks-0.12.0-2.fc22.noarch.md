@@ -1,0 +1,15 @@
+/etc/dnf/plugins/langpacks.conf  
+/usr/lib/python2.7/site-packages/dnf-plugins/langpacks.py  
+/usr/lib/python2.7/site-packages/dnf-plugins/langpacks.pyc  
+/usr/lib/python2.7/site-packages/dnf-plugins/langpacks.pyo  
+/usr/lib/python2.7/site-packages/dnf\_langpacks-0.12.0-py2.7.egg-info  
+/usr/lib/python2.7/site-packages/dnf\_langpacks-0.12.0-py2.7.egg-info/PKG-INFO  
+/usr/lib/python2.7/site-packages/dnf\_langpacks-0.12.0-py2.7.egg-info/SOURCES.txt  
+/usr/lib/python2.7/site-packages/dnf\_langpacks-0.12.0-py2.7.egg-info/dependency\_links.txt  
+/usr/lib/python2.7/site-packages/dnf\_langpacks-0.12.0-py2.7.egg-info/top\_level.txt  
+/usr/share/doc/dnf-langpacks  
+/usr/share/doc/dnf-langpacks/NEWS  
+/usr/share/doc/dnf-langpacks/README.md  
+/usr/share/licenses/dnf-langpacks  
+/usr/share/licenses/dnf-langpacks/LICENSE  
+/usr/share/man/man8/dnf.plugin.langpacks.8.gz  

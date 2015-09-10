@@ -1,0 +1,10 @@
+/usr/lib/libpkcs11-helper.so.1  
+/usr/lib/libpkcs11-helper.so.1.0.0  
+/usr/share/doc/pkcs11-helper  
+/usr/share/doc/pkcs11-helper/AUTHORS  
+/usr/share/doc/pkcs11-helper/COPYING  
+/usr/share/doc/pkcs11-helper/COPYING.BSD  
+/usr/share/doc/pkcs11-helper/COPYING.GPL  
+/usr/share/doc/pkcs11-helper/ChangeLog  
+/usr/share/doc/pkcs11-helper/README  
+/usr/share/doc/pkcs11-helper/THANKS  
